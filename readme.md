@@ -15,10 +15,10 @@ Ref: http://spaceappschallenge.org/challenge/preliminary-design-open-data-api/
 follow the event
 -----
 
-* @intlspaceapps : https://twitter.com/intent/follow?screen_name=themattharris
+* [@intlspaceapps](https://twitter.com/intent/follow?screen_name=themattharris)
 * http://www.ustream.tv/spaceappsglobal
 * http://twitter.com/#!/search/%40spaceapps_sanfrancisco
 
 with thanks to
 -----
-* @nasa : https://twitter.com/intent/follow?screen_name=nasa
+* [@nasa](https://twitter.com/intent/follow?screen_name=nasa)
