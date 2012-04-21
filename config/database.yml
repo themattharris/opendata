@@ -1,0 +1,28 @@
+common: &common
+  adapter: mysql
+  encoding: utf8
+  port: 3306
+
+local: &local
+  <<: *common
+  reconnect: false
+  pool: 5
+  username: root
+  password:
+  socket: /tmp/mysql.sock
+
+
+development:
+  database: opendata_development
+  <<: *local
+
+# Warning: The database defined as "test" will be erased and
+# re-generated from your development database when you run "rake".
+# Do not set this db to the same as development or production.
+test:
+  database: opendata_test
+  <<: *local
+
+production:
+  database: opendata_production
+  <<: *local

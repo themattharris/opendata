@@ -1,0 +1,44 @@
+<h1>Listing data_sources</h1>
+
+<table>
+  <tr>
+    <th>Remote</th>
+    <th>Slug</th>
+    <th>Url</th>
+    <th>Title</th>
+    <th>Content</th>
+    <th>More info url</th>
+    <th>Acronym</th>
+    <th>Datagov</th>
+    <th>Curator person name</th>
+    <th>Curator person email</th>
+    <th>Curator url</th>
+    <th>Curator center</th>
+    <th>Curator org name</th>
+  </tr>
+
+<% @data_sources.each do |data_source| %>
+  <tr>
+    <td><%=h data_source.remote_id %></td>
+    <td><%=h data_source.slug %></td>
+    <td><%=h data_source.url %></td>
+    <td><%=h data_source.title %></td>
+    <td><%=h data_source.content %></td>
+    <td><%=h data_source.more_info_url %></td>
+    <td><%=h data_source.acronym %></td>
+    <td><%=h data_source.datagov_id %></td>
+    <td><%=h data_source.curator_person_name %></td>
+    <td><%=h data_source.curator_person_email %></td>
+    <td><%=h data_source.curator_url %></td>
+    <td><%=h data_source.curator_center %></td>
+    <td><%=h data_source.curator_org_name %></td>
+    <td><%= link_to 'Show', data_source %></td>
+    <td><%= link_to 'Edit', edit_data_source_path(data_source) %></td>
+    <td><%= link_to 'Destroy', data_source, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New data_source', new_data_source_path %>
