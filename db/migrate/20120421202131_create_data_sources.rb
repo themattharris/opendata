@@ -6,7 +6,7 @@ class CreateDataSources < ActiveRecord::Migration
       t.string :url
       t.string :title
       t.text :content
-      t.string :more_info_url
+      t.string :more_info_link
       t.string :acronym
       t.string :datagov_id
       t.string :curator_person_name

@@ -12,20 +12,18 @@
 ActiveRecord::Schema.define(:version => 20120421203955) do
 
   create_table "categories", :force => true do |t|
-    t.string   "slug"
-    t.string   "title"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.string "slug"
+    t.string "title"
   end
 
   create_table "data_source_categories", :force => true do |t|
     t.integer "data_source_id"
-    t.integer "category_id"
+    t.string  "category_id"
   end
 
   create_table "data_source_tags", :force => true do |t|
     t.integer "data_source_id"
-    t.integer "tag_id"
+    t.string  "tag_id"
   end
 
   create_table "data_sources", :force => true do |t|
@@ -34,7 +32,7 @@ ActiveRecord::Schema.define(:version => 20120421203955) do
     t.string   "url"
     t.string   "title"
     t.text     "content"
-    t.string   "more_info_url"
+    t.string   "more_info_link"
     t.string   "acronym"
     t.string   "datagov_id"
     t.string   "curator_person_name"
@@ -47,10 +45,8 @@ ActiveRecord::Schema.define(:version => 20120421203955) do
   end
 
   create_table "tags", :force => true do |t|
-    t.string   "slug"
-    t.string   "title"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.string "slug"
+    t.string "title"
   end
 
 end
