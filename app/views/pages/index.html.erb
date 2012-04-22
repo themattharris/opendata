@@ -5,7 +5,7 @@
     </div>
 
     <div class="row">
-      <%= render(:partial => '/tags/teaser') if has_tags? %>
-      <%= render(:partial => '/categories/teaser') if has_categories? %>
-      <%= render(:partial => '/curators/teaser') if has_curators? %>
+      <%= render(:partial => '/tags/teaser') if @tags.count > 0 %>
+      <%= render(:partial => '/categories/teaser') if @categories.count > 0 %>
+      <%= render(:partial => '/curators/teaser') if @curators.count > 0 %>
     </div>

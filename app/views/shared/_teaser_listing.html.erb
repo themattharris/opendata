@@ -1,0 +1,5 @@
+<div class="well">
+<% things.each do |i| %>
+<%= content_tag(:span, h(i.title), :class => "label #{random_label_variant}") %>
+<% end %>
+</div>
