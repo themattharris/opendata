@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<%= render :partial => "shared/header" %>
+
+  <body>
+
+<%= render :partial => "shared/navigation" %>
+
+    <div class="container">
+
+      <%= yield %>
+
+      <hr>
+<%= render :partial => "shared/footer" %>
+    </div> <!-- /container -->
+<%= render :partial => "shared/bootstrap_assets" %>
+
+  </body>
+</html>

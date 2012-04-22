@@ -1,0 +1,14 @@
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <span class="brand">Open Data</span>
+          <div class="nav-collapse">
+            <ul class="nav">
+              <%= possibly_active_li(:controller => 'pages', :action => 'index') %><%= link_to "Home", root_url %></li>
+              <%= possibly_active_li(:controller => 'pages', :action => 'about') %><%= link_to "About", about_url %></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
