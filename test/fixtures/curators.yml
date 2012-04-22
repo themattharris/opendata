@@ -1,0 +1,244 @@
+--- 
+curators_027: 
+  org: CEOS International Directory Network
+  url: "http://idn.ceos.org "
+  updated_at: 2012-04-22 20:27:14
+  person_name: Lola Olsen
+  person_email: lola.m.olsen@nasa.gov
+  id: "27"
+  center: Goddard Space Flight Center
+  created_at: 2012-04-22 20:27:14
+curators_026: 
+  org: EOS Project Science Office
+  url: 
+  updated_at: 2012-04-22 20:27:13
+  person_name: 
+  person_email: 
+  id: "26"
+  center: Goddard Space Flight Center
+  created_at: 2012-04-22 20:27:13
+curators_025: 
+  org: Goddard Earth Sciences Data and Information Services Center
+  url: 
+  updated_at: 2012-04-22 20:27:13
+  person_name: 
+  person_email: 
+  id: "25"
+  center: Goddard Space Flight Center
+  created_at: 2012-04-22 20:27:13
+curators_024: 
+  org: Science and Technical Information Program
+  url: 
+  updated_at: 2012-04-22 20:27:12
+  person_name: Gerald Steeman
+  person_email: gerald.steeman@nasa.gov
+  id: "24"
+  center: NASA Headquarters
+  created_at: 2012-04-22 20:27:12
+curators_023: 
+  org: Scientific and Technical Information
+  url: 
+  updated_at: 2012-04-22 20:27:12
+  person_name: Gerald Steeman
+  person_email: gerald.steeman@nasa.gov
+  id: "23"
+  center: NASA Headquarters
+  created_at: 2012-04-22 20:27:12
+curators_022: 
+  org: TES Project Team
+  url: 
+  updated_at: 2012-04-22 20:27:11
+  person_name: Scott Gluck
+  person_email: Scott.Gluck@jpl.nasa.gov
+  id: "22"
+  center: Jet Propulsion Laboratory
+  created_at: 2012-04-22 20:27:11
+curators_021: 
+  org: Earth Science Communications Team
+  url: 
+  updated_at: 2012-04-22 20:27:11
+  person_name: 
+  person_email: 
+  id: "21"
+  center: Jet Propulsion Laboratory
+  created_at: 2012-04-22 20:27:11
+curators_020: 
+  org: JSC Learning Technologies Team
+  url: http://prime.jsc.nasa.gov/
+  updated_at: 2012-04-22 20:27:11
+  person_name: Stephanie Smith
+  person_email: 
+  id: "20"
+  center: Johnson Space Center
+  created_at: 2012-04-22 20:27:11
+curators_019: 
+  org: Applied Sciences Program
+  url: 
+  updated_at: 2012-04-22 20:27:11
+  person_name: Paul Stackhouse
+  person_email: "paul.w.stackhouse@nasa.gov "
+  id: "19"
+  center: Langley Research Center
+  created_at: 2012-04-22 20:27:11
+curators_018: 
+  org: Atmospheric Science Data Center
+  url: 
+  updated_at: 2012-04-22 20:27:10
+  person_name: 
+  person_email: 
+  id: "18"
+  center: Langley Research Center
+  created_at: 2012-04-22 20:27:10
+curators_017: 
+  org: Global Hydrology and Climate Center
+  url: 
+  updated_at: 2012-04-22 20:27:10
+  person_name: Michael Goodman
+  person_email: michael.goodman@nasa.gov
+  id: "17"
+  center: Marshall Space Flight Center
+  created_at: 2012-04-22 20:27:10
+curators_016: 
+  org: 
+  url: 
+  updated_at: 2012-04-22 20:27:10
+  person_name: Craig Peterson
+  person_email: 
+  id: "16"
+  center: Stennis Space Center
+  created_at: 2012-04-22 20:27:10
+curators_015: 
+  org: "Navigation and Ancillary Information Facility "
+  url: 
+  updated_at: 2012-04-22 20:27:10
+  person_name: Charles Acton
+  person_email: charles.acton@jpl.nasa.gov
+  id: "15"
+  center: Jet Propulsion Laboratory
+  created_at: 2012-04-22 20:27:10
+curators_014: 
+  org: Materials Engineering Branch, Code 541
+  url: http://code541.gsfc.nasa.gov/
+  updated_at: 2012-04-22 20:27:10
+  person_name: Mike Viens
+  person_email: michael.j.viens@nasa.gov
+  id: "14"
+  center: Goddard Space Flight Center
+  created_at: 2012-04-22 20:27:10
+curators_013: 
+  org: nssc-contactcenter@nasa.gov
+  url: 
+  updated_at: 2012-04-22 20:27:09
+  person_name: 
+  person_email: 
+  id: "13"
+  center: NASA Shared Services Center
+  created_at: 2012-04-22 20:27:09
+curators_012: 
+  org: SERVIR Coordinating Office Team
+  url: http://www.servirglobal.net/en/About/SERVIRTeam/CoordinationOfficeTeam.aspx
+  updated_at: 2012-04-22 20:27:09
+  person_name: 
+  person_email: 
+  id: "12"
+  center: Marshall Space Flight Center
+  created_at: 2012-04-22 20:27:09
+curators_011: 
+  org: Arizona State University
+  url: 
+  updated_at: 2012-04-22 20:27:09
+  person_name: 
+  person_email: 
+  id: "11"
+  center: Jet Propulsion Laboratory
+  created_at: 2012-04-22 20:27:09
+curators_010: 
+  org: USGS Astrogeology Science Center
+  url: http://astrogeology.usgs.gov/
+  updated_at: 2012-04-22 20:27:09
+  person_name: 
+  person_email: 
+  id: "10"
+  center: Non-NASA Facility
+  created_at: 2012-04-22 20:27:09
+curators_009: 
+  org: Lunar and Planetary Institute
+  url: http://lpi.usra.edu
+  updated_at: 2012-04-22 20:27:08
+  person_name: Robert Herrick
+  person_email: herrick@lpi.usra.edu
+  id: "9"
+  center: Johnson Space Center
+  created_at: 2012-04-22 20:27:08
+curators_008: 
+  org: Astromaterials Acquisition & Curation Office
+  url: http://curator.nasa.gov
+  updated_at: 2012-04-22 20:27:08
+  person_name: Charles Meyer
+  person_email: charles.meyer-1@nasa.gov
+  id: "8"
+  center: Johnson Space Center
+  created_at: 2012-04-22 20:27:08
+curators_007: 
+  org: Astromaterials Acquisition & Curation Office
+  url: http://curator.nasa.gov
+  updated_at: 2012-04-22 20:27:08
+  person_name: Nancy Todd
+  person_email: nancy.s.todd@nasa.gov
+  id: "7"
+  center: Jet Propulsion Laboratory
+  created_at: 2012-04-22 20:27:08
+curators_006: 
+  org: 
+  url: 
+  updated_at: 2012-04-22 20:27:08
+  person_name: Manson Yew
+  person_email: Manson.Yew@jpl.nasa.gov
+  id: "6"
+  center: Jet Propulsion Laboratory
+  created_at: 2012-04-22 20:27:08
+curators_005: 
+  org: FOIA
+  url: http://www.hq.nasa.gov/pao/FOIA/index.htm
+  updated_at: 2012-04-22 20:27:08
+  person_name: Miriam Brown-Lam
+  person_email: miriam.brown-lam@nasa.gov
+  id: "5"
+  center: NASA Headquarters
+  created_at: 2012-04-22 20:27:08
+curators_004: 
+  org: Laboratory for Atmospheres
+  url: http://atmospheres.gsfc.nasa.gov/
+  updated_at: 2012-04-22 20:27:08
+  person_name: 
+  person_email: 
+  id: "4"
+  center: Goddard Space Flight Center
+  created_at: 2012-04-22 20:27:08
+curators_003: 
+  org: NASA History Office
+  url: http://history.nasa.gov/
+  updated_at: 2012-04-22 20:27:08
+  person_name: Steve Garber
+  person_email: 
+  id: "3"
+  center: NASA Headquarters
+  created_at: 2012-04-22 20:27:08
+curators_002: 
+  org: 
+  url: 
+  updated_at: 2012-04-22 20:27:08
+  person_name: 
+  person_email: 
+  id: "2"
+  center: Goddard Space Flight Center
+  created_at: 2012-04-22 20:27:08
+curators_001: 
+  org: 
+  url: http://www.nasa.gov/mission_pages/kepler/main/index.html
+  updated_at: 2012-04-22 20:26:02
+  person_name: 
+  person_email: 
+  id: "1"
+  center: Ames Research Center
+  created_at: 2012-04-22 20:26:02
