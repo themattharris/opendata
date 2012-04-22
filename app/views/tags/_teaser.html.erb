@@ -2,5 +2,5 @@
     <div class="span4">
       <h2>Tags</h2>
       <%= render :partial => "shared/teaser_listing", :locals => { :things => @tags } %>
-      <p><a class="btn" href="#">Tag index &raquo;</a></p>
+      <p><%= link_to "Tag Index &raquo;", tags_path, :class => "btn" %> <% %></p>
     </div>
