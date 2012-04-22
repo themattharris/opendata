@@ -1,0 +1,28 @@
+<h1>Listing curators</h1>
+
+<table>
+  <tr>
+    <th>Person name</th>
+    <th>Person email</th>
+    <th>Url</th>
+    <th>Center</th>
+    <th>Org</th>
+  </tr>
+
+<% @curators.each do |curator| %>
+  <tr>
+    <td><%=h curator.person_name %></td>
+    <td><%=h curator.person_email %></td>
+    <td><%=h curator.url %></td>
+    <td><%=h curator.center %></td>
+    <td><%=h curator.org %></td>
+    <td><%= link_to 'Show', curator %></td>
+    <td><%= link_to 'Edit', edit_curator_path(curator) %></td>
+    <td><%= link_to 'Destroy', curator, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New curator', new_curator_path %>

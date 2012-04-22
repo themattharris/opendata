@@ -19,6 +19,7 @@ class Sync::DataNasaController < Sync::SyncController
         new_ds[:categories] = DataNasaHelper.extract_categories_hash(ds).map do |c|
           Category.find_or_create_by_slug(c)
         end
+        new_ds[:curators] = [Curator.find_or_create_by_org_and_center(DataNasaHelper.extract_curator_hash(ds))]
 
         d = DataSource.find_or_create_by_remote_id(new_ds)
         d.update_attributes(new_ds)

@@ -1,5 +1,6 @@
-<div class="well">
-<% things.each do |i| %>
-<%= content_tag(:span, h(i.title), :class => "label #{random_label_variant}") %>
-<% end %>
-</div>
+
+    <div class="well">
+    <% things.each do |i| %>
+    <%= content_tag(:span, truncate(h(i.to_s), :length => 55, :omission => '...'), :class => "label #{random_label_variant}") %>
+    <% end %>
+    </div>

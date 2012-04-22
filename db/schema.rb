@@ -9,16 +9,31 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120421203955) do
+ActiveRecord::Schema.define(:version => 20120422230237) do
 
   create_table "categories", :force => true do |t|
     t.string "slug"
     t.string "title"
   end
 
+  create_table "curators", :force => true do |t|
+    t.string   "person_name"
+    t.string   "person_email"
+    t.string   "url"
+    t.string   "org"
+    t.string   "center"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "data_source_categories", :force => true do |t|
     t.integer "data_source_id"
     t.string  "category_id"
+  end
+
+  create_table "data_source_curators", :force => true do |t|
+    t.integer "data_source_id"
+    t.string  "curator_id"
   end
 
   create_table "data_source_tags", :force => true do |t|
@@ -35,11 +50,6 @@ ActiveRecord::Schema.define(:version => 20120421203955) do
     t.string   "more_info_link"
     t.string   "acronym"
     t.string   "datagov_id"
-    t.string   "curator_person_name"
-    t.string   "curator_person_email"
-    t.string   "curator_url"
-    t.string   "curator_center"
-    t.string   "curator_org_name"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

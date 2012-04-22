@@ -3,7 +3,7 @@ module DataNasaHelper
 
   API_DATA_URL = 'http://data.nasa.gov/api'.freeze
 
-  MAPPINGS = {
+  POST_MAPPINGS = {
     'modified' => 'updated_at',
     'title_plain' => 'title',
     'excerpt' => nil,
@@ -16,6 +16,20 @@ module DataNasaHelper
     'title' => nil,
     'tags' => nil,
     'categories' => nil,
+  }.freeze
+
+  CUSTOM_FIELD_MAPPINGS = {
+    'acronym' => 'acronym',
+    'more_info_link' => 'more_info_link',
+    'datagov_id' => 'datagov_id'
+  }.freeze
+
+  CURATOR_MAPPINGS = {
+    'curator_person_name' => 'person_name',
+    'curator_person_email' => 'person_email',
+    'curator_url' => 'url',
+    'curator_center' => 'center',
+    'curator_org_name' => 'org'
   }.freeze
 
   class << self
@@ -42,12 +56,14 @@ module DataNasaHelper
     end
 
     def to_data_source_hash(post)
-      p = Hash[post.map {|k, v| [MAPPINGS[k.to_s].to_sym, v] unless MAPPINGS[k.to_s].nil? }]
+      p = Hash[post.map {|k, v| [POST_MAPPINGS[k.to_s].to_sym, v] unless POST_MAPPINGS[k.to_s].nil? || v.to_s.empty? }]
       p[:title] = HttpHelper.extract_text_from_html p[:title]
       p[:content] = HttpHelper.extract_text_from_html p[:content]
 
+      cf = Hash[post['custom_fields'].map {|k, v| [CUSTOM_FIELD_MAPPINGS[k.to_s].to_sym, v] unless !CUSTOM_FIELD_MAPPINGS.include?(k.to_s) || CUSTOM_FIELD_MAPPINGS[k.to_s].nil? || v.to_s.empty? }]
+
       # convert custom_fields to top level items
-      p.merge!(Hash[post['custom_fields'].map {|k, v| [k.to_sym, v.first] }])
+      p.merge!(cf)
     end
 
     def extract_tags_hash(post)
@@ -64,6 +80,10 @@ module DataNasaHelper
         categories << { :slug => t['slug'], :title => t['title'] }
       end
       categories
+    end
+
+    def extract_curator_hash(post)
+      Hash[post['custom_fields'].map {|k, v| [CURATOR_MAPPINGS[k.to_s].to_sym, v.to_s] unless !CURATOR_MAPPINGS.include?(k.to_s) || v.to_s.empty? }]
     end
 
   end
