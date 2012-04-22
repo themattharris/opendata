@@ -1,0 +1,37 @@
+--- 
+categories_009: 
+  title: Aeronautics
+  slug: aeronautics
+  id: "9"
+categories_008: 
+  title: Life Science
+  slug: life-science
+  id: "8"
+categories_007: 
+  title: Engineering
+  slug: engineering
+  id: "7"
+categories_006: 
+  title: Operations
+  slug: operations
+  id: "6"
+categories_005: 
+  title: Institutional
+  slug: institutional
+  id: "5"
+categories_004: 
+  title: Earth Science
+  slug: earth-science
+  id: "4"
+categories_003: 
+  title: Climate
+  slug: climate
+  id: "3"
+categories_002: 
+  title: Catalog
+  slug: catalog
+  id: "2"
+categories_001: 
+  title: Space Science
+  slug: space-science
+  id: "1"

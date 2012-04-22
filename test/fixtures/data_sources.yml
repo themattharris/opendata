@@ -1,0 +1,1875 @@
+--- 
+data_sources_087: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "345"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: |
+    <p>Astrophysical Gravitational Wave Sources Archive</p>
+
+  curator_person_email: 
+  title: AstroGravs
+  slug: astrogravs
+  id: "87"
+  curator_org_name: 
+  url: http://data.nasa.gov/astrogravs/
+  datagov_id: 
+data_sources_023: 
+  curator_center: Johnson Space Center
+  more_info_link: http://www.lpi.usra.edu/resources/lunar_orbiter/
+  curator_person_name: ""
+  remote_id: "563"
+  created_at: 2011-09-08 18:33:24
+  updated_at: 2011-09-08 18:33:24
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The Lunar Orbiter Photographic Atlas of the Moon is considered the definitive reference manual to the global photographic coverage of the Moon. The images contained within the atlas are excellent for studying lunar morphology because they were obtained at low to moderate Sun angles. The digital Lunar Orbiter Atlas of the Moon is a reproduction of the 675 plates contained in Bowker and Hughes. The digital archive, however, offers many improvements upon its original hardbound predecessor. Multiple search capabilities were added to the database to expedite locating images and features of interest. For accuracy and usability, surface feature information has been updated and improved. Lastly, to aid in feature identification, a companion image containing feature annotation has been included.</p>
+
+  curator_person_email: ""
+  title: Digital Lunar Orbiter Photographic Atlas of the Moon
+  slug: digital-lunar-orbiter-photographic-atlas-of-the-moon
+  id: "23"
+  curator_org_name: Lunar and Planetary Institute
+  url: http://data.nasa.gov/digital-lunar-orbiter-photographic-atlas-of-the-moon/
+  datagov_id: ""
+data_sources_039: 
+  curator_center: Ames Research Center
+  more_info_link: http://l7downloads.gsfc.nasa.gov/index.htm
+  curator_person_name: Michael Taylor
+  remote_id: "394"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-29 18:25:16
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p><img src="/data/files/flyby.png" alt="Landsat flyby" width="149" height="100" class="alignnone size-full wp-image-463" />
+    <p>The Landsat 7 Download page provides a number of Landsat 7 scene subsets intended for use with Purdue University&#8217;s MultiSpec software.</p>
+
+  curator_person_email: michael.p.taylor@nasa.gov
+  title: Landsat 7 Data Sets
+  slug: landsat-7-data-sets
+  id: "39"
+  curator_org_name: ""
+  url: http://data.nasa.gov/landsat-7-data-sets/
+  datagov_id: ""
+data_sources_064: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "369"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-26 10:23:10
+  acronym: 
+  curator_url: 
+  content: |
+    <p>The Gateway to Astronaut Photography of Earth database of images hosts the best and most complete online collection of astronaut photographs of the Earth.</p>
+
+  curator_person_email: 
+  title: Gateway to Astronaut Photography of Earth
+  slug: gateway-to-astronaut-photography-of-earth
+  id: "64"
+  curator_org_name: 
+  url: http://data.nasa.gov/gateway-to-astronaut-photography-of-earth/
+  datagov_id: 
+data_sources_041: 
+  curator_center: Marshall Space Flight Center
+  more_info_link: http://ghrc.nsstc.nasa.gov/hydro/
+  curator_person_name: Michael Goodman
+  remote_id: "392"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-29 17:45:10
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The GHRC is the data management and user services arm of the Global Hydrology and Climate Center. It encompasses the data and information management, supporting product generation, archival, and distribution of research quality and operational datasets for a variety of data types, including lightning, passive microwave, radar and others.</p>
+
+  curator_person_email: michael.goodman@nasa.gov
+  title: Global Hydrology Research Center
+  slug: global-hydrology-research-center
+  id: "41"
+  curator_org_name: Global Hydrology and Climate Center
+  url: http://data.nasa.gov/global-hydrology-research-center/
+  datagov_id: fstr-d7km
+data_sources_074: 
+  curator_center: Goddard Space Flight Center
+  more_info_link: http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Weather
+  curator_person_name: ""
+  remote_id: "358"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-09-02 18:02:40
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>Earth Science data access made simple. Our weather system includes the dynamics of the atmosphere and its interaction with the oceans and land. The improvement of our understanding of weather processes and phenomena is crucial in gaining an understanding of the Earth system.</p>
+
+  curator_person_email: ""
+  title: "Mirador \xE2\x80\x93 Weather"
+  slug: mirador-weather
+  id: "74"
+  curator_org_name: Goddard Earth Sciences Data and Information Services Center
+  url: http://data.nasa.gov/mirador-weather/
+  datagov_id: ""
+data_sources_008: 
+  curator_center: Jet Propulsion Laboratory
+  more_info_link: http://llis.nasa.gov/llis/search/home.jsp
+  curator_person_name: Manson Yew
+  remote_id: "602"
+  created_at: 2011-09-09 15:43:18
+  updated_at: 2011-09-12 15:45:50
+  acronym: NEN
+  curator_url: ""
+  content: |
+    <p>The Lessons Learned program delivers the agency-wide Lessons Learned Information System (LLIS) where employees can search vetted lessons and submit lessons. The program is a cornerstone of NASA as a learning organization and is supported by employees like you. NASA lessons evolve from positive and negative outcomes experienced during the course of doing NASA work. It is important to share with others across the agency&#160;&#8212; to avoid (if a negative outcome) or support (if a positive outcome) similar situations in the future, thus ensuring that NASA&#160;learns from past successes and mistakes.</p>
+
+  curator_person_email: Manson.Yew@jpl.nasa.gov
+  title: NASA Engineering Network Lessons Learned
+  slug: nasa-engineering-network-lessons-learned
+  id: "8"
+  curator_org_name: ""
+  url: http://data.nasa.gov/nasa-engineering-network-lessons-learned/
+  datagov_id: ""
+data_sources_049: 
+  curator_center: Langley Research Center
+  more_info_link: http://mynasadata.larc.nasa.gov/
+  curator_person_name: Daniel Oostra
+  remote_id: "384"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-29 20:51:41
+  acronym: ""
+  curator_url: ""
+  content: "<p>The MY NASA DATA Project, part of NASA&#8217;s Research Education and Applications Solutions Network, works to make NASA Earth Science data accessible to the K-12 and citizen scientist commu- nities. The principal activity of the project is to create microsets\xC2\x9D from large scientific data sets, and to wrap these with tools, lesson plans, and supporting documentation so that a teacher can use the infor- mation in the classroom.</p>\n"
+  curator_person_email: daniel.h.oostra@nasa.gov
+  title: My NASA Data
+  slug: my-nasa-data
+  id: "49"
+  curator_org_name: ""
+  url: http://data.nasa.gov/my-nasa-data/
+  datagov_id: m4a5-k89i
+data_sources_010: 
+  curator_center: Johnson Space Center
+  more_info_link: http://curator.jsc.nasa.gov/lunar/compendium.cfm
+  curator_person_name: Charles Meyer
+  remote_id: "592"
+  created_at: 2011-09-08 20:22:23
+  updated_at: 2011-09-08 22:31:47
+  acronym: ""
+  curator_url: http://curator.nasa.gov
+  content: |
+    <p>The purpose of the Lunar Sample Compendium is to inform scientists, astronauts and the public about the various lunar samples that have been returned from the Moon. This compendium is organized rock by rock and by category.</p>
+
+  curator_person_email: charles.meyer-1@nasa.gov
+  title: Lunar Sample Compendium
+  slug: lunar-sample-compendium
+  id: "10"
+  curator_org_name: Astromaterials Acquisition & Curation Office
+  url: http://data.nasa.gov/lunar-sample-compendium/
+  datagov_id: ""
+data_sources_051: 
+  curator_center: Johnson Space Center
+  more_info_link: http://lsda.jsc.nasa.gov/
+  curator_person_name: Mary Fitts
+  remote_id: "382"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-29 18:32:22
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>NASA&#8217;s Life Sciences Data Archive (LSDA) is an active archive that provides information and data from 1961 (Mercury Project) through current flight and flight analog studies (International Space Station, Shuttle, bed rest studies, etc.) involving human, plant and animal subjects. </p>
+
+  curator_person_email: mary.a.fitts@nasa.gov
+  title: Life Sciences Data Archive (LSDA)
+  slug: life-sciences-data-archive
+  id: "51"
+  curator_org_name: ""
+  url: http://data.nasa.gov/life-sciences-data-archive/
+  datagov_id: ""
+data_sources_084: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "348"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: |
+    <p>A catalog of NASA images and animations of our home planet</p>
+
+  curator_person_email: 
+  title: Visible Earth
+  slug: visible-earth
+  id: "84"
+  curator_org_name: 
+  url: http://data.nasa.gov/visible-earth/
+  datagov_id: 
+data_sources_020: 
+  curator_center: Johnson Space Center
+  more_info_link: http://www.lpi.usra.edu/resources/lunarorbiter/
+  curator_person_name: ""
+  remote_id: "569"
+  created_at: 2011-09-08 18:40:35
+  updated_at: 2011-09-08 18:40:35
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The Lunar Orbiter Photo Gallery is an extensive collection of over 2,600 high- and moderate-resolution photographs produced by all five of the Lunar Orbiter missions. These photographs were taken in 1966 and 1967 to survey possible lunar landing sites and provide baseline imagery for geologic analysis of the lunar surface. The images were used to select the Apollo landing sites and to produce many of our existing lunar geologic maps. This photo gallery is the web&#8217;s most comprehensive collection of Lunar Orbiter photography and supporting documents.</p>
+
+  curator_person_email: ""
+  title: Lunar Orbiter Photo Gallery
+  slug: lunar-orbiter-photo-gallery
+  id: "20"
+  curator_org_name: Lunar and Planetary Institute
+  url: http://data.nasa.gov/lunar-orbiter-photo-gallery/
+  datagov_id: ""
+data_sources_036: 
+  curator_center: Ames Research Center
+  more_info_link: http://explore.data.gov/catalog/apps?Dataset-Summary_Agency=National+Aeronautics+and+Space+Administration
+  curator_person_name: ""
+  remote_id: "397"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-12-22 18:30:39
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>Data.gov features a tool catalog to provide the public with simple, application-driven access to Federal data with hyperlinks. This catalog features widgets, data mining and extraction tools, applications, and other services.</p>
+
+  curator_person_email: ""
+  title: Data.gov Apps Catalog for NASA
+  slug: data-gov-apps-catalog-for-nasa
+  id: "36"
+  curator_org_name: ""
+  url: http://data.nasa.gov/data-gov-apps-catalog-for-nasa/
+  datagov_id: "true"
+data_sources_061: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "372"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-26 10:23:10
+  acronym: 
+  curator_url: 
+  content: |
+    <p>A near-global Digital Elevation Model that allows software authors to determine the terrain height of nearly any point on Earth.</p>
+
+  curator_person_email: 
+  title: Shuttle Radar Topography Mission
+  slug: shuttle-radar-topography-mission
+  id: "61"
+  curator_org_name: 
+  url: http://data.nasa.gov/shuttle-radar-topography-mission/
+  datagov_id: 
+data_sources_018: 
+  curator_center: Jet Propulsion Laboratory
+  more_info_link: http://ser.sese.asu.edu/M10/IMAGE_ARCHIVE/Mercury_search.html
+  curator_person_name: ""
+  remote_id: "573"
+  created_at: 2011-09-08 18:47:03
+  updated_at: 2011-09-08 18:47:03
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The Mariner 10 Image Archive includes tools to view shaded relief maps of the surface of Mercury, a 3D globe, and all images acquired by NASA&#8217;s Mariner 10 mission.</p>
+
+  curator_person_email: ""
+  title: Mariner 10 Image Archive
+  slug: mariner-10-image-archive
+  id: "18"
+  curator_org_name: Arizona State University
+  url: http://data.nasa.gov/mariner-10-image-archive/
+  datagov_id: ""
+data_sources_059: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "374"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-26 10:23:10
+  acronym: 
+  curator_url: 
+  content: |
+    <p>This server no longer provides full WMS services for any of the datasets. Furthermore, the MODIS daily mosaics are no longer being updated. The tiled WMS access, described in the Tiled WMS and Google Earth KML support will stay operational. This includes access to the archived of MODIS daily mosaics, which were built from 2006 to the end of 2010.</p>
+
+  curator_person_email: 
+  title: OnEarth
+  slug: onearth
+  id: "59"
+  curator_org_name: 
+  url: http://data.nasa.gov/onearth/
+  datagov_id: 
+data_sources_094: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "338"
+  created_at: 2011-08-26 10:23:08
+  updated_at: 2011-08-26 10:23:08
+  acronym: 
+  curator_url: 
+  content: |
+    <p>The AERONET (AErosol RObotic NETwork) program is a federation of ground-based remote sensing aerosol networks established by NASA and PHOTONS (Univ. of Lille 1, CNES, and CNRS-INSU) and is greatly expanded by collaborators from national agencies, institutes, universities, individual scientists, and partners. The program provides a long-term, continuous and readily accessible public domain database of aerosol optical, microphysical and radiative properties for aerosol research and characterization, validation of satellite retrievals, and synergism with other databases. The network imposes standardization of instruments, calibration, processing and distribution. </p>
+
+  curator_person_email: 
+  title: "Aeronet: Aerosol Robotic Network"
+  slug: aeronet-aerosol-robotic-network
+  id: "94"
+  curator_org_name: 
+  url: http://data.nasa.gov/aeronet-aerosol-robotic-network/
+  datagov_id: 
+data_sources_071: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "361"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: |
+    <p>Giovanni is a Web-based application developed by the GES DISC that provides a simple and intuitive way to visualize, analyze, and access vast amounts of Earth science remote sensing data without having to download the data. Giovanni is an acronym for the GES-DISC (Goddard Earth Sciences Data and Information Services Center) Interactive Online Visualization ANd aNalysis Infrastructure.</p>
+
+  curator_person_email: 
+  title: GIOVANNI Atmospheric Instances
+  slug: giovanni-atmospheric-instances
+  id: "71"
+  curator_org_name: 
+  url: http://data.nasa.gov/giovanni-atmospheric-instances/
+  datagov_id: 
+data_sources_069: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "363"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: |
+    <p>Giovanni is a Web-based application developed by the GES DISC that provides a simple and intuitive way to visualize, analyze, and access vast amounts of Earth science remote sensing data without having to download the data. Giovanni is an acronym for the GES-DISC (Goddard Earth Sciences Data and Information Services Center) Interactive Online Visualization ANd aNalysis Infrastructure.</p>
+
+  curator_person_email: 
+  title: GIOVANNI Ocean Instances
+  slug: giovanni-ocean-instances
+  id: "69"
+  curator_org_name: 
+  url: http://data.nasa.gov/giovanni-ocean-instances/
+  datagov_id: 
+data_sources_028: 
+  curator_center: NASA Shared Services Center
+  more_info_link: "http://wicn.nssc.nasa.gov/ "
+  curator_person_name: ""
+  remote_id: "539"
+  created_at: 2011-09-02 17:16:48
+  updated_at: 2011-09-02 17:16:48
+  acronym: WICN
+  curator_url: ""
+  content: |
+    <p>Workforce Information Cubes for NASA, sourced from NASA&#8217;s&#160;personnel/payroll system, gives data about who is working where and on what. Includes records for every civil service employee in NASA, snapshots&#160;of workforce composition as of certain dates, and data on personnel&#160;transactions, such as hires, losses and promotions. Updates occur every 2&#160;weeks.</p>
+
+  curator_person_email: ""
+  title: Workforce Information Cubes for NASA
+  slug: workforce-information-cubes-for-nasa-2
+  id: "28"
+  curator_org_name: nssc-contactcenter@nasa.gov
+  url: http://data.nasa.gov/workforce-information-cubes-for-nasa-2/
+  datagov_id: ""
+data_sources_005: 
+  curator_center: NASA Headquarters
+  more_info_link: http://grin.hq.nasa.gov/
+  curator_person_name: Steve Garber
+  remote_id: "619"
+  created_at: 2011-09-19 06:26:13
+  updated_at: 2011-09-19 06:26:13
+  acronym: GRIN
+  curator_url: http://history.nasa.gov/
+  content: |
+    <p>GRIN is a collection of over a thousand images of significant historical interest scanned at high-resolution in several sizes. This collection is intended for the media, publishers, and the general public looking for high-quality photographs.</p>
+
+  curator_person_email: ""
+  title: Great Images in NASA
+  slug: great-images-in-nasa
+  id: "5"
+  curator_org_name: NASA History Office
+  url: http://data.nasa.gov/great-images-in-nasa/
+  datagov_id: ""
+data_sources_046: 
+  curator_center: Langley Research Center
+  more_info_link: http://eosweb.larc.nasa.gov/PRODOCS/calipso/table_calipso.html
+  curator_person_name: ""
+  remote_id: "387"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-29 18:28:29
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations (CALIPSO) was launched on April 28, 2006 to study the impact of clouds and aerosols on the Earth&#8217;s radiation budget and climate. It flies in formation with five other satellites in the international &#8220;A-Train&#8221; (PDF) constellation for coincident Earth observations. The CALIPSO satellite comprises three instruments, the Cloud-Aerosol LIdar with Orthogonal Polarization (CALIOP), the Imaging Infrared Radiometer (IIR), and the Wide Field Camera (WFC). CALIPSO is a joint satellite mission between NASA and the French Agency, CNES.</p>
+
+  curator_person_email: ""
+  title: Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations (CALIPSO)
+  slug: calipso
+  id: "46"
+  curator_org_name: Atmospheric Science Data Center
+  url: http://data.nasa.gov/calipso/
+  datagov_id: ""
+data_sources_081: 
+  curator_center: Goddard Space Flight Center
+  more_info_link: http://worldwind.arc.nasa.gov
+  curator_person_name: ""
+  remote_id: "351"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-09-10 00:01:14
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>World Wind, NASA&#8217;s open source virtual globe technology, provides a rich set of features for displaying and interacting with geographic data and representing a wide range of geometric objects.</p>
+    <p><strong>General Features</strong></p>
+    <ul>
+    <li>Open-source, high-performance 3D Virtual globe API and SDK</li>
+    <li>Adds geographic visualization to any application</li>
+    <li>Runs on Windows, Mac OS X and Linux.</li>
+    <li>Runs in web pages</li>
+    <li>Free run-time and development license</li>
+    <li>Unencumbered use on any number of devices</li>
+    <li>Huge collection of high-resolution imagery and terrain from NASA servers</li>
+    <li>Displays high-resolution imagery, terrain and geographic information from any open-standard public or private source</li>
+    <li>Open-standard interfaces to GIS services and databases</li>
+    <li>Large collection of geometric and geographic&#160;shapes</li>
+    <li>Simple to extend and modify, designed to be extensible</li>
+    <li>Uses Java and OpenGL</li>
+    <li>&#160;WMS web server for serving data over private networks and distributing your own data</li>
+    </ul>
+    <p><strong>Graphics Capabilities</strong></p>
+    <ul>
+    <li>Point, Line, Path, Polygon, Curtain</li>
+    <li>Volumes: Extruded Polygon, Ellipsoid, Sphere, Cylinder, Cone, Pyramid, Box, Airspaces (see below)</li>
+    <li>Terrain conforming shapes: Lines, Polygons, Ellipse, Circle, Quadrilateral, Rectangle, Square, Text, Image, Icon</li>
+    <li>Airspaces: Box, Cake, Capped Cylinder (full and partial), Curtain, Orbit, PolyArc, Polygon, Route, Sphere, Track</li>
+    <li>Annotation: Text, Text Balloon, HTML5 web-browser Balloon, Image, Icons, all with geo-located and screen versions</li>
+    <li>Placenames, Political boundaries</li>
+    <li>2.5D &#8220;Flat Globe&#8221; with terrain</li>
+    <li>Transparency</li>
+    <li>Picking, Selection</li>
+    <li>Navigation and Viewing: Orbit View, First Person, Stereo, application-defined</li>
+    <li>Multiple World Wind windows</li>
+    <li>Interactive shape editor</li>
+    </ul>
+    <p><strong>Data Formats</strong></p>
+    <ul>
+    <li>Imagery: JPG, PNG, GeoTIFF, JPEG2000 and many others</li>
+    <li>Government formats: NITF, MrSID, RPF (CADRG, CIB, etc.), DTED and many others</li>
+    <li>GIS formats: Shapefile, KML, VPF, GML, GeoJSON, GeoRSS, GPX, NMEA and many others</li>
+    <li>Coordinate Systems: Lat/Lon, UTM, MGRS.</li>
+    <ul>
+    <li>Datums: WGS84, NAD27 and many others</li>
+    </ul>
+    </ul>
+    <p><strong>Analysis Capabilities</strong></p>
+    <ul>
+    <li>Measurement,&#160; geometric and terrain following</li>
+    <li>Line of site with high-resolution terrain and shapes</li>
+    <li>Terrain intersection</li>
+    <li>Shape interactions</li>
+    </ul>
+    <p><strong>Miscellaneous Capabilities</strong></p>
+    <ul>
+    <li>Deploy as Java Application, Java Applet or Java Web Start Application</li>
+    <li>GIS web service protocols: WMS, WFS</li>
+    <li>Swing, AWT and JOGL integration</li>
+    <li>Layer model with visibility and transparency control</li>
+    <li>Highly configurable and customizable</li>
+    <li>Automatic image and terrain retrieval from web services</li>
+    <li>Animation: View, globe, object</li>
+    <li>Local data cache</li>
+    <li>Automatic region sorting</li>
+    <li>Over 100 programming examples</li>
+    <li>API documentation</li>
+    <li>Community support forum</li>
+    </ul>
+
+  curator_person_email: ""
+  title: NASA World Wind
+  slug: nasa-world-wind
+  id: "81"
+  curator_org_name: EOS Project Science Office
+  url: http://data.nasa.gov/nasa-world-wind/
+  datagov_id: 6hcn-x265
+data_sources_079: 
+  curator_center: Goddard Space Flight Center
+  more_info_link: http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Atmospheric%20Composition
+  curator_person_name: ""
+  remote_id: "353"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-09-02 18:01:20
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>Earth Science data access made simple. Atmospheric Composition is focused on the composition of Earth&#8217;s atmosphere in relation to climate prediction, solar effects, ground emissions and time.</p>
+
+  curator_person_email: ""
+  title: "Mirador \xE2\x80\x93 Atmospheric Composition"
+  slug: mirador-atmospheric-composition
+  id: "79"
+  curator_org_name: Goddard Earth Sciences Data and Information Services Center
+  url: http://data.nasa.gov/mirador-atmospheric-composition/
+  datagov_id: ""
+data_sources_033: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "400"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-26 10:23:11
+  acronym: 
+  curator_url: 
+  content: |
+    <p>IRSA is chartered to curate the calibrated science products from NASAs infrared and sub-millimeter missions, including five major large-area/all-sky surveys. IRSA data sets are cited in about 10% of astronomical refereed papers.<br />
+    IRSA offers access to digital archives through powerful query engines, including VO-compliant interfaces, and offers unique tools such as the IRAS scan processing tool Scanpi. IRSA exploits a re-useable architecture to deploy cost-effective archives for customers, including: the Spitzer Space Telescope; the 2MASS and IRAS all-sky surveys; and multi-mission datasets such as COSMOS. In the near future, IRSA will serve public data from the WISE all-sky survey and the Planck mission.</p>
+
+  curator_person_email: 
+  title: NASA/IPAC Infrared Science Archive
+  slug: nasaipac-infrared-science-archive
+  id: "33"
+  curator_org_name: 
+  url: http://data.nasa.gov/nasaipac-infrared-science-archive/
+  datagov_id: 
+data_sources_015: 
+  curator_center: Non-NASA Facility
+  more_info_link: http://planetarynames.wr.usgs.gov/
+  curator_person_name: ""
+  remote_id: "581"
+  created_at: 2011-09-08 19:14:01
+  updated_at: 2011-09-08 19:14:01
+  acronym: ""
+  curator_url: http://astrogeology.usgs.gov/
+  content: |
+    <p>Planetary nomenclature, like terrestrial nomenclature, is used to uniquely identify a feature on the surface of a planet or satellite so that the feature can be easily located, described, and discussed. This gazetteer contains detailed information about all names of topographic and albedo features on planets and satellites (and some planetary ring and ring-gap systems) that the International Astronomical Union (IAU) has named and approved from its founding in 1919 through the present time.</p>
+
+  curator_person_email: ""
+  title: Gazetteer of Planetary Nomenclature
+  slug: gazetteer-of-planetary-nomenclature
+  id: "15"
+  curator_org_name: USGS Astrogeology Science Center
+  url: http://data.nasa.gov/gazetteer-of-planetary-nomenclature/
+  datagov_id: ""
+data_sources_056: 
+  curator_center: Jet Propulsion Laboratory
+  more_info_link: http://tes.jpl.nasa.gov/data/products/
+  curator_person_name: Scott Gluck
+  remote_id: "377"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-29 18:31:57
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>TES focuses on the troposphere, the layer of atmosphere that stretches from the ground to the altitude at which airplanes fly. With very high spectral resolution, TES can distinguish concentrations of gases at different altitudes, a key factor in understanding their behavior and impact. It&#8217;s the first orbiting instrument able to do this with ozone, a very important chemical with regard to both global warming and air pollution.<br />
+    The primary location for obtaining TES data is NASA&#8217;s Warehouse Inventory Search Tool (WIST). The TES Data Sets page at NASA Langley Research Center (LaRC ASDC) provides access to software read tools, a Data Pool, and supporting documentation.</p>
+
+  curator_person_email: Scott.Gluck@jpl.nasa.gov
+  title: Tropospheric Emission Spectrometer (TES) Data
+  slug: tropospheric-emission-spectrometer-data
+  id: "56"
+  curator_org_name: TES Project Team
+  url: http://data.nasa.gov/tropospheric-emission-spectrometer-data/
+  datagov_id: k8vs-g3kt
+data_sources_091: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "341"
+  created_at: 2011-08-26 10:23:08
+  updated_at: 2011-08-26 10:23:08
+  acronym: 
+  curator_url: 
+  content: |
+    <p>Plotted images and a dataset for getting underlying coordinate data of extratropical storms.</p>
+
+  curator_person_email: 
+  title: Atlas of Extratropical Storm Tracks
+  slug: atlas-of-extratropical-storm-tracks
+  id: "91"
+  curator_org_name: 
+  url: http://data.nasa.gov/atlas-of-extratropical-storm-tracks/
+  datagov_id: 
+data_sources_089: 
+  curator_center: Goddard Space Flight Center
+  more_info_link: http://idn.ceos.org/portals/Home.do?Portal=idn_ceos&MetadataType=0
+  curator_person_name: Lola Olsen
+  remote_id: "343"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-29 20:53:32
+  acronym: ""
+  curator_url: "http://idn.ceos.org "
+  content: |
+    <p>The CEOS IDN is an international effort developed to assist researchers in locating information on available datasets and services.  The directory is sponsored as a service to the Earth science community. </p>
+
+  curator_person_email: lola.m.olsen@nasa.gov
+  title: Committee on Earth Observation Satellites (CEOS) International Directory Portal
+  slug: ceos-international-directory-portal
+  id: "89"
+  curator_org_name: CEOS International Directory Network
+  url: http://data.nasa.gov/ceos-international-directory-portal/
+  datagov_id: ""
+data_sources_025: 
+  curator_center: Johnson Space Center
+  more_info_link: http://www.lpi.usra.edu/resources/apollopanoramas/
+  curator_person_name: ""
+  remote_id: "558"
+  created_at: 2011-09-08 18:24:53
+  updated_at: 2011-09-08 18:24:53
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>Apollo Surface Panoramas is a digital library of photographic panoramas that the Apollo astronauts took while exploring the Moon&#8217;s surface. These images provide a spectacular boots-on-the-ground view of the lunar landscape. The panoramas are stitched together from individual <a href="http://www.lpi.usra.edu/resources/apollo/catalog/70mm/">70mm Hasselblad frames</a>, each of which is also accessible through this new atlas. Lunar surface features captured in the panoramas can be studied using zoom and pan tools. An annotated version of each panorama is also available to assist users with the identification of major geographic features around each Apollo landing site.</p>
+
+  curator_person_email: ""
+  title: Apollo Surface Panoramas
+  slug: apollo-surface-panoramas
+  id: "25"
+  curator_org_name: Lunar and Planetary Institute
+  url: http://data.nasa.gov/apollo-surface-panoramas/
+  datagov_id: ""
+data_sources_002: 
+  curator_center: Goddard Space Flight Center
+  more_info_link: http://sdo.gsfc.nasa.gov/data/
+  curator_person_name: ""
+  remote_id: "653"
+  created_at: 2011-11-22 02:00:09
+  updated_at: 2011-11-22 02:00:09
+  acronym: SDO
+  curator_url: ""
+  content: |
+    <p>A searchable database of all Solar Dynamics Observatory data including EUV, magnetograms, visible light and X-ray.</p>
+    <p>SDO: The Solar Dynamics Observatory is the first mission to be launched for NASA&#8217;s Living With a Star (LWS) Program, a program designed to understand the causes of solar variability and its impacts on Earth. SDO is designed to help us understand the Sun&#8217;s influence on Earth and Near-Earth space by studying the solar atmosphere on small scales of space and time and in many wavelengths simultaneously.</p>
+    <p>SDO&#8217;s goal is to understand, driving towards a predictive capability, the solar variations that influence life on Earth and humanity&#8217;s technological systems by determining how the Sun&#8217;s magnetic field is generated and structured and how this stored magnetic energy is converted and released into the heliosphere and geospace in the form of solar wind, energetic particles, and variations in the solar irradiance.</p>
+
+  curator_person_email: ""
+  title: Solar Dynamics Observatory
+  slug: sdo
+  id: "2"
+  curator_org_name: ""
+  url: http://data.nasa.gov/sdo/
+  datagov_id: ""
+data_sources_066: 
+  curator_center: NASA Headquarters
+  more_info_link: http://ntrs.nasa.gov/search.jsp
+  curator_person_name: Gerald Steeman
+  remote_id: "367"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-29 18:31:30
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The NTRS is a valuable resource for researchers, students, educators, and the public to access NASA&#8217;s current and historical technical literature and engineering results. Over 500,000 aerospace-related citations, over 200,000 full-text online documents, and over 500,000 images and videos are available. NTRS content continues to grow as new scientific and technical information (STI) is created or funded by NASA. The types of information found in the NTRS include: conference papers, journal articles, meeting papers, patents, research reports, images, movies, and technical videos. </p>
+
+  curator_person_email: gerald.steeman@nasa.gov
+  title: NASA Technical Reports Server (NTRS)
+  slug: nasa-technical-reports-server
+  id: "66"
+  curator_org_name: Scientific and Technical Information
+  url: http://data.nasa.gov/nasa-technical-reports-server/
+  datagov_id: ""
+data_sources_043: 
+  curator_center: Langley Research Center
+  more_info_link: http://eosweb.larc.nasa.gov/PRODOCS/misr/table_misr.html
+  curator_person_name: ""
+  remote_id: "390"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-29 18:29:58
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The Multi-angle Imaging SpectroRadiometer (MISR) was successfully launched into sun-synchronous polar orbit aboard Terra, NASA&#8217;s first Earth Observing System (EOS) spacecraft, on December 18, 1999. MISR measurements are designed to improve our understanding of the Earth&#8217;s environment and climate. Viewing the sunlit Earth simultaneously at nine widely-spaced angles, MISR provides radiometrically and geometrically calibrated images in four spectral bands at each of the angles. Spatial sampling of 275 and 1100 meters is provided on a global basis. </p>
+
+  curator_person_email: ""
+  title: Multi-angle Imaging SpectroRadiometer (MISR)
+  slug: misr
+  id: "43"
+  curator_org_name: Atmospheric Science Data Center
+  url: http://data.nasa.gov/misr/
+  datagov_id: ""
+data_sources_076: 
+  curator_center: Goddard Space Flight Center
+  more_info_link: http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Earth%20Surface%20and%20Interior
+  curator_person_name: ""
+  remote_id: "356"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-09-02 18:02:07
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>Earth Science data access made simple. The goal of the Earth Surface and Interior focus area is to assess, mitigate and forecast the natural hazards that affect society, including earthquakes, landslides, coastal and interior erosion, floods and volcanic eruptions.</p>
+
+  curator_person_email: ""
+  title: "Mirador \xE2\x80\x93 Earth Surface and Interior"
+  slug: mirador-earth-surface-and-interior
+  id: "76"
+  curator_org_name: Goddard Earth Sciences Data and Information Services Center
+  url: http://data.nasa.gov/mirador-earth-surface-and-interior/
+  datagov_id: ""
+data_sources_030: 
+  curator_center: Jet Propulsion Laboratory
+  more_info_link: http://naif.jpl.nasa.gov/naif/data.html
+  curator_person_name: Charles Acton
+  remote_id: "529"
+  created_at: 2011-08-31 19:47:26
+  updated_at: 2011-08-31 19:47:26
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>SPICE is used throughout the life cycle of NASA planetary science missions to help scientists and engineers design missions, plan scientific observations, analyze science data and conduct various engineering functions associated with flight projects. The primary SPICE data sets are often called &#8220;kernels&#8221; or &#8220;kernel files.&#8221; SPICE kernels are composed of navigation and other ancillary information that has been structured and formatted for easy access and correct use by the planetary science and engineering communities.</p>
+
+  curator_person_email: charles.acton@jpl.nasa.gov
+  title: "Navigation and Ancillary Information Facility\xE2\x80\x99s SPICE"
+  slug: navigation-and-ancillary-information-facilitys-spice
+  id: "30"
+  curator_org_name: "Navigation and Ancillary Information Facility "
+  url: http://data.nasa.gov/navigation-and-ancillary-information-facilitys-spice/
+  datagov_id: ""
+data_sources_012: 
+  curator_center: Johnson Space Center
+  more_info_link: http://www.lpi.usra.edu/resources/vc/vchome.html
+  curator_person_name: Robert Herrick
+  remote_id: "588"
+  created_at: 2011-09-08 20:00:33
+  updated_at: 2011-09-09 14:16:56
+  acronym: ""
+  curator_url: http://lpi.usra.edu
+  content: |
+    <p>This web page leads to a database of images and information about the 900 or so impact craters on the surface of Venus by diameter, latitude, and name.</p>
+
+  curator_person_email: herrick@lpi.usra.edu
+  title: Venus Crater Database
+  slug: venus-crater-database
+  id: "12"
+  curator_org_name: Lunar and Planetary Institute
+  url: http://data.nasa.gov/venus-crater-database/
+  datagov_id: ""
+data_sources_053: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "380"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-26 10:23:10
+  acronym: 
+  curator_url: 
+  content: |
+    <p>The Warehouse Inventory Search tool is a Web-based search-and-order tool that provides a way for users to search for Earth Science data from multiple participating archives.</p>
+
+  curator_person_email: 
+  title: Warehouse Inventory Search Tool
+  slug: warehouse-inventory-search-tool
+  id: "53"
+  curator_org_name: 
+  url: http://data.nasa.gov/warehouse-inventory-search-tool/
+  datagov_id: 
+data_sources_086: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "346"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: |
+    <p>MODIS (or Moderate Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (EOS AM) and Aqua (EOS PM) satellites. Terra&#8217;s orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. Terra MODIS and Aqua MODIS are viewing the entire Earth&#8217;s surface every 1 to 2 days, acquiring data in 36 spectral bands, or groups of wavelengths (see MODIS Technical Specifications). This map shows the temperature of Earth&#8217;s lands during the nighttime. </p>
+
+  curator_person_email: 
+  title: Land Surface Temperature at Night
+  slug: land-surface-temperature-at-night
+  id: "86"
+  curator_org_name: 
+  url: http://data.nasa.gov/land-surface-temperature-at-night/
+  datagov_id: 
+data_sources_022: 
+  curator_center: Johnson Space Center
+  more_info_link: http://www.lpi.usra.edu/resources/mapcatalog/
+  curator_person_name: ""
+  remote_id: "565"
+  created_at: 2011-09-08 18:36:45
+  updated_at: 2011-09-08 18:36:45
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The Lunar Map Catalog includes various maps of the moon&#8217;s surface, including Apollo landing sites; earthside, farside, and polar charts; photography index maps; zone mosaics; shaded relief; topographic; and a geologic atlas.</p>
+
+  curator_person_email: ""
+  title: Lunar Map Catalog
+  slug: lunar-map-catalog
+  id: "22"
+  curator_org_name: Lunar and Planetary Institute
+  url: http://data.nasa.gov/lunar-map-catalog/
+  datagov_id: ""
+data_sources_038: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "395"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-26 10:23:11
+  acronym: 
+  curator_url: 
+  content: "<p>The Earth Observatory\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2s mission is to share with the public the images, stories, and discoveries about climate and the environment that emerge from NASA research, including its satellite missions, in-the-field research, and climate models.</p>\n"
+  curator_person_email: 
+  title: Earth Observatory
+  slug: earth-observatory
+  id: "38"
+  curator_org_name: 
+  url: http://data.nasa.gov/earth-observatory/
+  datagov_id: 
+data_sources_063: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "370"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-26 10:23:10
+  acronym: 
+  curator_url: 
+  content: |
+    <p>ECCO was established in 1998 as part of the World Ocean Circulation Experiment (WOCE) with the goal of combining a general circulation model (GCM) with diverse observations in order to produce a quantitative depiction of the time-evolving global ocean state.</p>
+
+  curator_person_email: 
+  title: JPL Ecco Ocean Data Assimilation
+  slug: jpl-ecco-ocean-data-assimilation
+  id: "63"
+  curator_org_name: 
+  url: http://data.nasa.gov/jpl-ecco-ocean-data-assimilation/
+  datagov_id: 
+data_sources_040: 
+  curator_center: Stennis Space Center
+  more_info_link: https://zulu.ssc.nasa.gov/mrsid/
+  curator_person_name: Craig Peterson
+  remote_id: "393"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-29 18:23:23
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>Low resolution terrain imagery.</p>
+
+  curator_person_email: ""
+  title: Landsat 2000
+  slug: landsat-2000
+  id: "40"
+  curator_org_name: ""
+  url: http://data.nasa.gov/landsat-2000/
+  datagov_id: ""
+data_sources_073: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "359"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-09-08 18:17:03
+  acronym: 
+  curator_url: 
+  content: |
+    <p>The Planetary Data System (PDS) is an archive of data products from NASA planetary missions, which is sponsored by NASA&#8217;s Science Mission Directorate. We actively manage the archive to maximize its usefulness, and it has become a basic resource for scientists around the world.</p>
+
+  curator_person_email: 
+  title: Planetary Data System
+  slug: planetary-data-system
+  id: "73"
+  curator_org_name: 
+  url: http://data.nasa.gov/planetary-data-system/
+  datagov_id: 
+data_sources_007: 
+  curator_center: NASA Headquarters
+  more_info_link: http://www.hq.nasa.gov/pao/FOIA/report.htm
+  curator_person_name: Miriam Brown-Lam
+  remote_id: "613"
+  created_at: 2011-09-13 18:50:55
+  updated_at: 2011-09-13 18:50:55
+  acronym: ""
+  curator_url: http://www.hq.nasa.gov/pao/FOIA/index.htm
+  content: |
+    <p>NASA makes annual reports of progress made on Freedom of Information Act (FOIA) requests. This&#160;database&#160;contains PDF and XML versions of reports from 1999 to the present.</p>
+
+  curator_person_email: miriam.brown-lam@nasa.gov
+  title: Annual Freedom of Information Act (FOIA) Reports
+  slug: annual-freedom-of-information-act-foia-reports
+  id: "7"
+  curator_org_name: FOIA
+  url: http://data.nasa.gov/annual-freedom-of-information-act-foia-reports/
+  datagov_id: ""
+data_sources_048: 
+  curator_center: Langley Research Center
+  more_info_link: http://eosweb.larc.nasa.gov/PRODOCS/tes/table_tes.html
+  curator_person_name: John M. Kusterer
+  remote_id: "385"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-29 18:27:58
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>This site provides access to the software read tools, a data pool, and supporting documentation for the Tropospheric Emission Spectrometer. TES is a high-resolution imaging infrared Fourier-transform spectrometer that operates in both nadir and limb-sounding modes. TES global survey standard products include profile measurements of ozone, water vapor, carbon monoxide, methane, nitrogen dioxide, and nitric acid for 16 orbits every other day. TES Special Observations are research measurements of targeted locations or regional transects which are used to observe specific phenomena or to support local or aircraft validation campaigns.</p>
+
+  curator_person_email: john.m.kusterer@nasa.gov
+  title: Tropospheric Emission Spectrometer (TES) Data and Information
+  slug: tes-data-and-information
+  id: "48"
+  curator_org_name: ""
+  url: http://data.nasa.gov/tes-data-and-information/
+  datagov_id: ""
+data_sources_050: 
+  curator_center: Johnson Space Center
+  more_info_link: http://prime.jsc.nasa.gov/earthplus/
+  curator_person_name: Stephanie Smith
+  remote_id: "383"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-09-02 13:31:57
+  acronym: ""
+  curator_url: http://prime.jsc.nasa.gov/
+  content: |
+    <p>Earth+ makes NASA satellite photos and data accessible to blind students.</p>
+
+  curator_person_email: ""
+  title: Earth+
+  slug: earthplus
+  id: "50"
+  curator_org_name: JSC Learning Technologies Team
+  url: http://data.nasa.gov/earthplus/
+  datagov_id: ""
+data_sources_083: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "349"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: |
+    <p>The High Energy Astrophysics Science Archive Research Center (HEASARC) is the primary archive for NASA missions dealing with extremely energetic phenomena, from black holes to the Big Bang. </p>
+
+  curator_person_email: 
+  title: High Energy Astrophysics Science Archive Research Center
+  slug: high-energy-astrophysics-science-archive-research-center
+  id: "83"
+  curator_org_name: 
+  url: http://data.nasa.gov/high-energy-astrophysics-science-archive-research-center/
+  datagov_id: 
+data_sources_035: 
+  curator_center: Ames Research Center
+  more_info_link: http://www.data.gov/catalog/geodata/category/0/agency/183/filter//sort//page/1/count/10
+  curator_person_name: ""
+  remote_id: "398"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-12-22 18:31:50
+  acronym: ""
+  curator_url: ""
+  content: ""
+  curator_person_email: ""
+  title: Data.gov GeoData Catalog for NASA
+  slug: data-gov-geodata-catalog-for-nasa
+  id: "35"
+  curator_org_name: ""
+  url: http://data.nasa.gov/data-gov-geodata-catalog-for-nasa/
+  datagov_id: "true"
+data_sources_060: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "373"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-26 10:23:10
+  acronym: 
+  curator_url: 
+  content: |
+    <p>Planet Counter: Keep track of the latest planet discoveries on your desktop.</p>
+
+  curator_person_email: 
+  title: Planet Quest
+  slug: planet-quest
+  id: "60"
+  curator_org_name: 
+  url: http://data.nasa.gov/planet-quest/
+  datagov_id: 
+data_sources_017: 
+  curator_center: Jet Propulsion Laboratory
+  more_info_link: http://photojournal.jpl.nasa.gov/
+  curator_person_name: Sue Lavoie
+  remote_id: "575"
+  created_at: 2011-09-08 18:59:58
+  updated_at: 2011-09-08 19:00:24
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>View detailed images of the planets, the sun, small bodies, and the Universe from various NASA exploration programs.</p>
+
+  curator_person_email: photojournal@jpl.nasa.gov
+  title: JPL Photojournal
+  slug: jpl-photojournal
+  id: "17"
+  curator_org_name: ""
+  url: http://data.nasa.gov/jpl-photojournal/
+  datagov_id: ""
+data_sources_058: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "375"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-26 10:23:10
+  acronym: 
+  curator_url: 
+  content: |
+    <p>The JPL Tropical Cyclone Information System (TCIS) brings together satellite and in situ data sets from various sources to help you find information for a particular tropical cyclone over the world&#8217;s oceans.</p>
+
+  curator_person_email: 
+  title: JPL Tropical Cyclone Information System
+  slug: jpl-tropical-cyclone-information-system
+  id: "58"
+  curator_org_name: 
+  url: http://data.nasa.gov/jpl-tropical-cyclone-information-system/
+  datagov_id: 
+data_sources_093: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "339"
+  created_at: 2011-08-26 10:23:08
+  updated_at: 2011-08-26 10:23:08
+  acronym: 
+  curator_url: 
+  content: |
+    <p>The National Space Science Data Center serves as the permanent archive for NASA space science mission data. &#8220;Space science&#8221; means astronomy and astrophysics, solar and space plasma physics, and planetary and lunar science. As permanent archive, NSSDC teams with NASA&#8217;s discipline-specific space science &#8220;active archives&#8221; which provide access to data to researchers and, in some cases, to the general public. Search by event, spacecraft, experiment, map, or publication query. NSSDC is part of the Solar System Exploration Data Services Office (SSEDSO) in the Solar System Exploration Division at NASA&#8217;s Goddard Space Flight Center in Greenbelt, MD.</p>
+
+  curator_person_email: 
+  title: National Space Science Data Center Master Catalog
+  slug: national-space-science-data-center-master-catalog
+  id: "93"
+  curator_org_name: 
+  url: http://data.nasa.gov/national-space-science-data-center-master-catalog/
+  datagov_id: 
+data_sources_070: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "362"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: |
+    <p>Giovanni is a Web-based application developed by the GES DISC that provides a simple and intuitive way to visualize, analyze, and access vast amounts of Earth science remote sensing data without having to download the data. Giovanni is an acronym for the GES-DISC (Goddard Earth Sciences Data and Information Services Center) Interactive Online Visualization ANd aNalysis Infrastructure.</p>
+
+  curator_person_email: 
+  title: GIOVANNI Environmental Instances
+  slug: giovanni-environmental-instances
+  id: "70"
+  curator_org_name: 
+  url: http://data.nasa.gov/giovanni-environmental-instances/
+  datagov_id: 
+data_sources_068: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "364"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: |
+    <p>Giovanni is a Web-based application developed by the GES DISC that provides a simple and intuitive way to visualize, analyze, and access vast amounts of Earth science remote sensing data without having to download the data. Giovanni is an acronym for the GES-DISC (Goddard Earth Sciences Data and Information Services Center) Interactive Online Visualization ANd aNalysis Infrastructure.</p>
+
+  curator_person_email: 
+  title: GIOVANNI Hydrology Instances
+  slug: giovanni-hydrology-instances
+  id: "68"
+  curator_org_name: 
+  url: http://data.nasa.gov/giovanni-hydrology-instances/
+  datagov_id: 
+data_sources_027: 
+  curator_center: Marshall Space Flight Center
+  more_info_link: http://www.servirglobal.net/en/Home.aspx
+  curator_person_name: ""
+  remote_id: "552"
+  created_at: 2011-09-06 20:27:25
+  updated_at: 2011-09-12 15:45:54
+  acronym: ""
+  curator_url: http://www.servirglobal.net/en/About/SERVIRTeam/CoordinationOfficeTeam.aspx
+  content: |
+    <p><span style="font-family: Verdana, Arial, Helvetica, sans-serif"><span class="Apple-style-span" style="font-size: 11px;line-height: normal">SERVIR is a Spanish acronym for &#8220;Regional Visualization and Monitoring System.&#8221; The&#160;SERVIR project enables the use of Earth observations and predictive models for timely decision making through regional platforms in Mesoamerica, East Africa, and the Hindu-Kush Himalayas. &#160;The SERVIR project was initially developed by NASA, the US Agency for International Development, the World Bank, the Central American Commission for Environment and Development (CCAD), and the Water Center for the Humid Tropics of Latin America and the Caribbean (CATHALAC) in 2005. &#160; In 2008, the Regional Center for Mapping of Resources for Development (RCMRD) in Nairobi, Kenya, joined the SERVIR project, and in 2010, SERVIR inaugurated its third hub at the International Centre for Integrated Mountain Development (ICIMOD) in Kathmandu, Nepal. &#160; SERVIR also stands for the Spanish verb &#8220;to serve,&#8221; which is what the project aims to do in terms of providing improved access to data and knowledge for decision-making.</span></span></p>
+
+  curator_person_email: ""
+  title: SERVIR Global Data Catalog
+  slug: servir-global-data-catalog
+  id: "27"
+  curator_org_name: SERVIR Coordinating Office Team
+  url: http://data.nasa.gov/servir-global-data-catalog/
+  datagov_id: ""
+data_sources_004: 
+  curator_center: Ames Research Center
+  more_info_link: https://c3.nasa.gov/nex/
+  curator_person_name: ""
+  remote_id: "626"
+  created_at: 2011-10-12 15:05:59
+  updated_at: 2011-10-12 19:31:58
+  acronym: NEX
+  curator_url: https://c3.nasa.gov/nex/contactus/?next=/nex/
+  content: |
+    <p>The NASA Earth Exchange (NEX) represents a new platform for the Earth science community that provides a mechanism for scientific collaboration and knowledge sharing. NEX combines state-of-the-art supercomputing, Earth system modeling, workflow management, NASA remote sensing data feeds, and a knowledge sharing platform to deliver a complete work environment in which users can explore and analyze large datasets, run modeling codes, collaborate on new or existing projects, and quickly share results among the Earth Science communities.</p>
+
+  curator_person_email: ""
+  title: NASA Earth Exchange
+  slug: nasa-earth-exchange
+  id: "4"
+  curator_org_name: ""
+  url: http://data.nasa.gov/nasa-earth-exchange/
+  datagov_id: ""
+data_sources_045: 
+  curator_center: Langley Research Center
+  more_info_link: http://eosweb.larc.nasa.gov/PRODOCS/ceres/table_ceres.html
+  curator_person_name: ""
+  remote_id: "388"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-29 18:29:01
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The Clouds and the Earth&#8217;s Radiant Energy System (CERES) is a key component of the Earth Observing System (EOS) program. The CERES instruments provide radiometric measurements of the Earth&#8217;s atmosphere from three broadband channels. The CERES missions are a follow-on to the successful Earth Radiation Budget Experiment (ERBE) mission. The first CERES instrument (PFM) was launched on November 27, 1997 as part of the Tropical Rainfall Measuring Mission (TRMM). Two CERES instruments (FM1 and FM2) were launched into polar orbit on board the EOS flagship Terra on December 18, 1999, and two additional CERES instruments (FM3 and FM4) were launched on board EOS Aqua on May 4, 2002.</p>
+
+  curator_person_email: ""
+  title: "Clouds and the Earth\xE2\x80\x99s Radiant Energy System (CERES)"
+  slug: ceres
+  id: "45"
+  curator_org_name: Atmospheric Science Data Center
+  url: http://data.nasa.gov/ceres/
+  datagov_id: ""
+data_sources_080: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "352"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: |
+    <p>The NASA Goddard Earth Sciences (GES) Data and Information Services Center (DISC) is the home (archive) of Precipitation, Atmospheric Chemistry and Dynamics, and information, as well as data and information from other related disciplines.</p>
+
+  curator_person_email: 
+  title: Goddard Earth Sciences Data and Information Services Center (GeES DISC)
+  slug: goddard-earth-sciences-data-and-information-services-center-gees-disc
+  id: "80"
+  curator_org_name: 
+  url: http://data.nasa.gov/goddard-earth-sciences-data-and-information-services-center-gees-disc/
+  datagov_id: 
+data_sources_078: 
+  curator_center: Goddard Space Flight Center
+  more_info_link: http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Carbon%20Cycle%20and%20Ecosystems
+  curator_person_name: ""
+  remote_id: "354"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-09-02 18:01:37
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>Earth Science data access made simple. This Focus Area deals with the cycling of carbon in reservoirs and ecosystems as it changes naturally, is changed by humans, and is affected by climate change.</p>
+
+  curator_person_email: ""
+  title: "Mirador \xE2\x80\x93 Carbon Cycle and Ecosystems"
+  slug: mirador-carbon-cycle-and-ecosystems
+  id: "78"
+  curator_org_name: Goddard Earth Sciences Data and Information Services Center
+  url: http://data.nasa.gov/mirador-carbon-cycle-and-ecosystems/
+  datagov_id: ""
+data_sources_032: 
+  curator_center: Ames Research Center
+  more_info_link: http://lambda.gsfc.nasa.gov/
+  curator_person_name: ""
+  remote_id: "401"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-29 19:53:56
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The High Energy Astrophysics Science Archive Research Center (HEASARC) and the Legacy Archive for Microwave Background Data Analysis (LAMBDA) have merged into a single organization that will use the name HEASARC. The merged archive will continue to provide all of the services currently being offered by the two archives, while better serving users interested in studies requiring both high energy and microwave data. Users will notice few immediate changes, but we will gradually fully integrate all the services of the archives.</p>
+
+  curator_person_email: ""
+  title: "LAMBDA \xE2\x80\x93 Legacy Archive for Microwave Background Data Analysis"
+  slug: lambda-legacy-archive-for-microwave-background-data-analysis
+  id: "32"
+  curator_org_name: ""
+  url: http://data.nasa.gov/lambda-legacy-archive-for-microwave-background-data-analysis/
+  datagov_id: ""
+data_sources_014: 
+  curator_center: Johnson Space Center
+  more_info_link: http://www.lpi.usra.edu/resources/cc/cchome.shtml
+  curator_person_name: Paul Schenk
+  remote_id: "583"
+  created_at: 2011-09-08 19:26:56
+  updated_at: 2011-09-08 19:26:56
+  acronym: ""
+  curator_url: http://lpi.usra.edu
+  content: |
+    <p>This web page leads to a database of images and information about the 150 major impact craters on Callisto and is updated semi-regularly based on continuing analysis of Voyager images.</p>
+
+  curator_person_email: schenk@lpi.usra.edu
+  title: Callisto Crater Database
+  slug: callisto-crater-database
+  id: "14"
+  curator_org_name: Lunar and Planetary Institute
+  url: http://data.nasa.gov/callisto-crater-database/
+  datagov_id: ""
+data_sources_055: 
+  curator_center: Jet Propulsion Laboratory
+  more_info_link: http://climate.nasa.gov/
+  curator_person_name: ""
+  remote_id: "378"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-09-02 16:41:02
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>NASA&#8217;s Global Climate Change: Vital Signs of the Planet. Current news and data about global warming and climate change from NASA.</p>
+
+  curator_person_email: ""
+  title: Global Climate Change
+  slug: global-climate-change
+  id: "55"
+  curator_org_name: Earth Science Communications Team
+  url: http://data.nasa.gov/global-climate-change/
+  datagov_id: jccb-hhgd
+data_sources_090: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "342"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: |
+    <p>An integrated resource of solar imagery and data.</p>
+
+  curator_person_email: 
+  title: Solar Data Analysis Center Data Finder
+  slug: solar-data-analysis-center-data-finder
+  id: "90"
+  curator_org_name: 
+  url: http://data.nasa.gov/solar-data-analysis-center-data-finder/
+  datagov_id: 
+data_sources_088: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "344"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: |
+    <p>The GCMD database holds more than 30,000 descriptions of Earth science data sets and services covering all aspects of Earth and environmental sciences.</p>
+
+  curator_person_email: 
+  title: Global Change Master Directory
+  slug: global-change-master-directory
+  id: "88"
+  curator_org_name: 
+  url: http://data.nasa.gov/global-change-master-directory/
+  datagov_id: 
+data_sources_024: 
+  curator_center: Johnson Space Center
+  more_info_link: http://www.lpi.usra.edu/resources/cla/
+  curator_person_name: ""
+  remote_id: "561"
+  created_at: 2011-09-08 18:30:48
+  updated_at: 2011-09-08 18:30:48
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The Consolidated Lunar Atlas is a collection of the best photographic images of the moon, including low-oblique photography, full-moon photography, and tabular and positional plates.</p>
+
+  curator_person_email: ""
+  title: Consolidated Lunar Atlas
+  slug: consolidated-lunar-atlas
+  id: "24"
+  curator_org_name: Lunar and Planetary Institute
+  url: http://data.nasa.gov/consolidated-lunar-atlas/
+  datagov_id: ""
+data_sources_001: 
+  curator_center: Ames Research Center
+  more_info_link: http://archive.stsci.edu/kepler/
+  curator_person_name: ""
+  remote_id: "668"
+  created_at: 2012-01-06 22:08:51
+  updated_at: 2012-01-06 22:08:51
+  acronym: ""
+  curator_url: http://www.nasa.gov/mission_pages/kepler/main/index.html
+  content: |
+    <p>The centuries-old quest for other worlds like our Earth has been rejuvenated by the intense excitement and popular interest surrounding the discovery of hundreds of planets orbiting other stars. There is now clear evidence for substantial numbers of three types of exoplanets; gas giants, hot-super-Earths in short period orbits, and ice giants. The following websites are tracking the day-by-day increase in new discoveries and are providing information on the characteristics of the planets as well as those of the stars they orbit: The Extrasolar Planets Encyclopedia, NASA Exoplanet Archive, New Worlds Atlas, and Current Planet Count Widget.&#160;&#160;The challenge now is to find terrestrial planets (i.e., those one half to twice the size of the Earth), especially those in the habitable zone of their stars where liquid water and possibly life might exist. The Kepler Mission, NASA Discovery mission #10, is specifically designed to survey a portion of our region of the Milky Way galaxy&#160;to discover dozens of Earth-size planets in or near the habitable zone and determine how many of the billions of stars in our galaxy have such planets. Results from this mission will allow us to place our solar system within the continuum of planetary systems in the Galaxy.</p>
+
+  curator_person_email: ""
+  title: Kepler
+  slug: kepler
+  id: "1"
+  curator_org_name: ""
+  url: http://data.nasa.gov/kepler/
+  datagov_id: ""
+data_sources_065: 
+  curator_center: NASA Headquarters
+  more_info_link: http://www.google.com/moon/
+  curator_person_name: ""
+  remote_id: "368"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-29 20:15:28
+  acronym: ""
+  curator_url: http://www.hq.nasa.gov/alsj/frame.html
+  content: |
+    <p>A collection of lunar maps and charts. This tool is an exciting new way to explore the story of the Apollo missions, still the only time mankind has set foot on another world.</p>
+
+  curator_person_email: ""
+  title: Google Moon Lunar Mapping Data
+  slug: google-moon-lunar-mapping-data
+  id: "65"
+  curator_org_name: ""
+  url: http://data.nasa.gov/google-moon-lunar-mapping-data/
+  datagov_id: wgpn-b5yg
+data_sources_042: 
+  curator_center: Langley Research Center
+  more_info_link: http://eosweb.larc.nasa.gov/PRODOCS/srb/table_srb.html
+  curator_person_name: ""
+  remote_id: "391"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-29 18:30:31
+  acronym: ""
+  curator_url: ""
+  content: "<p>The NASA/GEWEX Surface Radiation Budget (SRB) Release-3.0 data sets contains global 3-hourly, daily, monthly/3-hourly, and monthly averages of surface and top-of atmosphere (TOA) longwave and shortwave radiative parameters on a 1\xC3\x82\xC2\xB0x1\xC3\x82\xC2\xB0 grid. Model inputs of cloud amounts and other atmospheric state parameters are also available in some of the data sets. Primary inputs to the models include: visible and infrared radiances from International Satellite Cloud Climatology Project (ISCCP) pixel-level (DX) data, cloud and surface properties derived from those data, temperature and moisture profiles from GEOS-4 reanalysis product obtained from the NASA Global Modeling and Assimilation Office (GMAO), and column ozone amounts constituted from Total Ozone Mapping Spectrometer (TOMS), TIROS Operational Vertical Sounder (TOVS) archives, and Stratospheric Monitoring-group&#8217;s Ozone Blended Analysis (SMOBA), an assimilation product from NOAA&#8217;s Climate Prediction Center. SRB products are reformatted for the use of renewable energy and agricultural communities and made available through the Surface meteorology and Solar Energy (SSE) website. SRB products now overlap a portion of surface and TOA flux data sets that are available from Clouds and the Earth&#8217;s Radiant Energy System (CERES) project. These CERES data products and those from the CERES Fast Longwave and SHortwave Radiative Fluxes (FLASHFlux) project extend past the SRB time frame. The latter project provides radiative fluxes on a near real-time basis. The CERES and CERES/FLASHFlux data sets also make use of global observations from Moderate-resolution Imaging SpectroRadiometer (MODIS) instruments.</p>\n"
+  curator_person_email: ""
+  title: NASA/GEWEX Surface Radiation Budget (SRB) Data and Info
+  slug: srb-data-and-info
+  id: "42"
+  curator_org_name: Atmospheric Science Data Center
+  url: http://data.nasa.gov/srb-data-and-info/
+  datagov_id: ""
+data_sources_075: 
+  curator_center: Goddard Space Flight Center
+  more_info_link: http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Water%20and%20Energy%20Cycles
+  curator_person_name: ""
+  remote_id: "357"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-09-02 18:02:23
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>Earth Science data access made simple. Through water and energy cycle research we can improve hurricane prediction, quantify tropical rainfall and eventually begin to balance the water budget at global and regional scales.</p>
+
+  curator_person_email: ""
+  title: "Mirador \xE2\x80\x93 Water and Energy Cycles"
+  slug: mirador-water-and-energy-cycles
+  id: "75"
+  curator_org_name: Goddard Earth Sciences Data and Information Services Center
+  url: http://data.nasa.gov/mirador-water-and-energy-cycles/
+  datagov_id: ""
+data_sources_009: 
+  curator_center: Jet Propulsion Laboratory
+  more_info_link: http://curator.jsc.nasa.gov/lunar/drive_tubes_tbl.cfm
+  curator_person_name: Nancy Todd
+  remote_id: "595"
+  created_at: 2011-09-08 20:25:40
+  updated_at: 2011-09-08 22:17:02
+  acronym: ""
+  curator_url: http://curator.nasa.gov
+  content: |
+    <p>Contains a brief summary and high resolution imagery from various core drive tubes collected from the Apollo missions to the moon.</p>
+
+  curator_person_email: nancy.s.todd@nasa.gov
+  title: Apollo Core Drive Tubes Summary
+  slug: apollo-core-drive-tubes-summary
+  id: "9"
+  curator_org_name: Astromaterials Acquisition & Curation Office
+  url: http://data.nasa.gov/apollo-core-drive-tubes-summary/
+  datagov_id: ""
+data_sources_011: 
+  curator_center: Johnson Space Center
+  more_info_link: http://curator.jsc.nasa.gov/lunar/displays/displays.cfm
+  curator_person_name: Nancy Todd
+  remote_id: "590"
+  created_at: 2011-09-08 20:19:30
+  updated_at: 2011-09-08 20:22:58
+  acronym: ""
+  curator_url: curator.jsc.nasa.gov
+  content: |
+    <p>A database of every location around the planet holding returned lunar samples from the Apollo missions.</p>
+
+  curator_person_email: nancy.s.todd@nasa.gov
+  title: Lunar Sample Display Locations
+  slug: lunar-sample-display-locations
+  id: "11"
+  curator_org_name: Astromaterials Acquisition & Curation Office
+  url: http://data.nasa.gov/lunar-sample-display-locations/
+  datagov_id: ""
+data_sources_052: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "381"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-26 10:23:10
+  acronym: 
+  curator_url: 
+  content: |
+    <p>The Keck Observatory Archive (KOA) is a NASA-funded collaboration between the NASA Exoplanet Science Institute (NExScI) and the W. M. Keck Observatory (WMKO). KOA has been archiving data from the High Resolution Echelle Spectrograph (HIRES) since August 18, 2004 and data acquired with the Near InfraRed echelle SPECtrograph (NIRSPEC) since May 17, 2010. The archived data extend back to 1994 for HIRES and 1999 for NIRSPEC.</p>
+
+  curator_person_email: 
+  title: Keck Observatory Archive
+  slug: keck-observatory-archive
+  id: "52"
+  curator_org_name: 
+  url: http://data.nasa.gov/keck-observatory-archive/
+  datagov_id: 
+data_sources_085: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "347"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: |
+    <p>Our mission is to help you picture climate change and environmental changes happening on our home planet. Here you can search for and retrieve satellite images of Earth. Download them; export them to GoogleEarth; perform basic analysis. Tracking regional and global changes around the world just got easier!</p>
+
+  curator_person_email: 
+  title: NASA Earth Observations
+  slug: nasa-earth-observations
+  id: "85"
+  curator_org_name: 
+  url: http://data.nasa.gov/nasa-earth-observations/
+  datagov_id: 
+data_sources_021: 
+  curator_center: Johnson Space Center
+  more_info_link: http://www.lpi.usra.edu/resources/mars_maps/
+  curator_person_name: ""
+  remote_id: "567"
+  created_at: 2011-09-08 18:38:43
+  updated_at: 2011-09-08 18:38:43
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The Mars Maps Catalog includes various mappings of the surface of Mars.</p>
+
+  curator_person_email: ""
+  title: Mars Map Catalog
+  slug: mars-map-catalog
+  id: "21"
+  curator_org_name: Lunar and Planetary Institute
+  url: http://data.nasa.gov/mars-map-catalog/
+  datagov_id: ""
+data_sources_037: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "396"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-26 10:23:11
+  acronym: 
+  curator_url: 
+  content: |
+    <p>Sponsored by NASA, EarthKAM (Earth Knowledge Acquired by Middle School Students) is an educational outreach program allowing middle school students to take pictures of our Earth from a digital camera on board the International Space Station. </p>
+
+  curator_person_email: 
+  title: EarthKAM
+  slug: earthkam
+  id: "37"
+  curator_org_name: 
+  url: http://data.nasa.gov/earthkam/
+  datagov_id: 
+data_sources_062: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "371"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-26 10:23:10
+  acronym: 
+  curator_url: 
+  content: |
+    <p>The JPL HORIZONS on-line solar system data and ephemeris computation service provides access to key solar system data and flexible production of highly accurate ephemerides for solar system objects ( 561485 asteroids, 3099 comets, 171 planetary satellites, 8 planets, the Sun, L1, L2, select spacecraft, and system barycenters ). HORIZONS is provided by the Solar System Dynamics Group of the Jet Propulsion Laboratory.</p>
+
+  curator_person_email: 
+  title: Horizons
+  slug: horizons
+  id: "62"
+  curator_org_name: 
+  url: http://data.nasa.gov/horizons/
+  datagov_id: 
+data_sources_019: 
+  curator_center: Johnson Space Center
+  more_info_link: http://www.lpi.usra.edu/resources/mercury_maps/
+  curator_person_name: ""
+  remote_id: "571"
+  created_at: 2011-09-08 18:43:29
+  updated_at: 2011-09-08 18:43:29
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The Mercury Map Catalog includes various mappings of the surface of Mercury published by the U.S. Geological Survey from 1976 &#8211; 1990.</p>
+
+  curator_person_email: ""
+  title: Mercury Map Catalog
+  slug: mercury-map-catalog
+  id: "19"
+  curator_org_name: Lunar and Planetary Institute
+  url: http://data.nasa.gov/mercury-map-catalog/
+  datagov_id: ""
+data_sources_095: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "337"
+  created_at: 2011-08-26 10:23:08
+  updated_at: 2011-08-26 10:23:08
+  acronym: 
+  curator_url: 
+  content: |
+    <p>Reverb has been developed utilizing modern web development technologies and presents you with a fresh new look and interface for discovering Earth Science data. We invite you to give it a try and let us know what you think. Reverb will be continually updated on a monthly basis taking into account your user feedback and other enhancements which are currently planned.</p>
+
+  curator_person_email: 
+  title: Reverb
+  slug: reverb
+  id: "95"
+  curator_org_name: 
+  url: http://data.nasa.gov/reverb/
+  datagov_id: 
+data_sources_072: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "360"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: |
+    <p>A comprehensive image analysis package for the processing, display, analysis, and quality control of ocean color data.</p>
+
+  curator_person_email: 
+  title: Ocean Color Web
+  slug: ocean-color-web
+  id: "72"
+  curator_org_name: 
+  url: http://data.nasa.gov/ocean-color-web/
+  datagov_id: 
+data_sources_029: 
+  curator_center: Goddard Space Flight Center
+  more_info_link: http://outgassing.nasa.gov/
+  curator_person_name: Mike Viens
+  remote_id: "533"
+  created_at: 2011-08-31 19:50:59
+  updated_at: 2011-08-31 19:50:59
+  acronym: ""
+  curator_url: http://code541.gsfc.nasa.gov/
+  content: |
+    <p>This compilation of outgassing data of materials intended for spacecraft use were obtained at the Goddard Space Flight Center (GSFC), utilizing equipment developed at Stanford Research Institue (SRI) under contract to the Jet Propulsion Laboratory (JPL).</p>
+    <p>SRI personnel developed an apparatus for determining the mass loss in vacuum and for collecting the outgassed products. Their report (Reference 1), which contained data from June 1964 to August 1967, served well as a foundation for selecting spacecraft materials with low outgassing properties. The apparatus was also constructed at GSFC and, based on the SRI data and GSFC data, a GSFC report (Reference 2) was published. That report included data for those materials meeting two criteria: a maximum total mass loss (TML) of 1.0 percent and maximum collected volatile condensable material (CVCM) of 0.10 percent.</p>
+    <p>After a series of tests and verification of procedures, an American Society for Testing and Materials (ASTM) Standard Test Method was developed, based upon this apparatus. The method, &#8220;Total Mass Loss (TML) and Collected Volatile Condensable Materials (CVCM) from Outgassing in a Vacuum Environment,&#8221; is identified as E 595-77/84/90. The data developed through the years have been reported in References 3, 4, 5, 6, 7, 8, and 9 as a means of assisting in selecting materials for space flight use.</p>
+
+  curator_person_email: michael.j.viens@nasa.gov
+  title: Spacecraft Material Outgassing Data
+  slug: spacecraft-material-outgassing-data
+  id: "29"
+  curator_org_name: Materials Engineering Branch, Code 541
+  url: http://data.nasa.gov/spacecraft-material-outgassing-data/
+  datagov_id: ""
+data_sources_006: 
+  curator_center: Goddard Space Flight Center
+  more_info_link: http://pmm.nasa.gov/data-access
+  curator_person_name: ""
+  remote_id: "616"
+  created_at: 2011-09-14 16:58:49
+  updated_at: 2011-09-14 16:58:49
+  acronym: ""
+  curator_url: http://atmospheres.gsfc.nasa.gov/
+  content: |
+    <p>Tropical Rainfall Measuring Mission (TRMM) data products are currently available from 1998 to the present.The TRMM is a joint mission between NASA and the Japan Aerospace Exploration Agency designed to monitor and study tropical rainfall.&#160;Global Precipitation Measurement data products will be provided following the launch of the GPM Core Observatory in 2013. Here we outline the types of products currently available for the TRMM and the various ways to query, view and download these precipitation products.</p>
+
+  curator_person_email: ""
+  title: Precipitation Measurement Missions Data Access
+  slug: precipitation-measurement-missions-data-access
+  id: "6"
+  curator_org_name: Laboratory for Atmospheres
+  url: http://data.nasa.gov/precipitation-measurement-missions-data-access/
+  datagov_id: ""
+data_sources_047: 
+  curator_center: Langley Research Center
+  more_info_link: http://eosweb.larc.nasa.gov/sse/
+  curator_person_name: Paul Stackhouse
+  remote_id: "386"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-26 20:36:34
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p><img src="/data/files/lasdc_logo.gif" alt="Atmospheric Science Data Center" width="107" height="153" class="alignnone size-full wp-image-430" />
+    <p>Surface Meteorology and Solar Energy data &#8211; over 200 satellite-derived meteorology and solar energy parameters, monthly averaged from 22 years of data, global solar data for 1195 ground sites</p>
+
+  curator_person_email: "paul.w.stackhouse@nasa.gov "
+  title: Surface Meteorology and Solar Energy
+  slug: surface-meteorology-and-solar-energy
+  id: "47"
+  curator_org_name: Applied Sciences Program
+  url: http://data.nasa.gov/surface-meteorology-and-solar-energy/
+  datagov_id: c7xg-zj3i
+data_sources_082: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "350"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-08-26 10:23:09
+  acronym: 
+  curator_url: 
+  content: "<p>Research at the NASA Goddard Institute for Space Studies (GISS) emphasizes a broad study of global change, which is an interdisciplinary initiative addressing natural and man-made changes in our environment that occur on various time scales \xC3\xA2\xE2\x82\xAC\xE2\x80\x9D from one-time forcings such as volcanic explosions, to seasonal and annual effects such as El Ni\xC3\x83\xC2\xB1o, and on up to the millennia of ice ages \xC3\xA2\xE2\x82\xAC\xE2\x80\x9D and that affect the habitability of our planet.</p>\n"
+  curator_person_email: 
+  title: Goddard Institute for Space Studies
+  slug: goddard-institute-for-space-studies
+  id: "82"
+  curator_org_name: 
+  url: http://data.nasa.gov/goddard-institute-for-space-studies/
+  datagov_id: 
+data_sources_034: 
+  curator_center: Ames Research Center
+  more_info_link: http://explore.data.gov/catalog/raw/?Dataset-Summary_Agency=National+Aeronautics+and+Space+Administration
+  curator_person_name: ""
+  remote_id: "399"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-12-22 18:32:01
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The &#8220;Raw&#8221; Data Catalog provides an instant download of machine readable, platform-independent datasets posted on Data.gov by NASA.</p>
+
+  curator_person_email: ""
+  title: Data.gov Raw Data Catalog for NASA
+  slug: data-gov-raw-data-catalog-for-nasa
+  id: "34"
+  curator_org_name: ""
+  url: http://data.nasa.gov/data-gov-raw-data-catalog-for-nasa/
+  datagov_id: "true"
+data_sources_016: 
+  curator_center: Non-NASA Facility
+  more_info_link: http://astrogeology.usgs.gov/Projects/MapBook/
+  curator_person_name: ""
+  remote_id: "578"
+  created_at: 2011-09-08 19:06:53
+  updated_at: 2011-09-08 19:06:53
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>Beginning with the systematic mapping of the lunar surface more than three decades ago, this database contains over 1600 maps of the planets and satellites of the Solar System. This collection of maps is a unique resource that has been derived from images and data returned by a series of space missions. Many of the maps have not been replicated or updated with data from new missions, and thus they represent a very special legacy from the beginnings of space exploration. The total map database includes controlled photomosaics, geologic maps, shaded relief portrayals, topographic maps, and panoramas of the martian surface.</p>
+
+  curator_person_email: ""
+  title: MapBook
+  slug: mapbook
+  id: "16"
+  curator_org_name: USGS Astrogeology Science Center
+  url: http://data.nasa.gov/mapbook/
+  datagov_id: ""
+data_sources_057: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "376"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-26 10:23:10
+  acronym: 
+  curator_url: 
+  content: |
+    <p>JPL OurOcean Portal: A daily, global Sea Surface Temperature (SST) data set is produced at 1-km (also known as ultra-high resolution) by the JPL ROMS (Regional Ocean Modeling System) group.</p>
+
+  curator_person_email: 
+  title: Global 1-km Sea Surface Temperature (G1SST)
+  slug: global-1-km-sea-surface-temperature-g1sst
+  id: "57"
+  curator_org_name: 
+  url: http://data.nasa.gov/global-1-km-sea-surface-temperature-g1sst/
+  datagov_id: 
+data_sources_092: 
+  curator_center: Goddard Space Flight Center
+  more_info_link: http://fermi.gsfc.nasa.gov/ssc/data/
+  curator_person_name: J.D. Myers
+  remote_id: "340"
+  created_at: 2011-08-26 10:23:08
+  updated_at: 2011-08-29 20:58:00
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>Fermi is a powerful space observatory that will open a wide window on the universe. Gamma rays are the highest-energy form of light, and the gamma-ray sky is spectacularly different from the one we perceive with our own eyes. With a huge leap in all key capabilities, Fermi data will enable scientists to answer persistent questions across a broad range of topics, including supermassive black-hole systems, pulsars, the origin of cosmic rays, and searches for signals of new physics.</p>
+
+  curator_person_email: ""
+  title: Fermi
+  slug: fermi
+  id: "92"
+  curator_org_name: ""
+  url: http://data.nasa.gov/fermi/
+  datagov_id: ""
+data_sources_067: 
+  curator_center: NASA Headquarters
+  more_info_link: http://nix.nasa.gov
+  curator_person_name: Gerald Steeman
+  remote_id: "365"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-29 18:31:07
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The NASA Image Exchange (NIX) is a collection of multimedia content from across NASA&#8217;s missions and projects.</p>
+
+  curator_person_email: gerald.steeman@nasa.gov
+  title: NASA Image Exchange (NIX)
+  slug: nasa-image-exchange
+  id: "67"
+  curator_org_name: Science and Technical Information Program
+  url: http://data.nasa.gov/nasa-image-exchange/
+  datagov_id: irva-tgt8
+data_sources_026: 
+  curator_center: Johnson Space Center
+  more_info_link: http://www.lpi.usra.edu/resources/apollo/
+  curator_person_name: ""
+  remote_id: "556"
+  created_at: 2011-09-08 18:22:24
+  updated_at: 2011-09-08 18:22:24
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>The Apollo Image Atlas is a comprehensive collection of Apollo-Saturn mission photography. Included are almost 25,000 lunar images, both from orbit and from the moon&#8217;s surface, as well as photographs of the earth, astronauts and mission hardware.</p>
+
+  curator_person_email: ""
+  title: Apollo Image Atlas
+  slug: apollo-image-atlas
+  id: "26"
+  curator_org_name: Lunar and Planetary Institute
+  url: http://data.nasa.gov/apollo-image-atlas/
+  datagov_id: ""
+data_sources_003: 
+  curator_center: Goddard Space Flight Center
+  more_info_link: http://oceancolor.gsfc.nasa.gov/
+  curator_person_name: Gene Carl Feldman
+  remote_id: "648"
+  created_at: 2011-10-13 20:50:20
+  updated_at: 2011-10-13 20:50:20
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>Satellite-derived Ocean Color Data sets from historical and currently operational NASA and International Satellite missions including the NASA Coastal Zone Color Scanner (CZCS) (1978 &#8211; 1986), NASDA&#8217;s Ocean Color Temperature Scanner (OCTS) (1996 &#8211; 1997), NASA/GeoEYE Sea-viewing Wide Field-of-view Sensor (SeaWiFS) (1997 &#8211; 2010), NASA&#8217;s Moderate Resolution Imaging Spectroradiometer (MODIS) on both the Terra and Aqua spacecraft (2000 &#8211; present) and ESA&#8217;s medium-spectral resolution, imaging spectrometer (MERIS) (2002 &#8211; present).</p>
+    <p><strong>Level-1A Data Products</strong><br />
+    Level-1A products contain the raw radiance counts from all bands as well as spacecraft and instrument telemetry. Calibration and navigation data, and instrument and selected spacecraft telemetry are also included. Level-1A data are used as input for geolocation, calibration, and processing.</p>
+    <p><strong>Ocean Level-2 Data Products</strong><br />
+    Each Level-2 product is generated from a corresponding Level-1A product.The main data contents of the product are the geophysical values for each pixel,derived from the Level-1A raw radiance counts by applying the sensor calibration, atmospheric corrections, and bio-optical algorithms. Each Level-2 product corresponds exactly in geographical coverage (scan-line and pixel extent) to that of its parent Level-1A product and is stored in one physical HDFfile.</p>
+    <p><strong>Ocean Level-3 Binned Data Products</strong><br />
+    Level-3 binned data products consist of the accumulated data for all Level-2 data corresponding to a period of one day, 8 days, a calendar month, or a calendar year.</p>
+    <p>Each Level-3 binned data product is stored in one or more HDF files. Each multi-file product includes a main file containing all product-level metadata and data for each bin that are common to all the binned geophysical parameters, and multiple subordinate files, each of which contains data of one binned geophysical parameter for all bins. Subordinate files must be read in conjunction with the associated main file.</p>
+    <p><strong>Ocean Level-3 Standard Mapped Image Products</strong><br />
+    The Level-3 standard mapped image (SMI) products are image representations of binned data products generated from SeaWiFS, MODIS, OCTS or CZCS data. The data in each SMI product represents an image of the parameter specified by the global attribute Parameter. This object is a two-dimensional array of an Equidistant Cylindrical (also known as Platte Carre) projection of the globe. The values can be stored as bytes, 2-byte integers, or 4- byte floats. The first two are scaled real values and may be converted projected to geophysical values using the global attributes Scaling, Scaling Equation, Base, Slope, and Intercept.</p>
+    <p>The standard SMI products are generated from binned data products, one for each of the following geophysical parameters: chlorophyll a concentration, angstrom coefficient, normalized water-leaving radiance at each visible wavelength, aerosol optical thickness, epsilon, and diffuse attenuation coefficient at 490 nm. For MODIS, products are generated for sea surface temperature (SST), 4 micron SST (SST4) and nighttime SST (NSST). Thus, each SMI product represents data binned over the period covered by the parent product. The arithmetic mean is used in each case to obtain the values for the SMI grid points from the binned data products. Each SMI product contains one image of a geophysical parameter and is stored in one physical HDF file.</p>
+
+  curator_person_email: gene.c.feldman@nasa.gov
+  title: Ocean Color
+  slug: ocean-color
+  id: "3"
+  curator_org_name: ""
+  url: http://data.nasa.gov/ocean-color/
+  datagov_id: ""
+data_sources_044: 
+  curator_center: Langley Research Center
+  more_info_link: http://eosweb.larc.nasa.gov/PRODOCS/isccp/table_isccp.html
+  curator_person_name: ""
+  remote_id: "389"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-29 18:29:31
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>International Satellite Cloud Climatology Project (ISCCP) focuses on the distribution and variation of cloud radiative properties to improve the understanding of the effects of clouds on climate, the radiation budget, and the long-term global hydrologic cycle.</p>
+
+  curator_person_email: ""
+  title: International Satellite Cloud Climatology Project (ISCCP)
+  slug: isccp
+  id: "44"
+  curator_org_name: Atmospheric Science Data Center
+  url: http://data.nasa.gov/isccp/
+  datagov_id: ""
+data_sources_077: 
+  curator_center: Goddard Space Flight Center
+  more_info_link: http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Climate%20Variability%20and%20Change
+  curator_person_name: ""
+  remote_id: "355"
+  created_at: 2011-08-26 10:23:09
+  updated_at: 2011-09-02 18:01:51
+  acronym: ""
+  curator_url: ""
+  content: |
+    <p>Earth Science data access made simple. NASA&#8217;s role in climate variability study is centered around providing the global scale observational data sets on oceans and ice, their forcings, and the interactions with the entire Earth system.</p>
+
+  curator_person_email: ""
+  title: "Mirador \xE2\x80\x93 Climate Variability and Change"
+  slug: mirador-climate-variability-and-change
+  id: "77"
+  curator_org_name: Goddard Earth Sciences Data and Information Services Center
+  url: http://data.nasa.gov/mirador-climate-variability-and-change/
+  datagov_id: ""
+data_sources_031: 
+  curator_center: Ames Research Center
+  more_info_link: http://earthdata.nasa.gov/data/data-tools
+  curator_person_name: ""
+  remote_id: "402"
+  created_at: 2011-08-26 10:23:11
+  updated_at: 2011-08-29 19:45:41
+  acronym: ""
+  curator_url: ""
+  content: "<p>The Earth Observing System Data and Information System (EOSDIS) manages and distributes data products through the Distributed Active Archive Centers (DAACs). The centers process, archive, document, and distribute data from NASA\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2s past and current research satellites and field programs. Each center serves one or more specific Earth science disciplines and provides data products, data information, services, and tools unique to its particular science.</p>\n"
+  curator_person_email: ""
+  title: Earth Observing System Data and Information System (EOSDIS)
+  slug: earth-observing-system-data-and-information-system-eosdis
+  id: "31"
+  curator_org_name: ""
+  url: http://data.nasa.gov/earth-observing-system-data-and-information-system-eosdis/
+  datagov_id: ""
+data_sources_013: 
+  curator_center: Johnson Space Center
+  more_info_link: http://www.lpi.usra.edu/resources/gc/gchome.html
+  curator_person_name: Paul Schenk
+  remote_id: "586"
+  created_at: 2011-09-08 19:59:11
+  updated_at: 2011-09-08 19:59:11
+  acronym: ""
+  curator_url: http://lpi.usra.edu
+  content: |
+    <p>This web page leads to a database of images and information about the 150 major impact craters on Ganymede and is updated semi-regularly based on continuing analysis of Voyager 2 images.</p>
+
+  curator_person_email: schenk@lpi.usra.edu
+  title: Ganymede Crater Database
+  slug: ganymede-crater-database
+  id: "13"
+  curator_org_name: Lunar and Planetary Institute
+  url: http://data.nasa.gov/ganymede-crater-database/
+  datagov_id: ""
+data_sources_054: 
+  curator_center: 
+  more_info_link: 
+  curator_person_name: 
+  remote_id: "379"
+  created_at: 2011-08-26 10:23:10
+  updated_at: 2011-08-26 10:23:10
+  acronym: 
+  curator_url: 
+  content: |
+    <p>PO.DAAC is an element of the Earth Observing System Data Information System (EOSDIS). PO.DAAC&#8217;s primary responsibility is to provide distribution and archive support for NASA&#8217;s physical oceanography missions such as TOPEX/Poseidon and SeaWinds on QuikSCAT. However, PO.DAAC additionally collaborates with other institutes to acquire complementary data products and value-added services.</p>
+
+  curator_person_email: 
+  title: Physical Oceanography Distributed Active Archive Center (PO.DAAC)
+  slug: physical-oceanography-distributed-active-archive-center-po-daac
+  id: "54"
+  curator_org_name: 
+  url: http://data.nasa.gov/physical-oceanography-distributed-active-archive-center-po-daac/
+  datagov_id: 
