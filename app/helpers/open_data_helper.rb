@@ -1,6 +1,4 @@
 module OpenDataHelper
-  require 'htmlentities'
-
   include HttpHelper
 
   API_DATA_URL = 'http://data.nasa.gov/api'.freeze
@@ -11,7 +9,7 @@ module OpenDataHelper
     'excerpt' => nil,
     'slug' => 'slug',
     'content' => 'content',
-    'url' => 'url',
+    'url' => nil,
     'id' => 'remote_id',
     'custom_fields' => nil,
     'date' => 'created_at',
@@ -45,7 +43,9 @@ module OpenDataHelper
 
     def to_data_source_hash(post)
       p = Hash[post.map {|k, v| [MAPPINGS[k.to_s].to_sym, v] unless MAPPINGS[k.to_s].nil? }]
-      p[:title] = HTMLEntities.new.decode p[:title]
+      p[:title] = HttpHelper.extract_text_from_html p[:title]
+      p[:content] = HttpHelper.extract_text_from_html p[:content]
+
       # convert custom_fields to top level items
       p.merge!(Hash[post['custom_fields'].map {|k, v| [k.to_sym, v.first] }])
     end

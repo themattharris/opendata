@@ -1,4 +1,6 @@
 module HttpHelper
+  require 'htmlentities'
+  require 'nokogiri'
   require 'typhoeus'
 
   class << self
@@ -18,6 +20,12 @@ module HttpHelper
       hydra.run
 
       request.response
+    end
+
+    def extract_text_from_html(content)
+      doc = Nokogiri::HTML(content)
+      c = doc.xpath("//text()").remove.to_s
+      HTMLEntities.new.decode c
     end
   end
 end

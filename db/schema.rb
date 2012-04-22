@@ -29,7 +29,6 @@ ActiveRecord::Schema.define(:version => 20120421203955) do
   create_table "data_sources", :force => true do |t|
     t.integer  "remote_id"
     t.string   "slug"
-    t.string   "url"
     t.string   "title"
     t.text     "content"
     t.string   "more_info_link"
