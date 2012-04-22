@@ -9,6 +9,8 @@ ActionController::Routing::Routes.draw do |map|
   map.curators 'curator', :controller => 'curators', :action => 'index'
   map.curator 'curator/:id', :controller => 'curators', :action => 'index'
 
+  map.schema 'schema/:id', :controller =>  'schemas', :action => 'show'
+
   map.data_source 'source/:id', :controller =>  'data_sources', :action => 'show'
 
   # Install the default routes as the lowest priority.

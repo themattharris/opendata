@@ -4,6 +4,18 @@
       <p><a class="btn btn-primary btn-large" href="<%= @data_source.more_info_link %>">Learn more &raquo;</a></p>
     </div>
 
+    <% if !@datasets.nil? %>
+      <h2>Datasets</h2>
+      <% @datasets.each do |set| %>
+      <div class="hero-unit">
+        <h3><%= link_to set.title, set.more_info_link %></h3>
+        <p><%= h set.content %></p>
+        <p><a class="btn btn-primary" href="<%= set.url %>">View Dataset</a>
+        <a class="btn" href="/schema/1">View Schema</a></p>
+      </div>
+      <% end %>
+    <% end %>
+
     <div class="row">
       <%= render(:partial => '/tags/teaser') if @tags.count > 0 %>
       <%= render(:partial => '/categories/teaser') if @categories.count > 0 %>
