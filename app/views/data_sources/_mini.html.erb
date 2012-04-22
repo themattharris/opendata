@@ -1,0 +1,6 @@
+
+  <div class="span4">
+    <h2><%= h ds.title %></h2>
+    <p><%= truncate(h(ds.content), :length => 200, :omission => '...') %></p>
+    <p><%= link_to "View details &raquo;", data_source_path(ds), :class => 'btn' %>
+  </div>

@@ -1,0 +1,6 @@
+
+    <div class="well">
+    <% things.each do |i| %>
+    <%= content_tag(:span, link_to(truncate(h(i.to_s), :length => 55, :omission => '...'), curator_path(i.id)), :class => "label #{random_label_variant}") %>
+    <% end %>
+    </div>
