@@ -1,0 +1,80 @@
+<pre>
+overview:
+  name: Kepler Planet Candidate Data Explorer
+  schema_author: @themattharris
+  last_modified: 2012-04-22T02:14:05+00:00
+
+data:
+  type: tabular
+  dimensions: 2
+
+schema:
+  # columns in order, left to right
+  - id: KOI
+    name: Kepler Object of Interest
+    type: string
+    description: Kepler Object Of Interest Number
+  - id: RPLANET
+    name: Planetary Radius
+    unit: Earth Radii
+    type: float
+    description: Planetary Radius
+  - mixed:
+      as: single
+      split: ±
+      - id: PER
+        name: Period
+        unit: Days
+        type: float
+        description: Average interval between transits. Based on a linear fit to all observed transits.
+      - id: UPER
+        name: Uncertainty in PER
+        unit: Days
+        type: float
+        description: Uncertainty in PER
+  - mixed:
+      as: single
+      split: ±
+      - id: T0
+        name: Time of Transit Center
+        unit: BJD-2454900
+        type:
+        description: Time of a transit center; BJD-2454900. Based on a linear fit to all observed transits.
+      - id: UT0
+        name: Uncertainty in T0
+        unit: BJD-2454900
+        type:
+        description: Uncertainty in T0
+  - id: A
+    name: Semi-Major Axis
+    unit: Astronomical Units
+    description: Semi-major axis of orbit. This is the longer dimension of the ellipse-shaped orbit, based on Newton's generalization of Kepler's third law and the stellar mass. For a circular orbit, A is the orbit radius.
+  - id: TPLANET
+    name: Planet Temperature
+    unit: Kelvin
+    description: Equilibrium temperature of planet. See [Borucki et al](http://xxx.lanl.gov/abs/1102.0541v1) for discussion.
+  - id: MSTAR
+    name: Stellar Mass
+    unit: Solar Mass
+    description: Stellar mass derived from log(g) and stellar radius.
+  - id: TSTAR
+    name: Tstar
+    unit: Kelvin
+    description: Effective Temperature of host star as reported in the KIC.
+  - id: RSTAR
+    name: Stellar Radius
+    unit: Solar Radii
+    description: Stellar radius reported by KIC. If TSTAR_FLAG = 1, then R is based on J-K interpolation.
+  - id: KMAG
+    name: Kepler Magnitude
+    unit: Kepler Magnitude
+    description: Kepler Magnitude
+  - id: RA
+    name: Right Ascension
+    unit: Hours
+    description: Right Ascension (J2000)
+  - id: DEC
+    name: Declination
+    unit: Degrees
+    description: Declination (J2000)
+</pre>
