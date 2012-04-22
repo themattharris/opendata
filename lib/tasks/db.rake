@@ -4,7 +4,16 @@ namespace :db do
     envs = ['development', 'test']
     envs.each do |env|
       puts "Rebuilding #{env}"
-      system("env RAILS_ENV=#{env} rake db:drop db:create db:migrate db:fixtures:load")
+      system("env RAILS_ENV=#{env} rake db:drop db:create db:migrate")
+    end
+    puts "done."
+  end
+
+  desc "Drop, recreate and then load fixtures into the local db"
+  task :rebuild_with_fixtures => [:rebuild, :environment] do
+    envs = ['development', 'test']
+    envs.each do |env|
+      system("env RAILS_ENV=#{env} rake db:fixtures:load")
     end
     puts "done."
   end
