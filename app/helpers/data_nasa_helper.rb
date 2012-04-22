@@ -1,4 +1,4 @@
-module OpenDataHelper
+module DataNasaHelper
   include HttpHelper
 
   API_DATA_URL = 'http://data.nasa.gov/api'.freeze
@@ -7,9 +7,9 @@ module OpenDataHelper
     'modified' => 'updated_at',
     'title_plain' => 'title',
     'excerpt' => nil,
-    'slug' => 'slug',
+    'slug' => nil,
     'content' => 'content',
-    'url' => nil,
+    'url' => 'url',
     'id' => 'remote_id',
     'custom_fields' => nil,
     'date' => 'created_at',
