@@ -1,28 +1,27 @@
-<h1>Listing curators</h1>
 
-<table>
-  <tr>
-    <th>Person name</th>
-    <th>Person email</th>
-    <th>Url</th>
-    <th>Center</th>
-    <th>Org</th>
-  </tr>
+<div class="row-fluid">
+  <div class="span3">
+    <div class="well sidebar-nav">
+      <ul class="nav nav-list">
+        <li class="nav-header">Curator Listing</li>
+        <% @curators.each do |curator| %>
+        <li><%= link_to curator.to_s, curator_path(curator.id) %></li>
+        <% end %>
+      </ul>
+    </div>
+  </div>
 
-<% @curators.each do |curator| %>
-  <tr>
-    <td><%=h curator.person_name %></td>
-    <td><%=h curator.person_email %></td>
-    <td><%=h curator.url %></td>
-    <td><%=h curator.center %></td>
-    <td><%=h curator.org %></td>
-    <td><%= link_to 'Show', curator %></td>
-    <td><%= link_to 'Edit', edit_curator_path(curator) %></td>
-    <td><%= link_to 'Destroy', curator, :confirm => 'Are you sure?', :method => :delete %></td>
-  </tr>
-<% end %>
-</table>
+  <div class="span9">
+    <div class="hero-unit">
+      <% if @curator.nil? %>
+      <h1>Curator Listings</h1>
+      <% else %>
+      <h1>Curator Listing for: <%= h @curator.to_s %></h1>
+      <% end %>
+    </div>
 
-<br />
-
-<%= link_to 'New curator', new_curator_path %>
+    <div class="row-fluid">
+    <%= render(:partial => '/shared/data_sources_grid', :locals => { :data_sources => @curator.data_sources }) if !@curator.nil? && @curator.data_sources.count > 0 %>
+    </div>
+  </div>
+</div>

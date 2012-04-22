@@ -1,22 +1,27 @@
-<h1>Listing categories</h1>
 
-<table>
-  <tr>
-    <th>Slug</th>
-    <th>Title</th>
-  </tr>
+    <div class="row-fluid">
+      <div class="span3">
+        <div class="well sidebar-nav">
+          <ul class="nav nav-list">
+            <li class="nav-header">Category Listing</li>
+            <% @categories.each do |category| %>
+            <li><%= link_to category.title, category_path(category.slug) %></li>
+            <% end %>
+          </ul>
+        </div>
+      </div>
 
-<% @categories.each do |category| %>
-  <tr>
-    <td><%=h category.slug %></td>
-    <td><%=h category.title %></td>
-    <td><%= link_to 'Show', category %></td>
-    <td><%= link_to 'Edit', edit_category_path(category) %></td>
-    <td><%= link_to 'Destroy', category, :confirm => 'Are you sure?', :method => :delete %></td>
-  </tr>
-<% end %>
-</table>
+      <div class="span9">
+        <div class="hero-unit">
+          <% if @category.nil? %>
+          <h1>Category Listings</h1>
+          <% else %>
+          <h1>Category Listing for: <%= h @category.title %></h1>
+          <% end %>
+        </div>
 
-<br />
-
-<%= link_to 'New category', new_category_path %>
+        <div class="row-fluid">
+        <%= render(:partial => '/shared/data_sources_grid', :locals => { :data_sources => @category.data_sources }) if !@category.nil? && @category.data_sources.count > 0 %>
+        </div>
+      </div>
+    </div>

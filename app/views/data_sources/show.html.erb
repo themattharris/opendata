@@ -1,68 +1,11 @@
-<p>
-  <b>Remote:</b>
-  <%=h @data_source.remote_id %>
-</p>
+    <div class="hero-unit">
+      <h1><%= h @data_source.title %></h1>
+      <p><%= h @data_source.content %></p>
+      <p><a class="btn btn-primary btn-large" href="<%= @data_source.more_info_link %>">Learn more &raquo;</a></p>
+    </div>
 
-<p>
-  <b>Slug:</b>
-  <%=h @data_source.slug %>
-</p>
-
-<p>
-  <b>Url:</b>
-  <%=h @data_source.url %>
-</p>
-
-<p>
-  <b>Title:</b>
-  <%=h @data_source.title %>
-</p>
-
-<p>
-  <b>Content:</b>
-  <%=h @data_source.content %>
-</p>
-
-<p>
-  <b>More info url:</b>
-  <%=h @data_source.more_info_url %>
-</p>
-
-<p>
-  <b>Acronym:</b>
-  <%=h @data_source.acronym %>
-</p>
-
-<p>
-  <b>Datagov:</b>
-  <%=h @data_source.datagov_id %>
-</p>
-
-<p>
-  <b>Curator person name:</b>
-  <%=h @data_source.curator_person_name %>
-</p>
-
-<p>
-  <b>Curator person email:</b>
-  <%=h @data_source.curator_person_email %>
-</p>
-
-<p>
-  <b>Curator url:</b>
-  <%=h @data_source.curator_url %>
-</p>
-
-<p>
-  <b>Curator center:</b>
-  <%=h @data_source.curator_center %>
-</p>
-
-<p>
-  <b>Curator org name:</b>
-  <%=h @data_source.curator_org_name %>
-</p>
-
-
-<%= link_to 'Edit', edit_data_source_path(@data_source) %> |
-<%= link_to 'Back', data_sources_path %>
+    <div class="row">
+      <%= render(:partial => '/tags/teaser') if @tags.count > 0 %>
+      <%= render(:partial => '/categories/teaser') if @categories.count > 0 %>
+      <%= render(:partial => '/curators/teaser') if @curators.count > 0 %>
+    </div>

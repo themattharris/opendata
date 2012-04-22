@@ -1,6 +1,6 @@
 
     <div class="span4">
       <h2>Categories</h2>
-      <%= render :partial => "shared/teaser_listing", :locals => { :things => @categories } %>
+      <%= render :partial => "categories/teaser_listing", :locals => { :things => @categories } %>
       <p><%= link_to "Category Index &raquo;", categories_path, :class => "btn" %> <% %></p>
     </div>

@@ -60,7 +60,7 @@ module DataNasaHelper
       p[:title] = HttpHelper.extract_text_from_html p[:title]
       p[:content] = HttpHelper.extract_text_from_html p[:content]
 
-      cf = Hash[post['custom_fields'].map {|k, v| [CUSTOM_FIELD_MAPPINGS[k.to_s].to_sym, v] unless !CUSTOM_FIELD_MAPPINGS.include?(k.to_s) || CUSTOM_FIELD_MAPPINGS[k.to_s].nil? || v.to_s.empty? }]
+      cf = Hash[post['custom_fields'].map {|k, v| [CUSTOM_FIELD_MAPPINGS[k.to_s].to_sym, v.to_s] unless !CUSTOM_FIELD_MAPPINGS.include?(k.to_s) || CUSTOM_FIELD_MAPPINGS[k.to_s].nil? || v.to_s.empty? }]
 
       # convert custom_fields to top level items
       p.merge!(cf)
