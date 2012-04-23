@@ -1,1117 +1,405 @@
 --- 
-data_sources_091: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/atlas-of-extratropical-storm-tracks/
-  updated_at: 2011-08-26 10:23:08
-  datagov_id: 
-  parent_id: 
-  remote_id: "341"
-  id: "91"
-  title: Atlas of Extratropical Storm Tracks
-  created_at: 2011-08-26 10:23:08
-  content: Plotted images and a dataset for getting underlying coordinate data of extratropical storms.
-data_sources_089: 
-  more_info_link: |
-    --- 
-    - http://idn.ceos.org/portals/Home.do?Portal=idn_ceos&MetadataType=0
-
-  acronym: 
-  url: http://data.nasa.gov/ceos-international-directory-portal/
-  updated_at: 2011-08-29 20:53:32
-  datagov_id: 
-  parent_id: 
-  remote_id: "343"
-  id: "89"
-  title: Committee on Earth Observation Satellites (CEOS) International Directory Portal
-  created_at: 2011-08-26 10:23:09
-  content: "The CEOS IDN is an international effort developed to assist researchers in locating information on available datasets and services.  The directory is sponsored as a service to the Earth science community. "
-data_sources_066: 
-  more_info_link: |
-    --- 
-    - http://ntrs.nasa.gov/search.jsp
-
-  acronym: 
-  url: http://data.nasa.gov/nasa-technical-reports-server/
-  updated_at: 2011-08-29 18:31:30
-  datagov_id: 
-  parent_id: 
-  remote_id: "367"
-  id: "66"
-  title: NASA Technical Reports Server (NTRS)
-  created_at: 2011-08-26 10:23:10
-  content: "The NTRS is a valuable resource for researchers, students, educators, and the public to access NASA\xE2\x80\x99s current and historical technical literature and engineering results. Over 500,000 aerospace-related citations, over 200,000 full-text online documents, and over 500,000 images and videos are available. NTRS content continues to grow as new scientific and technical information (STI) is created or funded by NASA. The types of information found in the NTRS include: conference papers, journal articles, meeting papers, patents, research reports, images, movies, and technical videos. "
-data_sources_018: 
-  more_info_link: |
-    --- 
-    - http://ser.sese.asu.edu/M10/IMAGE_ARCHIVE/Mercury_search.html
-
-  acronym: 
-  url: http://data.nasa.gov/mariner-10-image-archive/
-  updated_at: 2011-09-08 18:47:03
-  datagov_id: 
-  parent_id: 
-  remote_id: "573"
-  id: "18"
-  title: Mariner 10 Image Archive
-  created_at: 2011-09-08 18:47:03
-  content: "The Mariner 10 Image Archive includes tools to view shaded relief maps of the surface of Mercury, a 3D globe, and all images acquired by NASA\xE2\x80\x99s Mariner 10 mission."
-data_sources_043: 
-  more_info_link: |
-    --- 
-    - http://eosweb.larc.nasa.gov/PRODOCS/misr/table_misr.html
-
-  acronym: 
-  url: http://data.nasa.gov/misr/
-  updated_at: 2011-08-29 18:29:58
-  datagov_id: 
-  parent_id: 
-  remote_id: "390"
-  id: "43"
-  title: Multi-angle Imaging SpectroRadiometer (MISR)
-  created_at: 2011-08-26 10:23:11
-  content: "The Multi-angle Imaging SpectroRadiometer (MISR) was successfully launched into sun-synchronous polar orbit aboard Terra, NASA\xE2\x80\x99s first Earth Observing System (EOS) spacecraft, on December 18, 1999. MISR measurements are designed to improve our understanding of the Earth\xE2\x80\x99s environment and climate. Viewing the sunlit Earth simultaneously at nine widely-spaced angles, MISR provides radiometrically and geometrically calibrated images in four spectral bands at each of the angles. Spatial sampling of 275 and 1100 meters is provided on a global basis. "
-data_sources_020: 
-  more_info_link: |
-    --- 
-    - http://www.lpi.usra.edu/resources/lunarorbiter/
-
-  acronym: 
-  url: http://data.nasa.gov/lunar-orbiter-photo-gallery/
-  updated_at: 2011-09-08 18:40:35
-  datagov_id: 
-  parent_id: 
-  remote_id: "569"
-  id: "20"
-  title: Lunar Orbiter Photo Gallery
-  created_at: 2011-09-08 18:40:35
-  content: "The Lunar Orbiter Photo Gallery is an extensive collection of over 2,600 high- and moderate-resolution photographs produced by all five of the Lunar Orbiter missions. These photographs were taken in 1966 and 1967 to survey possible lunar landing sites and provide baseline imagery for geologic analysis of the lunar surface. The images were used to select the Apollo landing sites and to produce many of our existing lunar geologic maps. This photo gallery is the web\xE2\x80\x99s most comprehensive collection of Lunar Orbiter photography and supporting documents."
-data_sources_076: 
-  more_info_link: |
-    --- 
-    - http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Earth%20Surface%20and%20Interior
-
-  acronym: 
-  url: http://data.nasa.gov/mirador-earth-surface-and-interior/
-  updated_at: 2011-09-02 18:02:07
-  datagov_id: 
-  parent_id: 
-  remote_id: "356"
-  id: "76"
-  title: "Mirador \xE2\x80\x93 Earth Surface and Interior"
-  created_at: 2011-08-26 10:23:09
-  content: Earth Science data access made simple. The goal of the Earth Surface and Interior focus area is to assess, mitigate and forecast the natural hazards that affect society, including earthquakes, landslides, coastal and interior erosion, floods and volcanic eruptions.
-data_sources_053: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/warehouse-inventory-search-tool/
-  updated_at: 2011-08-26 10:23:10
-  datagov_id: 
-  parent_id: 
-  remote_id: "380"
-  id: "53"
-  title: Warehouse Inventory Search Tool
-  created_at: 2011-08-26 10:23:10
-  content: The Warehouse Inventory Search tool is a Web-based search-and-order tool that provides a way for users to search for Earth Science data from multiple participating archives.
-data_sources_005: 
-  more_info_link: |
-    --- 
-    - http://grin.hq.nasa.gov/
-
-  acronym: |
-    --- 
-    - GRIN
-
-  url: http://data.nasa.gov/great-images-in-nasa/
-  updated_at: 2011-09-19 06:26:13
-  datagov_id: 
-  parent_id: 
-  remote_id: "619"
-  id: "5"
-  title: Great Images in NASA
-  created_at: 2011-09-19 06:26:13
-  content: GRIN is a collection of over a thousand images of significant historical interest scanned at high-resolution in several sizes. This collection is intended for the media, publishers, and the general public looking for high-quality photographs.
-data_sources_030: 
-  more_info_link: |
-    --- 
-    - http://naif.jpl.nasa.gov/naif/data.html
-
-  acronym: 
-  url: http://data.nasa.gov/navigation-and-ancillary-information-facilitys-spice/
-  updated_at: 2011-08-31 19:47:26
-  datagov_id: 
-  parent_id: 
-  remote_id: "529"
-  id: "30"
-  title: "Navigation and Ancillary Information Facility\xE2\x80\x99s SPICE"
-  created_at: 2011-08-31 19:47:26
-  content: "SPICE is used throughout the life cycle of NASA planetary science missions to help scientists and engineers design missions, plan scientific observations, analyze science data and conduct various engineering functions associated with flight projects. The primary SPICE data sets are often called \xE2\x80\x9Ckernels\xE2\x80\x9D or \xE2\x80\x9Ckernel files.\xE2\x80\x9D SPICE kernels are composed of navigation and other ancillary information that has been structured and formatted for easy access and correct use by the planetary science and engineering communities."
-data_sources_028: 
-  more_info_link: |
-    --- 
-    - "http://wicn.nssc.nasa.gov/ "
-
-  acronym: |
-    --- 
-    - WICN
-
-  url: http://data.nasa.gov/workforce-information-cubes-for-nasa-2/
-  updated_at: 2011-09-02 17:16:48
-  datagov_id: 
-  parent_id: 
-  remote_id: "539"
-  id: "28"
-  title: Workforce Information Cubes for NASA
-  created_at: 2011-09-02 17:16:48
-  content: "Workforce Information Cubes for NASA, sourced from NASA\xE2\x80\x99s\xC2\xA0personnel/payroll system, gives data about who is working where and on what. Includes records for every civil service employee in NASA, snapshots\xC2\xA0of workforce composition as of certain dates, and data on personnel\xC2\xA0transactions, such as hires, losses and promotions. Updates occur every 2\xC2\xA0weeks."
-data_sources_086: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/land-surface-temperature-at-night/
-  updated_at: 2011-08-26 10:23:09
-  datagov_id: 
-  parent_id: 
-  remote_id: "346"
-  id: "86"
-  title: Land Surface Temperature at Night
-  created_at: 2011-08-26 10:23:09
-  content: "MODIS (or Moderate Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (EOS AM) and Aqua (EOS PM) satellites. Terra\xE2\x80\x99s orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. Terra MODIS and Aqua MODIS are viewing the entire Earth\xE2\x80\x99s surface every 1 to 2 days, acquiring data in 36 spectral bands, or groups of wavelengths (see MODIS Technical Specifications). This map shows the temperature of Earth\xE2\x80\x99s lands during the nighttime. "
-data_sources_038: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/earth-observatory/
-  updated_at: 2011-08-26 10:23:11
-  datagov_id: 
-  parent_id: 
-  remote_id: "395"
-  id: "38"
-  title: Earth Observatory
-  created_at: 2011-08-26 10:23:11
-  content: "The Earth Observatory\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2s mission is to share with the public the images, stories, and discoveries about climate and the environment that emerge from NASA research, including its satellite missions, in-the-field research, and climate models."
-data_sources_063: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/jpl-ecco-ocean-data-assimilation/
-  updated_at: 2011-08-26 10:23:10
-  datagov_id: 
-  parent_id: 
-  remote_id: "370"
-  id: "63"
-  title: JPL Ecco Ocean Data Assimilation
-  created_at: 2011-08-26 10:23:10
-  content: ECCO was established in 1998 as part of the World Ocean Circulation Experiment (WOCE) with the goal of combining a general circulation model (GCM) with diverse observations in order to produce a quantitative depiction of the time-evolving global ocean state.
-data_sources_015: 
-  more_info_link: |
-    --- 
-    - http://planetarynames.wr.usgs.gov/
-
-  acronym: 
-  url: http://data.nasa.gov/gazetteer-of-planetary-nomenclature/
-  updated_at: 2011-09-08 19:14:01
-  datagov_id: 
-  parent_id: 
-  remote_id: "581"
-  id: "15"
-  title: Gazetteer of Planetary Nomenclature
-  created_at: 2011-09-08 19:14:01
-  content: Planetary nomenclature, like terrestrial nomenclature, is used to uniquely identify a feature on the surface of a planet or satellite so that the feature can be easily located, described, and discussed. This gazetteer contains detailed information about all names of topographic and albedo features on planets and satellites (and some planetary ring and ring-gap systems) that the International Astronomical Union (IAU) has named and approved from its founding in 1919 through the present time.
-data_sources_040: 
-  more_info_link: |
-    --- 
-    - https://zulu.ssc.nasa.gov/mrsid/
-
-  acronym: 
-  url: http://data.nasa.gov/landsat-2000/
-  updated_at: 2011-08-29 18:23:23
-  datagov_id: 
-  parent_id: 
-  remote_id: "393"
-  id: "40"
-  title: Landsat 2000
-  created_at: 2011-08-26 10:23:11
-  content: Low resolution terrain imagery.
-data_sources_073: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/planetary-data-system/
-  updated_at: 2011-09-08 18:17:03
-  datagov_id: 
-  parent_id: 
-  remote_id: "359"
-  id: "73"
-  title: Planetary Data System
-  created_at: 2011-08-26 10:23:09
-  content: "The Planetary Data System (PDS) is an archive of data products from NASA planetary missions, which is sponsored by NASA\xE2\x80\x99s Science Mission Directorate. We actively manage the archive to maximize its usefulness, and it has become a basic resource for scientists around the world."
-data_sources_050: 
-  more_info_link: |
-    --- 
-    - http://prime.jsc.nasa.gov/earthplus/
-
-  acronym: 
-  url: http://data.nasa.gov/earthplus/
-  updated_at: 2011-09-02 13:31:57
-  datagov_id: 
-  parent_id: 
-  remote_id: "383"
-  id: "50"
-  title: Earth+
-  created_at: 2011-08-26 10:23:10
-  content: Earth+ makes NASA satellite photos and data accessible to blind students.
-data_sources_002: 
-  more_info_link: |
-    --- 
-    - http://sdo.gsfc.nasa.gov/data/
-
-  acronym: |
-    --- 
-    - SDO
-
-  url: http://data.nasa.gov/sdo/
-  updated_at: 2011-11-22 02:00:09
-  datagov_id: 
-  parent_id: 
-  remote_id: "653"
-  id: "2"
-  title: Solar Dynamics Observatory
-  created_at: 2011-11-22 02:00:09
-  content: "A searchable database of all Solar Dynamics Observatory data including EUV, magnetograms, visible light and X-ray.\n\
-    SDO: The Solar Dynamics Observatory is the first mission to be launched for NASA\xE2\x80\x99s Living With a Star (LWS) Program, a program designed to understand the causes of solar variability and its impacts on Earth. SDO is designed to help us understand the Sun\xE2\x80\x99s influence on Earth and Near-Earth space by studying the solar atmosphere on small scales of space and time and in many wavelengths simultaneously.\n\
-    SDO\xE2\x80\x99s goal is to understand, driving towards a predictive capability, the solar variations that influence life on Earth and humanity\xE2\x80\x99s technological systems by determining how the Sun\xE2\x80\x99s magnetic field is generated and structured and how this stored magnetic energy is converted and released into the heliosphere and geospace in the form of solar wind, energetic particles, and variations in the solar irradiance."
-data_sources_048: 
-  more_info_link: |
-    --- 
-    - http://eosweb.larc.nasa.gov/PRODOCS/tes/table_tes.html
-
-  acronym: 
-  url: http://data.nasa.gov/tes-data-and-information/
-  updated_at: 2011-08-29 18:27:58
-  datagov_id: 
-  parent_id: 
-  remote_id: "385"
-  id: "48"
-  title: Tropospheric Emission Spectrometer (TES) Data and Information
-  created_at: 2011-08-26 10:23:11
-  content: This site provides access to the software read tools, a data pool, and supporting documentation for the Tropospheric Emission Spectrometer. TES is a high-resolution imaging infrared Fourier-transform spectrometer that operates in both nadir and limb-sounding modes. TES global survey standard products include profile measurements of ozone, water vapor, carbon monoxide, methane, nitrogen dioxide, and nitric acid for 16 orbits every other day. TES Special Observations are research measurements of targeted locations or regional transects which are used to observe specific phenomena or to support local or aircraft validation campaigns.
-data_sources_025: 
-  more_info_link: |
-    --- 
-    - http://www.lpi.usra.edu/resources/apollopanoramas/
-
-  acronym: 
-  url: http://data.nasa.gov/apollo-surface-panoramas/
-  updated_at: 2011-09-08 18:24:53
-  datagov_id: 
-  parent_id: 
-  remote_id: "558"
-  id: "25"
-  title: Apollo Surface Panoramas
-  created_at: 2011-09-08 18:24:53
-  content: "Apollo Surface Panoramas is a digital library of photographic panoramas that the Apollo astronauts took while exploring the Moon\xE2\x80\x99s surface. These images provide a spectacular boots-on-the-ground view of the lunar landscape. The panoramas are stitched together from individual 70mm Hasselblad frames, each of which is also accessible through this new atlas. Lunar surface features captured in the panoramas can be studied using zoom and pan tools. An annotated version of each panorama is also available to assist users with the identification of major geographic features around each Apollo landing site."
-data_sources_083: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/high-energy-astrophysics-science-archive-research-center/
-  updated_at: 2011-08-26 10:23:09
-  datagov_id: 
-  parent_id: 
-  remote_id: "349"
-  id: "83"
-  title: High Energy Astrophysics Science Archive Research Center
-  created_at: 2011-08-26 10:23:09
-  content: "The High Energy Astrophysics Science Archive Research Center (HEASARC) is the primary archive for NASA missions dealing with extremely energetic phenomena, from black holes to the Big Bang. "
-data_sources_058: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/jpl-tropical-cyclone-information-system/
-  updated_at: 2011-08-26 10:23:10
-  datagov_id: 
-  parent_id: 
-  remote_id: "375"
-  id: "58"
-  title: JPL Tropical Cyclone Information System
-  created_at: 2011-08-26 10:23:10
-  content: "The JPL Tropical Cyclone Information System (TCIS) brings together satellite and in situ data sets from various sources to help you find information for a particular tropical cyclone over the world\xE2\x80\x99s oceans."
-data_sources_035: 
-  more_info_link: |
-    --- 
-    - http://www.data.gov/catalog/geodata/category/0/agency/183/filter//sort//page/1/count/10
-
-  acronym: 
-  url: http://data.nasa.gov/data-gov-geodata-catalog-for-nasa/
-  updated_at: 2011-12-22 18:31:50
-  datagov_id: |
-    --- 
-    - "true"
-
-  parent_id: 
-  remote_id: "398"
-  id: "35"
-  title: Data.gov GeoData Catalog for NASA
-  created_at: 2011-08-26 10:23:11
-  content: ""
-data_sources_060: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/planet-quest/
-  updated_at: 2011-08-26 10:23:10
-  datagov_id: 
-  parent_id: 
-  remote_id: "373"
-  id: "60"
-  title: Planet Quest
-  created_at: 2011-08-26 10:23:10
-  content: "Planet Counter: Keep track of the latest planet discoveries on your desktop."
-data_sources_012: 
-  more_info_link: |
-    --- 
-    - http://www.lpi.usra.edu/resources/vc/vchome.html
-
-  acronym: 
-  url: http://data.nasa.gov/venus-crater-database/
-  updated_at: 2011-09-09 14:16:56
-  datagov_id: 
-  parent_id: 
-  remote_id: "588"
-  id: "12"
-  title: Venus Crater Database
-  created_at: 2011-09-08 20:00:33
-  content: This web page leads to a database of images and information about the 900 or so impact craters on the surface of Venus by diameter, latitude, and name.
-data_sources_093: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/national-space-science-data-center-master-catalog/
-  updated_at: 2011-08-26 10:23:08
-  datagov_id: 
-  parent_id: 
-  remote_id: "339"
-  id: "93"
-  title: National Space Science Data Center Master Catalog
-  created_at: 2011-08-26 10:23:08
-  content: "The National Space Science Data Center serves as the permanent archive for NASA space science mission data. \xE2\x80\x9CSpace science\xE2\x80\x9D means astronomy and astrophysics, solar and space plasma physics, and planetary and lunar science. As permanent archive, NSSDC teams with NASA\xE2\x80\x99s discipline-specific space science \xE2\x80\x9Cactive archives\xE2\x80\x9D which provide access to data to researchers and, in some cases, to the general public. Search by event, spacecraft, experiment, map, or publication query. NSSDC is part of the Solar System Exploration Data Services Office (SSEDSO) in the Solar System Exploration Division at NASA\xE2\x80\x99s Goddard Space Flight Center in Greenbelt, MD."
-data_sources_070: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/giovanni-environmental-instances/
-  updated_at: 2011-08-26 10:23:09
-  datagov_id: 
-  parent_id: 
-  remote_id: "362"
-  id: "70"
-  title: GIOVANNI Environmental Instances
-  created_at: 2011-08-26 10:23:09
-  content: Giovanni is a Web-based application developed by the GES DISC that provides a simple and intuitive way to visualize, analyze, and access vast amounts of Earth science remote sensing data without having to download the data. Giovanni is an acronym for the GES-DISC (Goddard Earth Sciences Data and Information Services Center) Interactive Online Visualization ANd aNalysis Infrastructure.
-data_sources_068: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/giovanni-hydrology-instances/
-  updated_at: 2011-08-26 10:23:09
-  datagov_id: 
-  parent_id: 
-  remote_id: "364"
-  id: "68"
-  title: GIOVANNI Hydrology Instances
-  created_at: 2011-08-26 10:23:09
-  content: Giovanni is a Web-based application developed by the GES DISC that provides a simple and intuitive way to visualize, analyze, and access vast amounts of Earth science remote sensing data without having to download the data. Giovanni is an acronym for the GES-DISC (Goddard Earth Sciences Data and Information Services Center) Interactive Online Visualization ANd aNalysis Infrastructure.
-data_sources_045: 
-  more_info_link: |
-    --- 
-    - http://eosweb.larc.nasa.gov/PRODOCS/ceres/table_ceres.html
-
-  acronym: 
-  url: http://data.nasa.gov/ceres/
-  updated_at: 2011-08-29 18:29:01
-  datagov_id: 
-  parent_id: 
-  remote_id: "388"
-  id: "45"
-  title: "Clouds and the Earth\xE2\x80\x99s Radiant Energy System (CERES)"
-  created_at: 2011-08-26 10:23:11
-  content: "The Clouds and the Earth\xE2\x80\x99s Radiant Energy System (CERES) is a key component of the Earth Observing System (EOS) program. The CERES instruments provide radiometric measurements of the Earth\xE2\x80\x99s atmosphere from three broadband channels. The CERES missions are a follow-on to the successful Earth Radiation Budget Experiment (ERBE) mission. The first CERES instrument (PFM) was launched on November 27, 1997 as part of the Tropical Rainfall Measuring Mission (TRMM). Two CERES instruments (FM1 and FM2) were launched into polar orbit on board the EOS flagship Terra on December 18, 1999, and two additional CERES instruments (FM3 and FM4) were launched on board EOS Aqua on May 4, 2002."
-data_sources_022: 
-  more_info_link: |
-    --- 
-    - http://www.lpi.usra.edu/resources/mapcatalog/
-
-  acronym: 
-  url: http://data.nasa.gov/lunar-map-catalog/
-  updated_at: 2011-09-08 18:36:45
-  datagov_id: 
-  parent_id: 
-  remote_id: "565"
-  id: "22"
-  title: Lunar Map Catalog
-  created_at: 2011-09-08 18:36:45
-  content: "The Lunar Map Catalog includes various maps of the moon\xE2\x80\x99s surface, including Apollo landing sites; earthside, farside, and polar charts; photography index maps; zone mosaics; shaded relief; topographic; and a geologic atlas."
 data_sources_080: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/goddard-earth-sciences-data-and-information-services-center-gees-disc/
-  updated_at: 2011-08-26 10:23:09
-  datagov_id: 
-  parent_id: 
   remote_id: "352"
-  id: "80"
-  title: Goddard Earth Sciences Data and Information Services Center (GeES DISC)
-  created_at: 2011-08-26 10:23:09
+  acronym: 
   content: The NASA Goddard Earth Sciences (GES) Data and Information Services Center (DISC) is the home (archive) of Precipitation, Atmospheric Chemistry and Dynamics, and information, as well as data and information from other related disciplines.
+  url: http://data.nasa.gov/goddard-earth-sciences-data-and-information-services-center-gees-disc/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "80"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:09
+  title: Goddard Earth Sciences Data and Information Services Center (GeES DISC)
 data_sources_078: 
-  more_info_link: |
-    --- 
-    - http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Carbon%20Cycle%20and%20Ecosystems
-
-  acronym: 
-  url: http://data.nasa.gov/mirador-carbon-cycle-and-ecosystems/
-  updated_at: 2011-09-02 18:01:37
-  datagov_id: 
-  parent_id: 
   remote_id: "354"
-  id: "78"
-  title: "Mirador \xE2\x80\x93 Carbon Cycle and Ecosystems"
-  created_at: 2011-08-26 10:23:09
+  acronym: 
   content: Earth Science data access made simple. This Focus Area deals with the cycling of carbon in reservoirs and ecosystems as it changes naturally, is changed by humans, and is affected by climate change.
-data_sources_055: 
-  more_info_link: |
-    --- 
-    - http://climate.nasa.gov/
-
-  acronym: 
-  url: http://data.nasa.gov/global-climate-change/
-  updated_at: 2011-09-02 16:41:02
-  datagov_id: |
-    --- 
-    - jccb-hhgd
-
-  parent_id: 
-  remote_id: "378"
-  id: "55"
-  title: Global Climate Change
-  created_at: 2011-08-26 10:23:10
-  content: "NASA\xE2\x80\x99s Global Climate Change: Vital Signs of the Planet. Current news and data about global warming and climate change from NASA."
-data_sources_007: 
-  more_info_link: |
-    --- 
-    - http://www.hq.nasa.gov/pao/FOIA/report.htm
-
-  acronym: 
-  url: http://data.nasa.gov/annual-freedom-of-information-act-foia-reports/
-  updated_at: 2011-09-13 18:50:55
-  datagov_id: 
-  parent_id: 
-  remote_id: "613"
-  id: "7"
-  title: Annual Freedom of Information Act (FOIA) Reports
-  created_at: 2011-09-13 18:50:55
-  content: "NASA makes annual reports of progress made on Freedom of Information Act (FOIA) requests. This\xC2\xA0database\xC2\xA0contains PDF and XML versions of reports from 1999 to the present."
-data_sources_032: 
-  more_info_link: |
-    --- 
-    - http://lambda.gsfc.nasa.gov/
-
-  acronym: 
-  url: http://data.nasa.gov/lambda-legacy-archive-for-microwave-background-data-analysis/
-  updated_at: 2011-08-29 19:53:56
-  datagov_id: 
-  parent_id: 
-  remote_id: "401"
-  id: "32"
-  title: "LAMBDA \xE2\x80\x93 Legacy Archive for Microwave Background Data Analysis"
-  created_at: 2011-08-26 10:23:11
-  content: The High Energy Astrophysics Science Archive Research Center (HEASARC) and the Legacy Archive for Microwave Background Data Analysis (LAMBDA) have merged into a single organization that will use the name HEASARC. The merged archive will continue to provide all of the services currently being offered by the two archives, while better serving users interested in studies requiring both high energy and microwave data. Users will notice few immediate changes, but we will gradually fully integrate all the services of the archives.
-data_sources_090: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/solar-data-analysis-center-data-finder/
-  updated_at: 2011-08-26 10:23:09
-  datagov_id: 
-  parent_id: 
-  remote_id: "342"
-  id: "90"
-  title: Solar Data Analysis Center Data Finder
+  url: http://data.nasa.gov/mirador-carbon-cycle-and-ecosystems/
+  more_info_link: http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Carbon%20Cycle%20and%20Ecosystems
   created_at: 2011-08-26 10:23:09
-  content: An integrated resource of solar imagery and data.
-data_sources_088: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/global-change-master-directory/
-  updated_at: 2011-08-26 10:23:09
   datagov_id: 
+  id: "78"
   parent_id: 
-  remote_id: "344"
-  id: "88"
-  title: Global Change Master Directory
-  created_at: 2011-08-26 10:23:09
-  content: The GCMD database holds more than 30,000 descriptions of Earth science data sets and services covering all aspects of Earth and environmental sciences.
-data_sources_065: 
-  more_info_link: |
-    --- 
-    - http://www.google.com/moon/
-
-  acronym: 
-  url: http://data.nasa.gov/google-moon-lunar-mapping-data/
-  updated_at: 2011-08-29 20:15:28
-  datagov_id: |
-    --- 
-    - wgpn-b5yg
-
-  parent_id: 
-  remote_id: "368"
-  id: "65"
-  title: Google Moon Lunar Mapping Data
-  created_at: 2011-08-26 10:23:10
-  content: A collection of lunar maps and charts. This tool is an exciting new way to explore the story of the Apollo missions, still the only time mankind has set foot on another world.
-data_sources_017: 
-  more_info_link: |
-    --- 
-    - http://photojournal.jpl.nasa.gov/
-
-  acronym: 
-  url: http://data.nasa.gov/jpl-photojournal/
-  updated_at: 2011-09-08 19:00:24
-  datagov_id: 
-  parent_id: 
-  remote_id: "575"
-  id: "17"
-  title: JPL Photojournal
-  created_at: 2011-09-08 18:59:58
-  content: View detailed images of the planets, the sun, small bodies, and the Universe from various NASA exploration programs.
-data_sources_042: 
-  more_info_link: |
-    --- 
-    - http://eosweb.larc.nasa.gov/PRODOCS/srb/table_srb.html
-
-  acronym: 
-  url: http://data.nasa.gov/srb-data-and-info/
-  updated_at: 2011-08-29 18:30:31
-  datagov_id: 
-  parent_id: 
-  remote_id: "391"
-  id: "42"
-  title: NASA/GEWEX Surface Radiation Budget (SRB) Data and Info
-  created_at: 2011-08-26 10:23:11
-  content: "The NASA/GEWEX Surface Radiation Budget (SRB) Release-3.0 data sets contains global 3-hourly, daily, monthly/3-hourly, and monthly averages of surface and top-of atmosphere (TOA) longwave and shortwave radiative parameters on a 1\xC3\x82\xC2\xB0x1\xC3\x82\xC2\xB0 grid. Model inputs of cloud amounts and other atmospheric state parameters are also available in some of the data sets. Primary inputs to the models include: visible and infrared radiances from International Satellite Cloud Climatology Project (ISCCP) pixel-level (DX) data, cloud and surface properties derived from those data, temperature and moisture profiles from GEOS-4 reanalysis product obtained from the NASA Global Modeling and Assimilation Office (GMAO), and column ozone amounts constituted from Total Ozone Mapping Spectrometer (TOMS), TIROS Operational Vertical Sounder (TOVS) archives, and Stratospheric Monitoring-group\xE2\x80\x99s Ozone Blended Analysis (SMOBA), an assimilation product from NOAA\xE2\x80\x99s Climate Prediction Center. SRB products are reformatted for the use of renewable energy and agricultural communities and made available through the Surface meteorology and Solar Energy (SSE) website. SRB products now overlap a portion of surface and TOA flux data sets that are available from Clouds and the Earth\xE2\x80\x99s Radiant Energy System (CERES) project. These CERES data products and those from the CERES Fast Longwave and SHortwave Radiative Fluxes (FLASHFlux) project extend past the SRB time frame. The latter project provides radiative fluxes on a near real-time basis. The CERES and CERES/FLASHFlux data sets also make use of global observations from Moderate-resolution Imaging SpectroRadiometer (MODIS) instruments."
-data_sources_075: 
-  more_info_link: |
-    --- 
-    - http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Water%20and%20Energy%20Cycles
-
-  acronym: 
-  url: http://data.nasa.gov/mirador-water-and-energy-cycles/
-  updated_at: 2011-09-02 18:02:23
-  datagov_id: 
-  parent_id: 
-  remote_id: "357"
-  id: "75"
-  title: "Mirador \xE2\x80\x93 Water and Energy Cycles"
-  created_at: 2011-08-26 10:23:09
-  content: Earth Science data access made simple. Through water and energy cycle research we can improve hurricane prediction, quantify tropical rainfall and eventually begin to balance the water budget at global and regional scales.
-data_sources_052: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/keck-observatory-archive/
-  updated_at: 2011-08-26 10:23:10
-  datagov_id: 
-  parent_id: 
-  remote_id: "381"
-  id: "52"
-  title: Keck Observatory Archive
-  created_at: 2011-08-26 10:23:10
-  content: The Keck Observatory Archive (KOA) is a NASA-funded collaboration between the NASA Exoplanet Science Institute (NExScI) and the W. M. Keck Observatory (WMKO). KOA has been archiving data from the High Resolution Echelle Spectrograph (HIRES) since August 18, 2004 and data acquired with the Near InfraRed echelle SPECtrograph (NIRSPEC) since May 17, 2010. The archived data extend back to 1994 for HIRES and 1999 for NIRSPEC.
-data_sources_004: 
-  more_info_link: |
-    --- 
-    - https://c3.nasa.gov/nex/
-
-  acronym: |
-    --- 
-    - NEX
-
-  url: http://data.nasa.gov/nasa-earth-exchange/
-  updated_at: 2011-10-12 19:31:58
-  datagov_id: 
-  parent_id: 
-  remote_id: "626"
-  id: "4"
-  title: NASA Earth Exchange
-  created_at: 2011-10-12 15:05:59
-  content: The NASA Earth Exchange (NEX) represents a new platform for the Earth science community that provides a mechanism for scientific collaboration and knowledge sharing. NEX combines state-of-the-art supercomputing, Earth system modeling, workflow management, NASA remote sensing data feeds, and a knowledge sharing platform to deliver a complete work environment in which users can explore and analyze large datasets, run modeling codes, collaborate on new or existing projects, and quickly share results among the Earth Science communities.
-data_sources_027: 
-  more_info_link: |
-    --- 
-    - http://www.servirglobal.net/en/Home.aspx
-
-  acronym: 
-  url: http://data.nasa.gov/servir-global-data-catalog/
-  updated_at: 2011-09-12 15:45:54
-  datagov_id: 
-  parent_id: 
-  remote_id: "552"
-  id: "27"
-  title: SERVIR Global Data Catalog
-  created_at: 2011-09-06 20:27:25
-  content: "SERVIR is a Spanish acronym for \xE2\x80\x9CRegional Visualization and Monitoring System.\xE2\x80\x9D The\xC2\xA0SERVIR project enables the use of Earth observations and predictive models for timely decision making through regional platforms in Mesoamerica, East Africa, and the Hindu-Kush Himalayas. \xC2\xA0The SERVIR project was initially developed by NASA, the US Agency for International Development, the World Bank, the Central American Commission for Environment and Development (CCAD), and the Water Center for the Humid Tropics of Latin America and the Caribbean (CATHALAC) in 2005. \xC2\xA0 In 2008, the Regional Center for Mapping of Resources for Development (RCMRD) in Nairobi, Kenya, joined the SERVIR project, and in 2010, SERVIR inaugurated its third hub at the International Centre for Integrated Mountain Development (ICIMOD) in Kathmandu, Nepal. \xC2\xA0 SERVIR also stands for the Spanish verb \xE2\x80\x9Cto serve,\xE2\x80\x9D which is what the project aims to do in terms of providing improved access to data and knowledge for decision-making."
-data_sources_085: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/nasa-earth-observations/
-  updated_at: 2011-08-26 10:23:09
-  datagov_id: 
-  parent_id: 
-  remote_id: "347"
-  id: "85"
-  title: NASA Earth Observations
-  created_at: 2011-08-26 10:23:09
-  content: Our mission is to help you picture climate change and environmental changes happening on our home planet. Here you can search for and retrieve satellite images of Earth. Download them; export them to GoogleEarth; perform basic analysis. Tracking regional and global changes around the world just got easier!
-data_sources_037: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/earthkam/
-  updated_at: 2011-08-26 10:23:11
-  datagov_id: 
-  parent_id: 
-  remote_id: "396"
-  id: "37"
-  title: EarthKAM
-  created_at: 2011-08-26 10:23:11
-  content: "Sponsored by NASA, EarthKAM (Earth Knowledge Acquired by Middle School Students) is an educational outreach program allowing middle school students to take pictures of our Earth from a digital camera on board the International Space Station. "
-data_sources_062: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/horizons/
-  updated_at: 2011-08-26 10:23:10
-  datagov_id: 
-  parent_id: 
-  remote_id: "371"
-  id: "62"
-  title: Horizons
-  created_at: 2011-08-26 10:23:10
-  content: The JPL HORIZONS on-line solar system data and ephemeris computation service provides access to key solar system data and flexible production of highly accurate ephemerides for solar system objects ( 561485 asteroids, 3099 comets, 171 planetary satellites, 8 planets, the Sun, L1, L2, select spacecraft, and system barycenters ). HORIZONS is provided by the Solar System Dynamics Group of the Jet Propulsion Laboratory.
+  updated_at: 2011-09-02 18:01:37
+  title: "Mirador \xE2\x80\x93 Carbon Cycle and Ecosystems"
 data_sources_014: 
-  more_info_link: |
-    --- 
-    - http://www.lpi.usra.edu/resources/cc/cchome.shtml
-
-  acronym: 
-  url: http://data.nasa.gov/callisto-crater-database/
-  updated_at: 2011-09-08 19:26:56
-  datagov_id: 
-  parent_id: 
   remote_id: "583"
-  id: "14"
-  title: Callisto Crater Database
-  created_at: 2011-09-08 19:26:56
+  acronym: 
   content: This web page leads to a database of images and information about the 150 major impact craters on Callisto and is updated semi-regularly based on continuing analysis of Voyager images.
-data_sources_095: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/reverb/
-  updated_at: 2011-08-26 10:23:08
+  url: http://data.nasa.gov/callisto-crater-database/
+  more_info_link: http://www.lpi.usra.edu/resources/cc/cchome.shtml
+  created_at: 2011-09-08 19:26:56
   datagov_id: 
+  id: "14"
   parent_id: 
-  remote_id: "337"
-  id: "95"
-  title: Reverb
-  created_at: 2011-08-26 10:23:08
-  content: Reverb has been developed utilizing modern web development technologies and presents you with a fresh new look and interface for discovering Earth Science data. We invite you to give it a try and let us know what you think. Reverb will be continually updated on a monthly basis taking into account your user feedback and other enhancements which are currently planned.
-data_sources_072: 
-  more_info_link: 
+  updated_at: 2011-09-08 19:26:56
+  title: Callisto Crater Database
+data_sources_055: 
+  remote_id: "378"
   acronym: 
-  url: http://data.nasa.gov/ocean-color-web/
-  updated_at: 2011-08-26 10:23:09
-  datagov_id: 
+  content: "NASA\xE2\x80\x99s Global Climate Change: Vital Signs of the Planet. Current news and data about global warming and climate change from NASA."
+  url: http://data.nasa.gov/global-climate-change/
+  more_info_link: http://climate.nasa.gov/
+  created_at: 2011-08-26 10:23:10
+  datagov_id: jccb-hhgd
+  id: "55"
   parent_id: 
-  remote_id: "360"
-  id: "72"
-  title: Ocean Color Web
-  created_at: 2011-08-26 10:23:09
-  content: A comprehensive image analysis package for the processing, display, analysis, and quality control of ocean color data.
-data_sources_001: 
-  more_info_link: |
-    --- 
-    - http://archive.stsci.edu/kepler/
-
+  updated_at: 2011-09-02 16:41:02
+  title: Global Climate Change
+data_sources_032: 
+  remote_id: "401"
   acronym: 
-  url: http://data.nasa.gov/kepler/
-  updated_at: 2012-01-06 22:08:51
-  datagov_id: 
-  parent_id: 
-  remote_id: "668"
-  id: "1"
-  title: Kepler
-  created_at: 2012-01-06 22:08:51
-  content: "The centuries-old quest for other worlds like our Earth has been rejuvenated by the intense excitement and popular interest surrounding the discovery of hundreds of planets orbiting other stars. There is now clear evidence for substantial numbers of three types of exoplanets; gas giants, hot-super-Earths in short period orbits, and ice giants. The following websites are tracking the day-by-day increase in new discoveries and are providing information on the characteristics of the planets as well as those of the stars they orbit: The Extrasolar Planets Encyclopedia, NASA Exoplanet Archive, New Worlds Atlas, and Current Planet Count Widget.\xC2\xA0\xC2\xA0The challenge now is to find terrestrial planets (i.e., those one half to twice the size of the Earth), especially those in the habitable zone of their stars where liquid water and possibly life might exist. The Kepler Mission, NASA Discovery mission #10, is specifically designed to survey a portion of our region of the Milky Way galaxy\xC2\xA0to discover dozens of Earth-size planets in or near the habitable zone and determine how many of the billions of stars in our galaxy have such planets. Results from this mission will allow us to place our solar system within the continuum of planetary systems in the Galaxy."
-data_sources_047: 
-  more_info_link: |
-    --- 
-    - http://eosweb.larc.nasa.gov/sse/
-
-  acronym: 
-  url: http://data.nasa.gov/surface-meteorology-and-solar-energy/
-  updated_at: 2011-08-26 20:36:34
-  datagov_id: |
-    --- 
-    - c7xg-zj3i
-
-  parent_id: 
-  remote_id: "386"
-  id: "47"
-  title: Surface Meteorology and Solar Energy
+  content: The High Energy Astrophysics Science Archive Research Center (HEASARC) and the Legacy Archive for Microwave Background Data Analysis (LAMBDA) have merged into a single organization that will use the name HEASARC. The merged archive will continue to provide all of the services currently being offered by the two archives, while better serving users interested in studies requiring both high energy and microwave data. Users will notice few immediate changes, but we will gradually fully integrate all the services of the archives.
+  url: http://data.nasa.gov/lambda-legacy-archive-for-microwave-background-data-analysis/
+  more_info_link: http://lambda.gsfc.nasa.gov/
   created_at: 2011-08-26 10:23:11
-  content: "Surface Meteorology and Solar Energy data \xE2\x80\x93 over 200 satellite-derived meteorology and solar energy parameters, monthly averaged from 22 years of data, global solar data for 1195 ground sites"
+  datagov_id: 
+  id: "32"
+  parent_id: 
+  updated_at: 2011-08-29 19:53:56
+  title: "LAMBDA \xE2\x80\x93 Legacy Archive for Microwave Background Data Analysis"
+data_sources_090: 
+  remote_id: "342"
+  acronym: 
+  content: An integrated resource of solar imagery and data.
+  url: http://data.nasa.gov/solar-data-analysis-center-data-finder/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "90"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:09
+  title: Solar Data Analysis Center Data Finder
+data_sources_088: 
+  remote_id: "344"
+  acronym: 
+  content: The GCMD database holds more than 30,000 descriptions of Earth science data sets and services covering all aspects of Earth and environmental sciences.
+  url: http://data.nasa.gov/global-change-master-directory/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "88"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:09
+  title: Global Change Master Directory
+data_sources_042: 
+  remote_id: "391"
+  acronym: 
+  content: "The NASA/GEWEX Surface Radiation Budget (SRB) Release-3.0 data sets contains global 3-hourly, daily, monthly/3-hourly, and monthly averages of surface and top-of atmosphere (TOA) longwave and shortwave radiative parameters on a 1\xC3\x82\xC2\xB0x1\xC3\x82\xC2\xB0 grid. Model inputs of cloud amounts and other atmospheric state parameters are also available in some of the data sets. Primary inputs to the models include: visible and infrared radiances from International Satellite Cloud Climatology Project (ISCCP) pixel-level (DX) data, cloud and surface properties derived from those data, temperature and moisture profiles from GEOS-4 reanalysis product obtained from the NASA Global Modeling and Assimilation Office (GMAO), and column ozone amounts constituted from Total Ozone Mapping Spectrometer (TOMS), TIROS Operational Vertical Sounder (TOVS) archives, and Stratospheric Monitoring-group\xE2\x80\x99s Ozone Blended Analysis (SMOBA), an assimilation product from NOAA\xE2\x80\x99s Climate Prediction Center. SRB products are reformatted for the use of renewable energy and agricultural communities and made available through the Surface meteorology and Solar Energy (SSE) website. SRB products now overlap a portion of surface and TOA flux data sets that are available from Clouds and the Earth\xE2\x80\x99s Radiant Energy System (CERES) project. These CERES data products and those from the CERES Fast Longwave and SHortwave Radiative Fluxes (FLASHFlux) project extend past the SRB time frame. The latter project provides radiative fluxes on a near real-time basis. The CERES and CERES/FLASHFlux data sets also make use of global observations from Moderate-resolution Imaging SpectroRadiometer (MODIS) instruments."
+  url: http://data.nasa.gov/srb-data-and-info/
+  more_info_link: http://eosweb.larc.nasa.gov/PRODOCS/srb/table_srb.html
+  created_at: 2011-08-26 10:23:11
+  datagov_id: 
+  id: "42"
+  parent_id: 
+  updated_at: 2011-08-29 18:30:31
+  title: NASA/GEWEX Surface Radiation Budget (SRB) Data and Info
 data_sources_024: 
-  more_info_link: |
-    --- 
-    - http://www.lpi.usra.edu/resources/cla/
-
-  acronym: 
-  url: http://data.nasa.gov/consolidated-lunar-atlas/
-  updated_at: 2011-09-08 18:30:48
-  datagov_id: 
-  parent_id: 
   remote_id: "561"
-  id: "24"
-  title: Consolidated Lunar Atlas
-  created_at: 2011-09-08 18:30:48
+  acronym: 
   content: The Consolidated Lunar Atlas is a collection of the best photographic images of the moon, including low-oblique photography, full-moon photography, and tabular and positional plates.
-data_sources_082: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/goddard-institute-for-space-studies/
-  updated_at: 2011-08-26 10:23:09
+  url: http://data.nasa.gov/consolidated-lunar-atlas/
+  more_info_link: http://www.lpi.usra.edu/resources/cla/
+  created_at: 2011-09-08 18:30:48
   datagov_id: 
+  id: "24"
   parent_id: 
-  remote_id: "350"
-  id: "82"
-  title: Goddard Institute for Space Studies
-  created_at: 2011-08-26 10:23:09
-  content: "Research at the NASA Goddard Institute for Space Studies (GISS) emphasizes a broad study of global change, which is an interdisciplinary initiative addressing natural and man-made changes in our environment that occur on various time scales \xC3\xA2\xE2\x82\xAC\xE2\x80\x9D from one-time forcings such as volcanic explosions, to seasonal and annual effects such as El Ni\xC3\x83\xC2\xB1o, and on up to the millennia of ice ages \xC3\xA2\xE2\x82\xAC\xE2\x80\x9D and that affect the habitability of our planet."
-data_sources_057: 
-  more_info_link: 
+  updated_at: 2011-09-08 18:30:48
+  title: Consolidated Lunar Atlas
+data_sources_001: 
+  remote_id: "668"
   acronym: 
-  url: http://data.nasa.gov/global-1-km-sea-surface-temperature-g1sst/
-  updated_at: 2011-08-26 10:23:10
+  content: "The centuries-old quest for other worlds like our Earth has been rejuvenated by the intense excitement and popular interest surrounding the discovery of hundreds of planets orbiting other stars. There is now clear evidence for substantial numbers of three types of exoplanets; gas giants, hot-super-Earths in short period orbits, and ice giants. The following websites are tracking the day-by-day increase in new discoveries and are providing information on the characteristics of the planets as well as those of the stars they orbit: The Extrasolar Planets Encyclopedia, NASA Exoplanet Archive, New Worlds Atlas, and Current Planet Count Widget.\xC2\xA0\xC2\xA0The challenge now is to find terrestrial planets (i.e., those one half to twice the size of the Earth), especially those in the habitable zone of their stars where liquid water and possibly life might exist. The Kepler Mission, NASA Discovery mission #10, is specifically designed to survey a portion of our region of the Milky Way galaxy\xC2\xA0to discover dozens of Earth-size planets in or near the habitable zone and determine how many of the billions of stars in our galaxy have such planets. Results from this mission will allow us to place our solar system within the continuum of planetary systems in the Galaxy."
+  url: http://data.nasa.gov/kepler/
+  more_info_link: http://archive.stsci.edu/kepler/
+  created_at: 2012-01-06 22:08:51
   datagov_id: 
+  id: "1"
   parent_id: 
-  remote_id: "376"
-  id: "57"
-  title: Global 1-km Sea Surface Temperature (G1SST)
+  updated_at: 2012-01-06 22:08:51
+  title: Kepler
+data_sources_065: 
+  remote_id: "368"
+  acronym: 
+  content: A collection of lunar maps and charts. This tool is an exciting new way to explore the story of the Apollo missions, still the only time mankind has set foot on another world.
+  url: http://data.nasa.gov/google-moon-lunar-mapping-data/
+  more_info_link: http://www.google.com/moon/
   created_at: 2011-08-26 10:23:10
-  content: "JPL OurOcean Portal: A daily, global Sea Surface Temperature (SST) data set is produced at 1-km (also known as ultra-high resolution) by the JPL ROMS (Regional Ocean Modeling System) group."
-data_sources_009: 
-  more_info_link: |
-    --- 
-    - http://curator.jsc.nasa.gov/lunar/drive_tubes_tbl.cfm
-
+  datagov_id: wgpn-b5yg
+  id: "65"
+  parent_id: 
+  updated_at: 2011-08-29 20:15:28
+  title: Google Moon Lunar Mapping Data
+data_sources_075: 
+  remote_id: "357"
   acronym: 
-  url: http://data.nasa.gov/apollo-core-drive-tubes-summary/
-  updated_at: 2011-09-08 22:17:02
+  content: Earth Science data access made simple. Through water and energy cycle research we can improve hurricane prediction, quantify tropical rainfall and eventually begin to balance the water budget at global and regional scales.
+  url: http://data.nasa.gov/mirador-water-and-energy-cycles/
+  more_info_link: http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Water%20and%20Energy%20Cycles
+  created_at: 2011-08-26 10:23:09
   datagov_id: 
+  id: "75"
   parent_id: 
-  remote_id: "595"
-  id: "9"
-  title: Apollo Core Drive Tubes Summary
-  created_at: 2011-09-08 20:25:40
-  content: Contains a brief summary and high resolution imagery from various core drive tubes collected from the Apollo missions to the moon.
-data_sources_034: 
-  more_info_link: |
-    --- 
-    - http://explore.data.gov/catalog/raw/?Dataset-Summary_Agency=National+Aeronautics+and+Space+Administration
-
-  acronym: 
-  url: http://data.nasa.gov/data-gov-raw-data-catalog-for-nasa/
-  updated_at: 2011-12-22 18:32:01
-  datagov_id: |
-    --- 
-    - "true"
-
-  parent_id: 
-  remote_id: "399"
-  id: "34"
-  title: Data.gov Raw Data Catalog for NASA
-  created_at: 2011-08-26 10:23:11
-  content: "The \xE2\x80\x9CRaw\xE2\x80\x9D Data Catalog provides an instant download of machine readable, platform-independent datasets posted on Data.gov by NASA."
+  updated_at: 2011-09-02 18:02:23
+  title: "Mirador \xE2\x80\x93 Water and Energy Cycles"
 data_sources_011: 
-  more_info_link: |
-    --- 
-    - http://curator.jsc.nasa.gov/lunar/displays/displays.cfm
-
-  acronym: 
-  url: http://data.nasa.gov/lunar-sample-display-locations/
-  updated_at: 2011-09-08 20:22:58
-  datagov_id: 
-  parent_id: 
   remote_id: "590"
-  id: "11"
-  title: Lunar Sample Display Locations
-  created_at: 2011-09-08 20:19:30
+  acronym: 
   content: A database of every location around the planet holding returned lunar samples from the Apollo missions.
-data_sources_092: 
-  more_info_link: |
-    --- 
-    - http://fermi.gsfc.nasa.gov/ssc/data/
-
-  acronym: 
-  url: http://data.nasa.gov/fermi/
-  updated_at: 2011-08-29 20:58:00
+  url: http://data.nasa.gov/lunar-sample-display-locations/
+  more_info_link: http://curator.jsc.nasa.gov/lunar/displays/displays.cfm
+  created_at: 2011-09-08 20:19:30
   datagov_id: 
+  id: "11"
   parent_id: 
-  remote_id: "340"
-  id: "92"
-  title: Fermi
-  created_at: 2011-08-26 10:23:08
-  content: Fermi is a powerful space observatory that will open a wide window on the universe. Gamma rays are the highest-energy form of light, and the gamma-ray sky is spectacularly different from the one we perceive with our own eyes. With a huge leap in all key capabilities, Fermi data will enable scientists to answer persistent questions across a broad range of topics, including supermassive black-hole systems, pulsars, the origin of cosmic rays, and searches for signals of new physics.
-data_sources_067: 
-  more_info_link: |
-    --- 
-    - http://nix.nasa.gov
-
+  updated_at: 2011-09-08 20:22:58
+  title: Lunar Sample Display Locations
+data_sources_052: 
+  remote_id: "381"
   acronym: 
-  url: http://data.nasa.gov/nasa-image-exchange/
-  updated_at: 2011-08-29 18:31:07
-  datagov_id: |
-    --- 
-    - irva-tgt8
-
-  parent_id: 
-  remote_id: "365"
-  id: "67"
-  title: NASA Image Exchange (NIX)
-  created_at: 2011-08-26 10:23:10
-  content: "The NASA Image Exchange (NIX) is a collection of multimedia content from across NASA\xE2\x80\x99s missions and projects."
-data_sources_019: 
-  more_info_link: |
-    --- 
-    - http://www.lpi.usra.edu/resources/mercury_maps/
-
-  acronym: 
-  url: http://data.nasa.gov/mercury-map-catalog/
-  updated_at: 2011-09-08 18:43:29
-  datagov_id: 
-  parent_id: 
-  remote_id: "571"
-  id: "19"
-  title: Mercury Map Catalog
-  created_at: 2011-09-08 18:43:29
-  content: "The Mercury Map Catalog includes various mappings of the surface of Mercury published by the U.S. Geological Survey from 1976 \xE2\x80\x93 1990."
-data_sources_044: 
-  more_info_link: |
-    --- 
-    - http://eosweb.larc.nasa.gov/PRODOCS/isccp/table_isccp.html
-
-  acronym: 
-  url: http://data.nasa.gov/isccp/
-  updated_at: 2011-08-29 18:29:31
-  datagov_id: 
-  parent_id: 
-  remote_id: "389"
-  id: "44"
-  title: International Satellite Cloud Climatology Project (ISCCP)
-  created_at: 2011-08-26 10:23:11
-  content: International Satellite Cloud Climatology Project (ISCCP) focuses on the distribution and variation of cloud radiative properties to improve the understanding of the effects of clouds on climate, the radiation budget, and the long-term global hydrologic cycle.
-data_sources_021: 
-  more_info_link: |
-    --- 
-    - http://www.lpi.usra.edu/resources/mars_maps/
-
-  acronym: 
-  url: http://data.nasa.gov/mars-map-catalog/
-  updated_at: 2011-09-08 18:38:43
-  datagov_id: 
-  parent_id: 
-  remote_id: "567"
-  id: "21"
-  title: Mars Map Catalog
-  created_at: 2011-09-08 18:38:43
-  content: The Mars Maps Catalog includes various mappings of the surface of Mars.
-data_sources_077: 
-  more_info_link: |
-    --- 
-    - http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Climate%20Variability%20and%20Change
-
-  acronym: 
-  url: http://data.nasa.gov/mirador-climate-variability-and-change/
-  updated_at: 2011-09-02 18:01:51
-  datagov_id: 
-  parent_id: 
-  remote_id: "355"
-  id: "77"
-  title: "Mirador \xE2\x80\x93 Climate Variability and Change"
-  created_at: 2011-08-26 10:23:09
-  content: "Earth Science data access made simple. NASA\xE2\x80\x99s role in climate variability study is centered around providing the global scale observational data sets on oceans and ice, their forcings, and the interactions with the entire Earth system."
-data_sources_054: 
+  content: The Keck Observatory Archive (KOA) is a NASA-funded collaboration between the NASA Exoplanet Science Institute (NExScI) and the W. M. Keck Observatory (WMKO). KOA has been archiving data from the High Resolution Echelle Spectrograph (HIRES) since August 18, 2004 and data acquired with the Near InfraRed echelle SPECtrograph (NIRSPEC) since May 17, 2010. The archived data extend back to 1994 for HIRES and 1999 for NIRSPEC.
+  url: http://data.nasa.gov/keck-observatory-archive/
   more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/physical-oceanography-distributed-active-archive-center-po-daac/
-  updated_at: 2011-08-26 10:23:10
-  datagov_id: 
-  parent_id: 
-  remote_id: "379"
-  id: "54"
-  title: Physical Oceanography Distributed Active Archive Center (PO.DAAC)
   created_at: 2011-08-26 10:23:10
-  content: "PO.DAAC is an element of the Earth Observing System Data Information System (EOSDIS). PO.DAAC\xE2\x80\x99s primary responsibility is to provide distribution and archive support for NASA\xE2\x80\x99s physical oceanography missions such as TOPEX/Poseidon and SeaWinds on QuikSCAT. However, PO.DAAC additionally collaborates with other institutes to acquire complementary data products and value-added services."
-data_sources_006: 
-  more_info_link: |
-    --- 
-    - http://pmm.nasa.gov/data-access
-
-  acronym: 
-  url: http://data.nasa.gov/precipitation-measurement-missions-data-access/
-  updated_at: 2011-09-14 16:58:49
   datagov_id: 
+  id: "52"
   parent_id: 
-  remote_id: "616"
-  id: "6"
-  title: Precipitation Measurement Missions Data Access
-  created_at: 2011-09-14 16:58:49
-  content: "Tropical Rainfall Measuring Mission (TRMM) data products are currently available from 1998 to the present.The TRMM is a joint mission between NASA and the Japan Aerospace Exploration Agency designed to monitor and study tropical rainfall.\xC2\xA0Global Precipitation Measurement data products will be provided following the launch of the GPM Core Observatory in 2013. Here we outline the types of products currently available for the TRMM and the various ways to query, view and download these precipitation products."
-data_sources_031: 
-  more_info_link: |
-    --- 
-    - http://earthdata.nasa.gov/data/data-tools
-
+  updated_at: 2011-08-26 10:23:10
+  title: Keck Observatory Archive
+data_sources_009: 
+  remote_id: "595"
   acronym: 
-  url: http://data.nasa.gov/earth-observing-system-data-and-information-system-eosdis/
-  updated_at: 2011-08-29 19:45:41
+  content: Contains a brief summary and high resolution imagery from various core drive tubes collected from the Apollo missions to the moon.
+  url: http://data.nasa.gov/apollo-core-drive-tubes-summary/
+  more_info_link: http://curator.jsc.nasa.gov/lunar/drive_tubes_tbl.cfm
+  created_at: 2011-09-08 20:25:40
   datagov_id: 
+  id: "9"
   parent_id: 
-  remote_id: "402"
-  id: "31"
-  title: Earth Observing System Data and Information System (EOSDIS)
+  updated_at: 2011-09-08 22:17:02
+  title: Apollo Core Drive Tubes Summary
+data_sources_085: 
+  remote_id: "347"
+  acronym: 
+  content: Our mission is to help you picture climate change and environmental changes happening on our home planet. Here you can search for and retrieve satellite images of Earth. Download them; export them to GoogleEarth; perform basic analysis. Tracking regional and global changes around the world just got easier!
+  url: http://data.nasa.gov/nasa-earth-observations/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "85"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:09
+  title: NASA Earth Observations
+data_sources_019: 
+  remote_id: "571"
+  acronym: 
+  content: "The Mercury Map Catalog includes various mappings of the surface of Mercury published by the U.S. Geological Survey from 1976 \xE2\x80\x93 1990."
+  url: http://data.nasa.gov/mercury-map-catalog/
+  more_info_link: http://www.lpi.usra.edu/resources/mercury_maps/
+  created_at: 2011-09-08 18:43:29
+  datagov_id: 
+  id: "19"
+  parent_id: 
+  updated_at: 2011-09-08 18:43:29
+  title: Mercury Map Catalog
+data_sources_021: 
+  remote_id: "567"
+  acronym: 
+  content: The Mars Maps Catalog includes various mappings of the surface of Mars.
+  url: http://data.nasa.gov/mars-map-catalog/
+  more_info_link: http://www.lpi.usra.edu/resources/mars_maps/
+  created_at: 2011-09-08 18:38:43
+  datagov_id: 
+  id: "21"
+  parent_id: 
+  updated_at: 2011-09-08 18:38:43
+  title: Mars Map Catalog
+data_sources_037: 
+  remote_id: "396"
+  acronym: 
+  content: "Sponsored by NASA, EarthKAM (Earth Knowledge Acquired by Middle School Students) is an educational outreach program allowing middle school students to take pictures of our Earth from a digital camera on board the International Space Station. "
+  url: http://data.nasa.gov/earthkam/
+  more_info_link: 
   created_at: 2011-08-26 10:23:11
-  content: "The Earth Observing System Data and Information System (EOSDIS) manages and distributes data products through the Distributed Active Archive Centers (DAACs). The centers process, archive, document, and distribute data from NASA\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2s past and current research satellites and field programs. Each center serves one or more specific Earth science disciplines and provides data products, data information, services, and tools unique to its particular science."
-data_sources_029: 
-  more_info_link: |
-    --- 
-    - http://outgassing.nasa.gov/
-
-  acronym: 
-  url: http://data.nasa.gov/spacecraft-material-outgassing-data/
-  updated_at: 2011-08-31 19:50:59
   datagov_id: 
+  id: "37"
   parent_id: 
+  updated_at: 2011-08-26 10:23:11
+  title: EarthKAM
+data_sources_062: 
+  remote_id: "371"
+  acronym: 
+  content: The JPL HORIZONS on-line solar system data and ephemeris computation service provides access to key solar system data and flexible production of highly accurate ephemerides for solar system objects ( 561485 asteroids, 3099 comets, 171 planetary satellites, 8 planets, the Sun, L1, L2, select spacecraft, and system barycenters ). HORIZONS is provided by the Solar System Dynamics Group of the Jet Propulsion Laboratory.
+  url: http://data.nasa.gov/horizons/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:10
+  datagov_id: 
+  id: "62"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:10
+  title: Horizons
+data_sources_095: 
+  remote_id: "337"
+  acronym: 
+  content: Reverb has been developed utilizing modern web development technologies and presents you with a fresh new look and interface for discovering Earth Science data. We invite you to give it a try and let us know what you think. Reverb will be continually updated on a monthly basis taking into account your user feedback and other enhancements which are currently planned.
+  url: http://data.nasa.gov/reverb/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:08
+  datagov_id: 
+  id: "95"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:08
+  title: Reverb
+data_sources_072: 
+  remote_id: "360"
+  acronym: 
+  content: A comprehensive image analysis package for the processing, display, analysis, and quality control of ocean color data.
+  url: http://data.nasa.gov/ocean-color-web/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "72"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:09
+  title: Ocean Color Web
+data_sources_047: 
+  remote_id: "386"
+  acronym: 
+  content: "Surface Meteorology and Solar Energy data \xE2\x80\x93 over 200 satellite-derived meteorology and solar energy parameters, monthly averaged from 22 years of data, global solar data for 1195 ground sites"
+  url: http://data.nasa.gov/surface-meteorology-and-solar-energy/
+  more_info_link: http://eosweb.larc.nasa.gov/sse/
+  created_at: 2011-08-26 10:23:11
+  datagov_id: c7xg-zj3i
+  id: "47"
+  parent_id: 
+  updated_at: 2011-08-26 20:36:34
+  title: Surface Meteorology and Solar Energy
+data_sources_029: 
   remote_id: "533"
-  id: "29"
-  title: Spacecraft Material Outgassing Data
-  created_at: 2011-08-31 19:50:59
+  acronym: 
   content: "This compilation of outgassing data of materials intended for spacecraft use were obtained at the Goddard Space Flight Center (GSFC), utilizing equipment developed at Stanford Research Institue (SRI) under contract to the Jet Propulsion Laboratory (JPL).\n\
     SRI personnel developed an apparatus for determining the mass loss in vacuum and for collecting the outgassed products. Their report (Reference 1), which contained data from June 1964 to August 1967, served well as a foundation for selecting spacecraft materials with low outgassing properties. The apparatus was also constructed at GSFC and, based on the SRI data and GSFC data, a GSFC report (Reference 2) was published. That report included data for those materials meeting two criteria: a maximum total mass loss (TML) of 1.0 percent and maximum collected volatile condensable material (CVCM) of 0.10 percent.\n\
     After a series of tests and verification of procedures, an American Society for Testing and Materials (ASTM) Standard Test Method was developed, based upon this apparatus. The method, \xE2\x80\x9CTotal Mass Loss (TML) and Collected Volatile Condensable Materials (CVCM) from Outgassing in a Vacuum Environment,\xE2\x80\x9D is identified as E 595-77/84/90. The data developed through the years have been reported in References 3, 4, 5, 6, 7, 8, and 9 as a means of assisting in selecting materials for space flight use."
-data_sources_087: 
-  more_info_link: 
+  url: http://data.nasa.gov/spacecraft-material-outgassing-data/
+  more_info_link: http://outgassing.nasa.gov/
+  created_at: 2011-08-31 19:50:59
+  datagov_id: 
+  id: "29"
+  parent_id: 
+  updated_at: 2011-08-31 19:50:59
+  title: Spacecraft Material Outgassing Data
+data_sources_006: 
+  remote_id: "616"
   acronym: 
-  url: http://data.nasa.gov/astrogravs/
+  content: "Tropical Rainfall Measuring Mission (TRMM) data products are currently available from 1998 to the present.The TRMM is a joint mission between NASA and the Japan Aerospace Exploration Agency designed to monitor and study tropical rainfall.\xC2\xA0Global Precipitation Measurement data products will be provided following the launch of the GPM Core Observatory in 2013. Here we outline the types of products currently available for the TRMM and the various ways to query, view and download these precipitation products."
+  url: http://data.nasa.gov/precipitation-measurement-missions-data-access/
+  more_info_link: http://pmm.nasa.gov/data-access
+  created_at: 2011-09-14 16:58:49
+  datagov_id: 
+  id: "6"
+  parent_id: 
+  updated_at: 2011-09-14 16:58:49
+  title: Precipitation Measurement Missions Data Access
+data_sources_082: 
+  remote_id: "350"
+  acronym: 
+  content: "Research at the NASA Goddard Institute for Space Studies (GISS) emphasizes a broad study of global change, which is an interdisciplinary initiative addressing natural and man-made changes in our environment that occur on various time scales \xC3\xA2\xE2\x82\xAC\xE2\x80\x9D from one-time forcings such as volcanic explosions, to seasonal and annual effects such as El Ni\xC3\x83\xC2\xB1o, and on up to the millennia of ice ages \xC3\xA2\xE2\x82\xAC\xE2\x80\x9D and that affect the habitability of our planet."
+  url: http://data.nasa.gov/goddard-institute-for-space-studies/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "82"
+  parent_id: 
   updated_at: 2011-08-26 10:23:09
-  datagov_id: 
-  parent_id: 
-  remote_id: "345"
-  id: "87"
-  title: AstroGravs
-  created_at: 2011-08-26 10:23:09
-  content: Astrophysical Gravitational Wave Sources Archive
-data_sources_039: 
-  more_info_link: |
-    --- 
-    - http://l7downloads.gsfc.nasa.gov/index.htm
-
-  acronym: 
-  url: http://data.nasa.gov/landsat-7-data-sets/
-  updated_at: 2011-08-29 18:25:16
-  datagov_id: 
-  parent_id: 
-  remote_id: "394"
-  id: "39"
-  title: Landsat 7 Data Sets
-  created_at: 2011-08-26 10:23:11
-  content: "The Landsat 7 Download page provides a number of Landsat 7 scene subsets intended for use with Purdue University\xE2\x80\x99s MultiSpec software."
-data_sources_064: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/gateway-to-astronaut-photography-of-earth/
-  updated_at: 2011-08-26 10:23:10
-  datagov_id: 
-  parent_id: 
-  remote_id: "369"
-  id: "64"
-  title: Gateway to Astronaut Photography of Earth
-  created_at: 2011-08-26 10:23:10
-  content: The Gateway to Astronaut Photography of Earth database of images hosts the best and most complete online collection of astronaut photographs of the Earth.
+  title: Goddard Institute for Space Studies
 data_sources_016: 
-  more_info_link: |
-    --- 
-    - http://astrogeology.usgs.gov/Projects/MapBook/
-
-  acronym: 
-  url: http://data.nasa.gov/mapbook/
-  updated_at: 2011-09-08 19:06:53
-  datagov_id: 
-  parent_id: 
   remote_id: "578"
-  id: "16"
-  title: MapBook
-  created_at: 2011-09-08 19:06:53
+  acronym: 
   content: Beginning with the systematic mapping of the lunar surface more than three decades ago, this database contains over 1600 maps of the planets and satellites of the Solar System. This collection of maps is a unique resource that has been derived from images and data returned by a series of space missions. Many of the maps have not been replicated or updated with data from new missions, and thus they represent a very special legacy from the beginnings of space exploration. The total map database includes controlled photomosaics, geologic maps, shaded relief portrayals, topographic maps, and panoramas of the martian surface.
-data_sources_041: 
-  more_info_link: |
-    --- 
-    - http://ghrc.nsstc.nasa.gov/hydro/
-
-  acronym: 
-  url: http://data.nasa.gov/global-hydrology-research-center/
-  updated_at: 2011-08-29 17:45:10
-  datagov_id: |
-    --- 
-    - fstr-d7km
-
-  parent_id: 
-  remote_id: "392"
-  id: "41"
-  title: Global Hydrology Research Center
-  created_at: 2011-08-26 10:23:11
-  content: The GHRC is the data management and user services arm of the Global Hydrology and Climate Center. It encompasses the data and information management, supporting product generation, archival, and distribution of research quality and operational datasets for a variety of data types, including lightning, passive microwave, radar and others.
-data_sources_074: 
-  more_info_link: |
-    --- 
-    - http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Weather
-
-  acronym: 
-  url: http://data.nasa.gov/mirador-weather/
-  updated_at: 2011-09-02 18:02:40
+  url: http://data.nasa.gov/mapbook/
+  more_info_link: http://astrogeology.usgs.gov/Projects/MapBook/
+  created_at: 2011-09-08 19:06:53
   datagov_id: 
+  id: "16"
   parent_id: 
-  remote_id: "358"
-  id: "74"
-  title: "Mirador \xE2\x80\x93 Weather"
-  created_at: 2011-08-26 10:23:09
-  content: Earth Science data access made simple. Our weather system includes the dynamics of the atmosphere and its interaction with the oceans and land. The improvement of our understanding of weather processes and phenomena is crucial in gaining an understanding of the Earth system.
-data_sources_051: 
-  more_info_link: |
-    --- 
-    - http://lsda.jsc.nasa.gov/
-
+  updated_at: 2011-09-08 19:06:53
+  title: MapBook
+data_sources_057: 
+  remote_id: "376"
   acronym: 
-  url: http://data.nasa.gov/life-sciences-data-archive/
-  updated_at: 2011-08-29 18:32:22
-  datagov_id: 
-  parent_id: 
-  remote_id: "382"
-  id: "51"
-  title: Life Sciences Data Archive (LSDA)
+  content: "JPL OurOcean Portal: A daily, global Sea Surface Temperature (SST) data set is produced at 1-km (also known as ultra-high resolution) by the JPL ROMS (Regional Ocean Modeling System) group."
+  url: http://data.nasa.gov/global-1-km-sea-surface-temperature-g1sst/
+  more_info_link: 
   created_at: 2011-08-26 10:23:10
-  content: "NASA\xE2\x80\x99s Life Sciences Data Archive (LSDA) is an active archive that provides information and data from 1961 (Mercury Project) through current flight and flight analog studies (International Space Station, Shuttle, bed rest studies, etc.) involving human, plant and animal subjects. "
-data_sources_003: 
-  more_info_link: |
-    --- 
-    - http://oceancolor.gsfc.nasa.gov/
-
-  acronym: 
-  url: http://data.nasa.gov/ocean-color/
-  updated_at: 2011-10-13 20:50:20
   datagov_id: 
+  id: "57"
   parent_id: 
+  updated_at: 2011-08-26 10:23:10
+  title: Global 1-km Sea Surface Temperature (G1SST)
+data_sources_034: 
+  remote_id: "399"
+  acronym: 
+  content: "The \xE2\x80\x9CRaw\xE2\x80\x9D Data Catalog provides an instant download of machine readable, platform-independent datasets posted on Data.gov by NASA."
+  url: http://data.nasa.gov/data-gov-raw-data-catalog-for-nasa/
+  more_info_link: http://explore.data.gov/catalog/raw/?Dataset-Summary_Agency=National+Aeronautics+and+Space+Administration
+  created_at: 2011-08-26 10:23:11
+  datagov_id: "true"
+  id: "34"
+  parent_id: 
+  updated_at: 2011-12-22 18:32:01
+  title: Data.gov Raw Data Catalog for NASA
+data_sources_092: 
+  remote_id: "340"
+  acronym: 
+  content: Fermi is a powerful space observatory that will open a wide window on the universe. Gamma rays are the highest-energy form of light, and the gamma-ray sky is spectacularly different from the one we perceive with our own eyes. With a huge leap in all key capabilities, Fermi data will enable scientists to answer persistent questions across a broad range of topics, including supermassive black-hole systems, pulsars, the origin of cosmic rays, and searches for signals of new physics.
+  url: http://data.nasa.gov/fermi/
+  more_info_link: http://fermi.gsfc.nasa.gov/ssc/data/
+  created_at: 2011-08-26 10:23:08
+  datagov_id: 
+  id: "92"
+  parent_id: 
+  updated_at: 2011-08-29 20:58:00
+  title: Fermi
+data_sources_067: 
+  remote_id: "365"
+  acronym: 
+  content: "The NASA Image Exchange (NIX) is a collection of multimedia content from across NASA\xE2\x80\x99s missions and projects."
+  url: http://data.nasa.gov/nasa-image-exchange/
+  more_info_link: http://nix.nasa.gov
+  created_at: 2011-08-26 10:23:10
+  datagov_id: irva-tgt8
+  id: "67"
+  parent_id: 
+  updated_at: 2011-08-29 18:31:07
+  title: NASA Image Exchange (NIX)
+data_sources_044: 
+  remote_id: "389"
+  acronym: 
+  content: International Satellite Cloud Climatology Project (ISCCP) focuses on the distribution and variation of cloud radiative properties to improve the understanding of the effects of clouds on climate, the radiation budget, and the long-term global hydrologic cycle.
+  url: http://data.nasa.gov/isccp/
+  more_info_link: http://eosweb.larc.nasa.gov/PRODOCS/isccp/table_isccp.html
+  created_at: 2011-08-26 10:23:11
+  datagov_id: 
+  id: "44"
+  parent_id: 
+  updated_at: 2011-08-29 18:29:31
+  title: International Satellite Cloud Climatology Project (ISCCP)
+data_sources_026: 
+  remote_id: "556"
+  acronym: 
+  content: "The Apollo Image Atlas is a comprehensive collection of Apollo-Saturn mission photography. Included are almost 25,000 lunar images, both from orbit and from the moon\xE2\x80\x99s surface, as well as photographs of the earth, astronauts and mission hardware."
+  url: http://data.nasa.gov/apollo-image-atlas/
+  more_info_link: http://www.lpi.usra.edu/resources/apollo/
+  created_at: 2011-09-08 18:22:24
+  datagov_id: 
+  id: "26"
+  parent_id: 
+  updated_at: 2011-09-08 18:22:24
+  title: Apollo Image Atlas
+data_sources_003: 
   remote_id: "648"
-  id: "3"
-  title: Ocean Color
-  created_at: 2011-10-13 20:50:20
+  acronym: 
   content: "Satellite-derived Ocean Color Data sets from historical and currently operational NASA and International Satellite missions including the NASA Coastal Zone Color Scanner (CZCS) (1978 \xE2\x80\x93 1986), NASDA\xE2\x80\x99s Ocean Color Temperature Scanner (OCTS) (1996 \xE2\x80\x93 1997), NASA/GeoEYE Sea-viewing Wide Field-of-view Sensor (SeaWiFS) (1997 \xE2\x80\x93 2010), NASA\xE2\x80\x99s Moderate Resolution Imaging Spectroradiometer (MODIS) on both the Terra and Aqua spacecraft (2000 \xE2\x80\x93 present) and ESA\xE2\x80\x99s medium-spectral resolution, imaging spectrometer (MERIS) (2002 \xE2\x80\x93 present).\n\
     Level-1A Data Products\n\
     Level-1A products contain the raw radiance counts from all bands as well as spacecraft and instrument telemetry. Calibration and navigation data, and instrument and selected spacecraft telemetry are also included. Level-1A data are used as input for geolocation, calibration, and processing.\n\
@@ -1123,191 +411,329 @@ data_sources_003:
     Ocean Level-3 Standard Mapped Image Products\n\
     The Level-3 standard mapped image (SMI) products are image representations of binned data products generated from SeaWiFS, MODIS, OCTS or CZCS data. The data in each SMI product represents an image of the parameter specified by the global attribute Parameter. This object is a two-dimensional array of an Equidistant Cylindrical (also known as Platte Carre) projection of the globe. The values can be stored as bytes, 2-byte integers, or 4- byte floats. The first two are scaled real values and may be converted projected to geophysical values using the global attributes Scaling, Scaling Equation, Base, Slope, and Intercept.\n\
     The standard SMI products are generated from binned data products, one for each of the following geophysical parameters: chlorophyll a concentration, angstrom coefficient, normalized water-leaving radiance at each visible wavelength, aerosol optical thickness, epsilon, and diffuse attenuation coefficient at 490 nm. For MODIS, products are generated for sea surface temperature (SST), 4 micron SST (SST4) and nighttime SST (NSST). Thus, each SMI product represents data binned over the period covered by the parent product. The arithmetic mean is used in each case to obtain the values for the SMI grid points from the binned data products. Each SMI product contains one image of a geophysical parameter and is stored in one physical HDF file."
-data_sources_049: 
-  more_info_link: |
-    --- 
-    - http://mynasadata.larc.nasa.gov/
-
-  acronym: 
-  url: http://data.nasa.gov/my-nasa-data/
-  updated_at: 2011-08-29 20:51:41
-  datagov_id: |
-    --- 
-    - m4a5-k89i
-
-  parent_id: 
-  remote_id: "384"
-  id: "49"
-  title: My NASA Data
-  created_at: 2011-08-26 10:23:11
-  content: "The MY NASA DATA Project, part of NASA\xE2\x80\x99s Research Education and Applications Solutions Network, works to make NASA Earth Science data accessible to the K-12 and citizen scientist commu- nities. The principal activity of the project is to create microsets\xC2\x9D from large scientific data sets, and to wrap these with tools, lesson plans, and supporting documentation so that a teacher can use the infor- mation in the classroom."
-data_sources_026: 
-  more_info_link: |
-    --- 
-    - http://www.lpi.usra.edu/resources/apollo/
-
-  acronym: 
-  url: http://data.nasa.gov/apollo-image-atlas/
-  updated_at: 2011-09-08 18:22:24
+  url: http://data.nasa.gov/ocean-color/
+  more_info_link: http://oceancolor.gsfc.nasa.gov/
+  created_at: 2011-10-13 20:50:20
   datagov_id: 
+  id: "3"
   parent_id: 
-  remote_id: "556"
-  id: "26"
-  title: Apollo Image Atlas
-  created_at: 2011-09-08 18:22:24
-  content: "The Apollo Image Atlas is a comprehensive collection of Apollo-Saturn mission photography. Included are almost 25,000 lunar images, both from orbit and from the moon\xE2\x80\x99s surface, as well as photographs of the earth, astronauts and mission hardware."
-data_sources_084: 
-  more_info_link: 
+  updated_at: 2011-10-13 20:50:20
+  title: Ocean Color
+data_sources_077: 
+  remote_id: "355"
   acronym: 
-  url: http://data.nasa.gov/visible-earth/
-  updated_at: 2011-08-26 10:23:09
-  datagov_id: 
-  parent_id: 
-  remote_id: "348"
-  id: "84"
-  title: Visible Earth
+  content: "Earth Science data access made simple. NASA\xE2\x80\x99s role in climate variability study is centered around providing the global scale observational data sets on oceans and ice, their forcings, and the interactions with the entire Earth system."
+  url: http://data.nasa.gov/mirador-climate-variability-and-change/
+  more_info_link: http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Climate%20Variability%20and%20Change
   created_at: 2011-08-26 10:23:09
-  content: A catalog of NASA images and animations of our home planet
-data_sources_059: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/onearth/
-  updated_at: 2011-08-26 10:23:10
   datagov_id: 
+  id: "77"
   parent_id: 
-  remote_id: "374"
-  id: "59"
-  title: OnEarth
-  created_at: 2011-08-26 10:23:10
-  content: This server no longer provides full WMS services for any of the datasets. Furthermore, the MODIS daily mosaics are no longer being updated. The tiled WMS access, described in the Tiled WMS and Google Earth KML support will stay operational. This includes access to the archived of MODIS daily mosaics, which were built from 2006 to the end of 2010.
-data_sources_036: 
-  more_info_link: |
-    --- 
-    - http://explore.data.gov/catalog/apps?Dataset-Summary_Agency=National+Aeronautics+and+Space+Administration
-
-  acronym: 
-  url: http://data.nasa.gov/data-gov-apps-catalog-for-nasa/
-  updated_at: 2011-12-22 18:30:39
-  datagov_id: |
-    --- 
-    - "true"
-
-  parent_id: 
-  remote_id: "397"
-  id: "36"
-  title: Data.gov Apps Catalog for NASA
-  created_at: 2011-08-26 10:23:11
-  content: Data.gov features a tool catalog to provide the public with simple, application-driven access to Federal data with hyperlinks. This catalog features widgets, data mining and extraction tools, applications, and other services.
-data_sources_061: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/shuttle-radar-topography-mission/
-  updated_at: 2011-08-26 10:23:10
-  datagov_id: 
-  parent_id: 
-  remote_id: "372"
-  id: "61"
-  title: Shuttle Radar Topography Mission
-  created_at: 2011-08-26 10:23:10
-  content: A near-global Digital Elevation Model that allows software authors to determine the terrain height of nearly any point on Earth.
+  updated_at: 2011-09-02 18:01:51
+  title: "Mirador \xE2\x80\x93 Climate Variability and Change"
 data_sources_013: 
-  more_info_link: |
-    --- 
-    - http://www.lpi.usra.edu/resources/gc/gchome.html
-
-  acronym: 
-  url: http://data.nasa.gov/ganymede-crater-database/
-  updated_at: 2011-09-08 19:59:11
-  datagov_id: 
-  parent_id: 
   remote_id: "586"
-  id: "13"
-  title: Ganymede Crater Database
-  created_at: 2011-09-08 19:59:11
+  acronym: 
   content: This web page leads to a database of images and information about the 150 major impact craters on Ganymede and is updated semi-regularly based on continuing analysis of Voyager 2 images.
-data_sources_094: 
+  url: http://data.nasa.gov/ganymede-crater-database/
+  more_info_link: http://www.lpi.usra.edu/resources/gc/gchome.html
+  created_at: 2011-09-08 19:59:11
+  datagov_id: 
+  id: "13"
+  parent_id: 
+  updated_at: 2011-09-08 19:59:11
+  title: Ganymede Crater Database
+data_sources_054: 
+  remote_id: "379"
+  acronym: 
+  content: "PO.DAAC is an element of the Earth Observing System Data Information System (EOSDIS). PO.DAAC\xE2\x80\x99s primary responsibility is to provide distribution and archive support for NASA\xE2\x80\x99s physical oceanography missions such as TOPEX/Poseidon and SeaWinds on QuikSCAT. However, PO.DAAC additionally collaborates with other institutes to acquire complementary data products and value-added services."
+  url: http://data.nasa.gov/physical-oceanography-distributed-active-archive-center-po-daac/
   more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/aeronet-aerosol-robotic-network/
-  updated_at: 2011-08-26 10:23:08
+  created_at: 2011-08-26 10:23:10
   datagov_id: 
+  id: "54"
   parent_id: 
-  remote_id: "338"
-  id: "94"
-  title: "Aeronet: Aerosol Robotic Network"
-  created_at: 2011-08-26 10:23:08
-  content: "The AERONET (AErosol RObotic NETwork) program is a federation of ground-based remote sensing aerosol networks established by NASA and PHOTONS (Univ. of Lille 1, CNES, and CNRS-INSU) and is greatly expanded by collaborators from national agencies, institutes, universities, individual scientists, and partners. The program provides a long-term, continuous and readily accessible public domain database of aerosol optical, microphysical and radiative properties for aerosol research and characterization, validation of satellite retrievals, and synergism with other databases. The network imposes standardization of instruments, calibration, processing and distribution. "
-data_sources_071: 
-  more_info_link: 
+  updated_at: 2011-08-26 10:23:10
+  title: Physical Oceanography Distributed Active Archive Center (PO.DAAC)
+data_sources_031: 
+  remote_id: "402"
   acronym: 
-  url: http://data.nasa.gov/giovanni-atmospheric-instances/
-  updated_at: 2011-08-26 10:23:09
-  datagov_id: 
-  parent_id: 
-  remote_id: "361"
-  id: "71"
-  title: GIOVANNI Atmospheric Instances
-  created_at: 2011-08-26 10:23:09
-  content: Giovanni is a Web-based application developed by the GES DISC that provides a simple and intuitive way to visualize, analyze, and access vast amounts of Earth science remote sensing data without having to download the data. Giovanni is an acronym for the GES-DISC (Goddard Earth Sciences Data and Information Services Center) Interactive Online Visualization ANd aNalysis Infrastructure.
-data_sources_069: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/giovanni-ocean-instances/
-  updated_at: 2011-08-26 10:23:09
-  datagov_id: 
-  parent_id: 
-  remote_id: "363"
-  id: "69"
-  title: GIOVANNI Ocean Instances
-  created_at: 2011-08-26 10:23:09
-  content: Giovanni is a Web-based application developed by the GES DISC that provides a simple and intuitive way to visualize, analyze, and access vast amounts of Earth science remote sensing data without having to download the data. Giovanni is an acronym for the GES-DISC (Goddard Earth Sciences Data and Information Services Center) Interactive Online Visualization ANd aNalysis Infrastructure.
-data_sources_046: 
-  more_info_link: |
-    --- 
-    - http://eosweb.larc.nasa.gov/PRODOCS/calipso/table_calipso.html
-
-  acronym: 
-  url: http://data.nasa.gov/calipso/
-  updated_at: 2011-08-29 18:28:29
-  datagov_id: 
-  parent_id: 
-  remote_id: "387"
-  id: "46"
-  title: Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations (CALIPSO)
+  content: "The Earth Observing System Data and Information System (EOSDIS) manages and distributes data products through the Distributed Active Archive Centers (DAACs). The centers process, archive, document, and distribute data from NASA\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2s past and current research satellites and field programs. Each center serves one or more specific Earth science disciplines and provides data products, data information, services, and tools unique to its particular science."
+  url: http://data.nasa.gov/earth-observing-system-data-and-information-system-eosdis/
+  more_info_link: http://earthdata.nasa.gov/data/data-tools
   created_at: 2011-08-26 10:23:11
-  content: "Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations (CALIPSO) was launched on April 28, 2006 to study the impact of clouds and aerosols on the Earth\xE2\x80\x99s radiation budget and climate. It flies in formation with five other satellites in the international \xE2\x80\x9CA-Train\xE2\x80\x9D (PDF) constellation for coincident Earth observations. The CALIPSO satellite comprises three instruments, the Cloud-Aerosol LIdar with Orthogonal Polarization (CALIOP), the Imaging Infrared Radiometer (IIR), and the Wide Field Camera (WFC). CALIPSO is a joint satellite mission between NASA and the French Agency, CNES."
-data_sources_023: 
-  more_info_link: |
-    --- 
-    - http://www.lpi.usra.edu/resources/lunar_orbiter/
-
-  acronym: 
-  url: http://data.nasa.gov/digital-lunar-orbiter-photographic-atlas-of-the-moon/
-  updated_at: 2011-09-08 18:33:24
   datagov_id: 
+  id: "31"
   parent_id: 
-  remote_id: "563"
-  id: "23"
-  title: Digital Lunar Orbiter Photographic Atlas of the Moon
-  created_at: 2011-09-08 18:33:24
-  content: The Lunar Orbiter Photographic Atlas of the Moon is considered the definitive reference manual to the global photographic coverage of the Moon. The images contained within the atlas are excellent for studying lunar morphology because they were obtained at low to moderate Sun angles. The digital Lunar Orbiter Atlas of the Moon is a reproduction of the 675 plates contained in Bowker and Hughes. The digital archive, however, offers many improvements upon its original hardbound predecessor. Multiple search capabilities were added to the database to expedite locating images and features of interest. For accuracy and usability, surface feature information has been updated and improved. Lastly, to aid in feature identification, a companion image containing feature annotation has been included.
-data_sources_081: 
-  more_info_link: |
-    --- 
-    - http://worldwind.arc.nasa.gov
-
+  updated_at: 2011-08-29 19:45:41
+  title: Earth Observing System Data and Information System (EOSDIS)
+data_sources_087: 
+  remote_id: "345"
   acronym: 
-  url: http://data.nasa.gov/nasa-world-wind/
-  updated_at: 2011-09-10 00:01:14
-  datagov_id: |
-    --- 
-    - 6hcn-x265
-
-  parent_id: 
-  remote_id: "351"
-  id: "81"
-  title: NASA World Wind
+  content: Astrophysical Gravitational Wave Sources Archive
+  url: http://data.nasa.gov/astrogravs/
+  more_info_link: 
   created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "87"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:09
+  title: AstroGravs
+data_sources_041: 
+  remote_id: "392"
+  acronym: 
+  content: The GHRC is the data management and user services arm of the Global Hydrology and Climate Center. It encompasses the data and information management, supporting product generation, archival, and distribution of research quality and operational datasets for a variety of data types, including lightning, passive microwave, radar and others.
+  url: http://data.nasa.gov/global-hydrology-research-center/
+  more_info_link: http://ghrc.nsstc.nasa.gov/hydro/
+  created_at: 2011-08-26 10:23:11
+  datagov_id: fstr-d7km
+  id: "41"
+  parent_id: 
+  updated_at: 2011-08-29 17:45:10
+  title: Global Hydrology Research Center
+data_sources_023: 
+  remote_id: "563"
+  acronym: 
+  content: The Lunar Orbiter Photographic Atlas of the Moon is considered the definitive reference manual to the global photographic coverage of the Moon. The images contained within the atlas are excellent for studying lunar morphology because they were obtained at low to moderate Sun angles. The digital Lunar Orbiter Atlas of the Moon is a reproduction of the 675 plates contained in Bowker and Hughes. The digital archive, however, offers many improvements upon its original hardbound predecessor. Multiple search capabilities were added to the database to expedite locating images and features of interest. For accuracy and usability, surface feature information has been updated and improved. Lastly, to aid in feature identification, a companion image containing feature annotation has been included.
+  url: http://data.nasa.gov/digital-lunar-orbiter-photographic-atlas-of-the-moon/
+  more_info_link: http://www.lpi.usra.edu/resources/lunar_orbiter/
+  created_at: 2011-09-08 18:33:24
+  datagov_id: 
+  id: "23"
+  parent_id: 
+  updated_at: 2011-09-08 18:33:24
+  title: Digital Lunar Orbiter Photographic Atlas of the Moon
+data_sources_039: 
+  remote_id: "394"
+  acronym: 
+  content: "The Landsat 7 Download page provides a number of Landsat 7 scene subsets intended for use with Purdue University\xE2\x80\x99s MultiSpec software."
+  url: http://data.nasa.gov/landsat-7-data-sets/
+  more_info_link: http://l7downloads.gsfc.nasa.gov/index.htm
+  created_at: 2011-08-26 10:23:11
+  datagov_id: 
+  id: "39"
+  parent_id: 
+  updated_at: 2011-08-29 18:25:16
+  title: Landsat 7 Data Sets
+data_sources_064: 
+  remote_id: "369"
+  acronym: 
+  content: The Gateway to Astronaut Photography of Earth database of images hosts the best and most complete online collection of astronaut photographs of the Earth.
+  url: http://data.nasa.gov/gateway-to-astronaut-photography-of-earth/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:10
+  datagov_id: 
+  id: "64"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:10
+  title: Gateway to Astronaut Photography of Earth
+data_sources_074: 
+  remote_id: "358"
+  acronym: 
+  content: Earth Science data access made simple. Our weather system includes the dynamics of the atmosphere and its interaction with the oceans and land. The improvement of our understanding of weather processes and phenomena is crucial in gaining an understanding of the Earth system.
+  url: http://data.nasa.gov/mirador-weather/
+  more_info_link: http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Weather
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "74"
+  parent_id: 
+  updated_at: 2011-09-02 18:02:40
+  title: "Mirador \xE2\x80\x93 Weather"
+data_sources_049: 
+  remote_id: "384"
+  acronym: 
+  content: "The MY NASA DATA Project, part of NASA\xE2\x80\x99s Research Education and Applications Solutions Network, works to make NASA Earth Science data accessible to the K-12 and citizen scientist commu- nities. The principal activity of the project is to create microsets\xC2\x9D from large scientific data sets, and to wrap these with tools, lesson plans, and supporting documentation so that a teacher can use the infor- mation in the classroom."
+  url: http://data.nasa.gov/my-nasa-data/
+  more_info_link: http://mynasadata.larc.nasa.gov/
+  created_at: 2011-08-26 10:23:11
+  datagov_id: m4a5-k89i
+  id: "49"
+  parent_id: 
+  updated_at: 2011-08-29 20:51:41
+  title: My NASA Data
+data_sources_010: 
+  remote_id: "592"
+  acronym: 
+  content: The purpose of the Lunar Sample Compendium is to inform scientists, astronauts and the public about the various lunar samples that have been returned from the Moon. This compendium is organized rock by rock and by category.
+  url: http://data.nasa.gov/lunar-sample-compendium/
+  more_info_link: http://curator.jsc.nasa.gov/lunar/compendium.cfm
+  created_at: 2011-09-08 20:22:23
+  datagov_id: 
+  id: "10"
+  parent_id: 
+  updated_at: 2011-09-08 22:31:47
+  title: Lunar Sample Compendium
+data_sources_051: 
+  remote_id: "382"
+  acronym: 
+  content: "NASA\xE2\x80\x99s Life Sciences Data Archive (LSDA) is an active archive that provides information and data from 1961 (Mercury Project) through current flight and flight analog studies (International Space Station, Shuttle, bed rest studies, etc.) involving human, plant and animal subjects. "
+  url: http://data.nasa.gov/life-sciences-data-archive/
+  more_info_link: http://lsda.jsc.nasa.gov/
+  created_at: 2011-08-26 10:23:10
+  datagov_id: 
+  id: "51"
+  parent_id: 
+  updated_at: 2011-08-29 18:32:22
+  title: Life Sciences Data Archive (LSDA)
+data_sources_008: 
+  remote_id: "602"
+  acronym: NEN
+  content: "The Lessons Learned program delivers the agency-wide Lessons Learned Information System (LLIS) where employees can search vetted lessons and submit lessons. The program is a cornerstone of NASA as a learning organization and is supported by employees like you. NASA lessons evolve from positive and negative outcomes experienced during the course of doing NASA work. It is important to share with others across the agency\xC2\xA0\xE2\x80\x94 to avoid (if a negative outcome) or support (if a positive outcome) similar situations in the future, thus ensuring that NASA\xC2\xA0learns from past successes and mistakes."
+  url: http://data.nasa.gov/nasa-engineering-network-lessons-learned/
+  more_info_link: http://llis.nasa.gov/llis/search/home.jsp
+  created_at: 2011-09-09 15:43:18
+  datagov_id: 
+  id: "8"
+  parent_id: 
+  updated_at: 2011-09-12 15:45:50
+  title: NASA Engineering Network Lessons Learned
+data_sources_084: 
+  remote_id: "348"
+  acronym: 
+  content: A catalog of NASA images and animations of our home planet
+  url: http://data.nasa.gov/visible-earth/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "84"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:09
+  title: Visible Earth
+data_sources_018: 
+  remote_id: "573"
+  acronym: 
+  content: "The Mariner 10 Image Archive includes tools to view shaded relief maps of the surface of Mercury, a 3D globe, and all images acquired by NASA\xE2\x80\x99s Mariner 10 mission."
+  url: http://data.nasa.gov/mariner-10-image-archive/
+  more_info_link: http://ser.sese.asu.edu/M10/IMAGE_ARCHIVE/Mercury_search.html
+  created_at: 2011-09-08 18:47:03
+  datagov_id: 
+  id: "18"
+  parent_id: 
+  updated_at: 2011-09-08 18:47:03
+  title: Mariner 10 Image Archive
+data_sources_059: 
+  remote_id: "374"
+  acronym: 
+  content: This server no longer provides full WMS services for any of the datasets. Furthermore, the MODIS daily mosaics are no longer being updated. The tiled WMS access, described in the Tiled WMS and Google Earth KML support will stay operational. This includes access to the archived of MODIS daily mosaics, which were built from 2006 to the end of 2010.
+  url: http://data.nasa.gov/onearth/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:10
+  datagov_id: 
+  id: "59"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:10
+  title: OnEarth
+data_sources_020: 
+  remote_id: "569"
+  acronym: 
+  content: "The Lunar Orbiter Photo Gallery is an extensive collection of over 2,600 high- and moderate-resolution photographs produced by all five of the Lunar Orbiter missions. These photographs were taken in 1966 and 1967 to survey possible lunar landing sites and provide baseline imagery for geologic analysis of the lunar surface. The images were used to select the Apollo landing sites and to produce many of our existing lunar geologic maps. This photo gallery is the web\xE2\x80\x99s most comprehensive collection of Lunar Orbiter photography and supporting documents."
+  url: http://data.nasa.gov/lunar-orbiter-photo-gallery/
+  more_info_link: http://www.lpi.usra.edu/resources/lunarorbiter/
+  created_at: 2011-09-08 18:40:35
+  datagov_id: 
+  id: "20"
+  parent_id: 
+  updated_at: 2011-09-08 18:40:35
+  title: Lunar Orbiter Photo Gallery
+data_sources_036: 
+  remote_id: "397"
+  acronym: 
+  content: Data.gov features a tool catalog to provide the public with simple, application-driven access to Federal data with hyperlinks. This catalog features widgets, data mining and extraction tools, applications, and other services.
+  url: http://data.nasa.gov/data-gov-apps-catalog-for-nasa/
+  more_info_link: http://explore.data.gov/catalog/apps?Dataset-Summary_Agency=National+Aeronautics+and+Space+Administration
+  created_at: 2011-08-26 10:23:11
+  datagov_id: "true"
+  id: "36"
+  parent_id: 
+  updated_at: 2011-12-22 18:30:39
+  title: Data.gov Apps Catalog for NASA
+data_sources_061: 
+  remote_id: "372"
+  acronym: 
+  content: A near-global Digital Elevation Model that allows software authors to determine the terrain height of nearly any point on Earth.
+  url: http://data.nasa.gov/shuttle-radar-topography-mission/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:10
+  datagov_id: 
+  id: "61"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:10
+  title: Shuttle Radar Topography Mission
+data_sources_094: 
+  remote_id: "338"
+  acronym: 
+  content: "The AERONET (AErosol RObotic NETwork) program is a federation of ground-based remote sensing aerosol networks established by NASA and PHOTONS (Univ. of Lille 1, CNES, and CNRS-INSU) and is greatly expanded by collaborators from national agencies, institutes, universities, individual scientists, and partners. The program provides a long-term, continuous and readily accessible public domain database of aerosol optical, microphysical and radiative properties for aerosol research and characterization, validation of satellite retrievals, and synergism with other databases. The network imposes standardization of instruments, calibration, processing and distribution. "
+  url: http://data.nasa.gov/aeronet-aerosol-robotic-network/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:08
+  datagov_id: 
+  id: "94"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:08
+  title: "Aeronet: Aerosol Robotic Network"
+data_sources_071: 
+  remote_id: "361"
+  acronym: 
+  content: Giovanni is a Web-based application developed by the GES DISC that provides a simple and intuitive way to visualize, analyze, and access vast amounts of Earth science remote sensing data without having to download the data. Giovanni is an acronym for the GES-DISC (Goddard Earth Sciences Data and Information Services Center) Interactive Online Visualization ANd aNalysis Infrastructure.
+  url: http://data.nasa.gov/giovanni-atmospheric-instances/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "71"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:09
+  title: GIOVANNI Atmospheric Instances
+data_sources_069: 
+  remote_id: "363"
+  acronym: 
+  content: Giovanni is a Web-based application developed by the GES DISC that provides a simple and intuitive way to visualize, analyze, and access vast amounts of Earth science remote sensing data without having to download the data. Giovanni is an acronym for the GES-DISC (Goddard Earth Sciences Data and Information Services Center) Interactive Online Visualization ANd aNalysis Infrastructure.
+  url: http://data.nasa.gov/giovanni-ocean-instances/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "69"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:09
+  title: GIOVANNI Ocean Instances
+data_sources_046: 
+  remote_id: "387"
+  acronym: 
+  content: "Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations (CALIPSO) was launched on April 28, 2006 to study the impact of clouds and aerosols on the Earth\xE2\x80\x99s radiation budget and climate. It flies in formation with five other satellites in the international \xE2\x80\x9CA-Train\xE2\x80\x9D (PDF) constellation for coincident Earth observations. The CALIPSO satellite comprises three instruments, the Cloud-Aerosol LIdar with Orthogonal Polarization (CALIOP), the Imaging Infrared Radiometer (IIR), and the Wide Field Camera (WFC). CALIPSO is a joint satellite mission between NASA and the French Agency, CNES."
+  url: http://data.nasa.gov/calipso/
+  more_info_link: http://eosweb.larc.nasa.gov/PRODOCS/calipso/table_calipso.html
+  created_at: 2011-08-26 10:23:11
+  datagov_id: 
+  id: "46"
+  parent_id: 
+  updated_at: 2011-08-29 18:28:29
+  title: Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations (CALIPSO)
+data_sources_028: 
+  remote_id: "539"
+  acronym: WICN
+  content: "Workforce Information Cubes for NASA, sourced from NASA\xE2\x80\x99s\xC2\xA0personnel/payroll system, gives data about who is working where and on what. Includes records for every civil service employee in NASA, snapshots\xC2\xA0of workforce composition as of certain dates, and data on personnel\xC2\xA0transactions, such as hires, losses and promotions. Updates occur every 2\xC2\xA0weeks."
+  url: http://data.nasa.gov/workforce-information-cubes-for-nasa-2/
+  more_info_link: "http://wicn.nssc.nasa.gov/ "
+  created_at: 2011-09-02 17:16:48
+  datagov_id: 
+  id: "28"
+  parent_id: 
+  updated_at: 2011-09-02 17:16:48
+  title: Workforce Information Cubes for NASA
+data_sources_005: 
+  remote_id: "619"
+  acronym: GRIN
+  content: GRIN is a collection of over a thousand images of significant historical interest scanned at high-resolution in several sizes. This collection is intended for the media, publishers, and the general public looking for high-quality photographs.
+  url: http://data.nasa.gov/great-images-in-nasa/
+  more_info_link: http://grin.hq.nasa.gov/
+  created_at: 2011-09-19 06:26:13
+  datagov_id: 
+  id: "5"
+  parent_id: 
+  updated_at: 2011-09-19 06:26:13
+  title: Great Images in NASA
+data_sources_081: 
+  remote_id: "351"
+  acronym: 
   content: "World Wind, NASA\xE2\x80\x99s open source virtual globe technology, provides a rich set of features for displaying and interacting with geographic data and representing a wide range of geometric objects.\n\
     General Features\n\
     Open-source, high-performance 3D Virtual globe API and SDK\n\
@@ -1360,84 +786,436 @@ data_sources_081:
     Over 100 programming examples\n\
     API documentation\n\
     Community support forum\n"
-data_sources_079: 
-  more_info_link: |
-    --- 
-    - http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Atmospheric%20Composition
-
-  acronym: 
-  url: http://data.nasa.gov/mirador-atmospheric-composition/
-  updated_at: 2011-09-02 18:01:20
-  datagov_id: 
-  parent_id: 
-  remote_id: "353"
-  id: "79"
-  title: "Mirador \xE2\x80\x93 Atmospheric Composition"
+  url: http://data.nasa.gov/nasa-world-wind/
+  more_info_link: http://worldwind.arc.nasa.gov
   created_at: 2011-08-26 10:23:09
-  content: "Earth Science data access made simple. Atmospheric Composition is focused on the composition of Earth\xE2\x80\x99s atmosphere in relation to climate prediction, solar effects, ground emissions and time."
-data_sources_056: 
-  more_info_link: |
-    --- 
-    - http://tes.jpl.nasa.gov/data/products/
-
-  acronym: 
-  url: http://data.nasa.gov/tropospheric-emission-spectrometer-data/
-  updated_at: 2011-08-29 18:31:57
-  datagov_id: |
-    --- 
-    - k8vs-g3kt
-
+  datagov_id: 6hcn-x265
+  id: "81"
   parent_id: 
+  updated_at: 2011-09-10 00:01:14
+  title: NASA World Wind
+data_sources_079: 
+  remote_id: "353"
+  acronym: 
+  content: "Earth Science data access made simple. Atmospheric Composition is focused on the composition of Earth\xE2\x80\x99s atmosphere in relation to climate prediction, solar effects, ground emissions and time."
+  url: http://data.nasa.gov/mirador-atmospheric-composition/
+  more_info_link: http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Atmospheric%20Composition
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "79"
+  parent_id: 
+  updated_at: 2011-09-02 18:01:20
+  title: "Mirador \xE2\x80\x93 Atmospheric Composition"
+data_sources_015: 
+  remote_id: "581"
+  acronym: 
+  content: Planetary nomenclature, like terrestrial nomenclature, is used to uniquely identify a feature on the surface of a planet or satellite so that the feature can be easily located, described, and discussed. This gazetteer contains detailed information about all names of topographic and albedo features on planets and satellites (and some planetary ring and ring-gap systems) that the International Astronomical Union (IAU) has named and approved from its founding in 1919 through the present time.
+  url: http://data.nasa.gov/gazetteer-of-planetary-nomenclature/
+  more_info_link: http://planetarynames.wr.usgs.gov/
+  created_at: 2011-09-08 19:14:01
+  datagov_id: 
+  id: "15"
+  parent_id: 
+  updated_at: 2011-09-08 19:14:01
+  title: Gazetteer of Planetary Nomenclature
+data_sources_056: 
   remote_id: "377"
-  id: "56"
-  title: Tropospheric Emission Spectrometer (TES) Data
-  created_at: 2011-08-26 10:23:10
+  acronym: 
   content: "TES focuses on the troposphere, the layer of atmosphere that stretches from the ground to the altitude at which airplanes fly. With very high spectral resolution, TES can distinguish concentrations of gases at different altitudes, a key factor in understanding their behavior and impact. It\xE2\x80\x99s the first orbiting instrument able to do this with ozone, a very important chemical with regard to both global warming and air pollution.\n\
     The primary location for obtaining TES data is NASA\xE2\x80\x99s Warehouse Inventory Search Tool (WIST). The TES Data Sets page at NASA Langley Research Center (LaRC ASDC) provides access to software read tools, a Data Pool, and supporting documentation."
-data_sources_008: 
-  more_info_link: |
-    --- 
-    - http://llis.nasa.gov/llis/search/home.jsp
-
-  acronym: |
-    --- 
-    - NEN
-
-  url: http://data.nasa.gov/nasa-engineering-network-lessons-learned/
-  updated_at: 2011-09-12 15:45:50
-  datagov_id: 
+  url: http://data.nasa.gov/tropospheric-emission-spectrometer-data/
+  more_info_link: http://tes.jpl.nasa.gov/data/products/
+  created_at: 2011-08-26 10:23:10
+  datagov_id: k8vs-g3kt
+  id: "56"
   parent_id: 
-  remote_id: "602"
-  id: "8"
-  title: NASA Engineering Network Lessons Learned
-  created_at: 2011-09-09 15:43:18
-  content: "The Lessons Learned program delivers the agency-wide Lessons Learned Information System (LLIS) where employees can search vetted lessons and submit lessons. The program is a cornerstone of NASA as a learning organization and is supported by employees like you. NASA lessons evolve from positive and negative outcomes experienced during the course of doing NASA work. It is important to share with others across the agency\xC2\xA0\xE2\x80\x94 to avoid (if a negative outcome) or support (if a positive outcome) similar situations in the future, thus ensuring that NASA\xC2\xA0learns from past successes and mistakes."
+  updated_at: 2011-08-29 18:31:57
+  title: Tropospheric Emission Spectrometer (TES) Data
 data_sources_033: 
-  more_info_link: 
-  acronym: 
-  url: http://data.nasa.gov/nasaipac-infrared-science-archive/
-  updated_at: 2011-08-26 10:23:11
-  datagov_id: 
-  parent_id: 
   remote_id: "400"
-  id: "33"
-  title: NASA/IPAC Infrared Science Archive
-  created_at: 2011-08-26 10:23:11
+  acronym: 
   content: |-
     IRSA is chartered to curate the calibrated science products from NASAs infrared and sub-millimeter missions, including five major large-area/all-sky surveys. IRSA data sets are cited in about 10% of astronomical refereed papers.
     IRSA offers access to digital archives through powerful query engines, including VO-compliant interfaces, and offers unique tools such as the IRAS scan processing tool Scanpi. IRSA exploits a re-useable architecture to deploy cost-effective archives for customers, including: the Spitzer Space Telescope; the 2MASS and IRAS all-sky surveys; and multi-mission datasets such as COSMOS. In the near future, IRSA will serve public data from the WISE all-sky survey and the Planck mission.
-data_sources_010: 
-  more_info_link: |
-    --- 
-    - http://curator.jsc.nasa.gov/lunar/compendium.cfm
-
-  acronym: 
-  url: http://data.nasa.gov/lunar-sample-compendium/
-  updated_at: 2011-09-08 22:31:47
+  url: http://data.nasa.gov/nasaipac-infrared-science-archive/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:11
   datagov_id: 
+  id: "33"
   parent_id: 
-  remote_id: "592"
-  id: "10"
-  title: Lunar Sample Compendium
-  created_at: 2011-09-08 20:22:23
-  content: The purpose of the Lunar Sample Compendium is to inform scientists, astronauts and the public about the various lunar samples that have been returned from the Moon. This compendium is organized rock by rock and by category.
+  updated_at: 2011-08-26 10:23:11
+  title: NASA/IPAC Infrared Science Archive
+data_sources_091: 
+  remote_id: "341"
+  acronym: 
+  content: Plotted images and a dataset for getting underlying coordinate data of extratropical storms.
+  url: http://data.nasa.gov/atlas-of-extratropical-storm-tracks/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:08
+  datagov_id: 
+  id: "91"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:08
+  title: Atlas of Extratropical Storm Tracks
+data_sources_089: 
+  remote_id: "343"
+  acronym: 
+  content: "The CEOS IDN is an international effort developed to assist researchers in locating information on available datasets and services.  The directory is sponsored as a service to the Earth science community. "
+  url: http://data.nasa.gov/ceos-international-directory-portal/
+  more_info_link: http://idn.ceos.org/portals/Home.do?Portal=idn_ceos&MetadataType=0
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "89"
+  parent_id: 
+  updated_at: 2011-08-29 20:53:32
+  title: Committee on Earth Observation Satellites (CEOS) International Directory Portal
+data_sources_043: 
+  remote_id: "390"
+  acronym: 
+  content: "The Multi-angle Imaging SpectroRadiometer (MISR) was successfully launched into sun-synchronous polar orbit aboard Terra, NASA\xE2\x80\x99s first Earth Observing System (EOS) spacecraft, on December 18, 1999. MISR measurements are designed to improve our understanding of the Earth\xE2\x80\x99s environment and climate. Viewing the sunlit Earth simultaneously at nine widely-spaced angles, MISR provides radiometrically and geometrically calibrated images in four spectral bands at each of the angles. Spatial sampling of 275 and 1100 meters is provided on a global basis. "
+  url: http://data.nasa.gov/misr/
+  more_info_link: http://eosweb.larc.nasa.gov/PRODOCS/misr/table_misr.html
+  created_at: 2011-08-26 10:23:11
+  datagov_id: 
+  id: "43"
+  parent_id: 
+  updated_at: 2011-08-29 18:29:58
+  title: Multi-angle Imaging SpectroRadiometer (MISR)
+data_sources_025: 
+  remote_id: "558"
+  acronym: 
+  content: "Apollo Surface Panoramas is a digital library of photographic panoramas that the Apollo astronauts took while exploring the Moon\xE2\x80\x99s surface. These images provide a spectacular boots-on-the-ground view of the lunar landscape. The panoramas are stitched together from individual 70mm Hasselblad frames, each of which is also accessible through this new atlas. Lunar surface features captured in the panoramas can be studied using zoom and pan tools. An annotated version of each panorama is also available to assist users with the identification of major geographic features around each Apollo landing site."
+  url: http://data.nasa.gov/apollo-surface-panoramas/
+  more_info_link: http://www.lpi.usra.edu/resources/apollopanoramas/
+  created_at: 2011-09-08 18:24:53
+  datagov_id: 
+  id: "25"
+  parent_id: 
+  updated_at: 2011-09-08 18:24:53
+  title: Apollo Surface Panoramas
+data_sources_002: 
+  remote_id: "653"
+  acronym: SDO
+  content: "A searchable database of all Solar Dynamics Observatory data including EUV, magnetograms, visible light and X-ray.\n\
+    SDO: The Solar Dynamics Observatory is the first mission to be launched for NASA\xE2\x80\x99s Living With a Star (LWS) Program, a program designed to understand the causes of solar variability and its impacts on Earth. SDO is designed to help us understand the Sun\xE2\x80\x99s influence on Earth and Near-Earth space by studying the solar atmosphere on small scales of space and time and in many wavelengths simultaneously.\n\
+    SDO\xE2\x80\x99s goal is to understand, driving towards a predictive capability, the solar variations that influence life on Earth and humanity\xE2\x80\x99s technological systems by determining how the Sun\xE2\x80\x99s magnetic field is generated and structured and how this stored magnetic energy is converted and released into the heliosphere and geospace in the form of solar wind, energetic particles, and variations in the solar irradiance."
+  url: http://data.nasa.gov/sdo/
+  more_info_link: http://sdo.gsfc.nasa.gov/data/
+  created_at: 2011-11-22 02:00:09
+  datagov_id: 
+  id: "2"
+  parent_id: 
+  updated_at: 2011-11-22 02:00:09
+  title: Solar Dynamics Observatory
+data_sources_066: 
+  remote_id: "367"
+  acronym: 
+  content: "The NTRS is a valuable resource for researchers, students, educators, and the public to access NASA\xE2\x80\x99s current and historical technical literature and engineering results. Over 500,000 aerospace-related citations, over 200,000 full-text online documents, and over 500,000 images and videos are available. NTRS content continues to grow as new scientific and technical information (STI) is created or funded by NASA. The types of information found in the NTRS include: conference papers, journal articles, meeting papers, patents, research reports, images, movies, and technical videos. "
+  url: http://data.nasa.gov/nasa-technical-reports-server/
+  more_info_link: http://ntrs.nasa.gov/search.jsp
+  created_at: 2011-08-26 10:23:10
+  datagov_id: 
+  id: "66"
+  parent_id: 
+  updated_at: 2011-08-29 18:31:30
+  title: NASA Technical Reports Server (NTRS)
+data_sources_076: 
+  remote_id: "356"
+  acronym: 
+  content: Earth Science data access made simple. The goal of the Earth Surface and Interior focus area is to assess, mitigate and forecast the natural hazards that affect society, including earthquakes, landslides, coastal and interior erosion, floods and volcanic eruptions.
+  url: http://data.nasa.gov/mirador-earth-surface-and-interior/
+  more_info_link: http://mirador.gsfc.nasa.gov/cgi-bin/mirador/presentNavigation.pl?tree=scienceArea&scienceArea=Earth%20Surface%20and%20Interior
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "76"
+  parent_id: 
+  updated_at: 2011-09-02 18:02:07
+  title: "Mirador \xE2\x80\x93 Earth Surface and Interior"
+data_sources_012: 
+  remote_id: "588"
+  acronym: 
+  content: This web page leads to a database of images and information about the 900 or so impact craters on the surface of Venus by diameter, latitude, and name.
+  url: http://data.nasa.gov/venus-crater-database/
+  more_info_link: http://www.lpi.usra.edu/resources/vc/vchome.html
+  created_at: 2011-09-08 20:00:33
+  datagov_id: 
+  id: "12"
+  parent_id: 
+  updated_at: 2011-09-09 14:16:56
+  title: Venus Crater Database
+data_sources_053: 
+  remote_id: "380"
+  acronym: 
+  content: The Warehouse Inventory Search tool is a Web-based search-and-order tool that provides a way for users to search for Earth Science data from multiple participating archives.
+  url: http://data.nasa.gov/warehouse-inventory-search-tool/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:10
+  datagov_id: 
+  id: "53"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:10
+  title: Warehouse Inventory Search Tool
+data_sources_030: 
+  remote_id: "529"
+  acronym: 
+  content: "SPICE is used throughout the life cycle of NASA planetary science missions to help scientists and engineers design missions, plan scientific observations, analyze science data and conduct various engineering functions associated with flight projects. The primary SPICE data sets are often called \xE2\x80\x9Ckernels\xE2\x80\x9D or \xE2\x80\x9Ckernel files.\xE2\x80\x9D SPICE kernels are composed of navigation and other ancillary information that has been structured and formatted for easy access and correct use by the planetary science and engineering communities."
+  url: http://data.nasa.gov/navigation-and-ancillary-information-facilitys-spice/
+  more_info_link: http://naif.jpl.nasa.gov/naif/data.html
+  created_at: 2011-08-31 19:47:26
+  datagov_id: 
+  id: "30"
+  parent_id: 
+  updated_at: 2011-08-31 19:47:26
+  title: "Navigation and Ancillary Information Facility\xE2\x80\x99s SPICE"
+data_sources_086: 
+  remote_id: "346"
+  acronym: 
+  content: "MODIS (or Moderate Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (EOS AM) and Aqua (EOS PM) satellites. Terra\xE2\x80\x99s orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. Terra MODIS and Aqua MODIS are viewing the entire Earth\xE2\x80\x99s surface every 1 to 2 days, acquiring data in 36 spectral bands, or groups of wavelengths (see MODIS Technical Specifications). This map shows the temperature of Earth\xE2\x80\x99s lands during the nighttime. "
+  url: http://data.nasa.gov/land-surface-temperature-at-night/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "86"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:09
+  title: Land Surface Temperature at Night
+data_sources_040: 
+  remote_id: "393"
+  acronym: 
+  content: Low resolution terrain imagery.
+  url: http://data.nasa.gov/landsat-2000/
+  more_info_link: https://zulu.ssc.nasa.gov/mrsid/
+  created_at: 2011-08-26 10:23:11
+  datagov_id: 
+  id: "40"
+  parent_id: 
+  updated_at: 2011-08-29 18:23:23
+  title: Landsat 2000
+data_sources_022: 
+  remote_id: "565"
+  acronym: 
+  content: "The Lunar Map Catalog includes various maps of the moon\xE2\x80\x99s surface, including Apollo landing sites; earthside, farside, and polar charts; photography index maps; zone mosaics; shaded relief; topographic; and a geologic atlas."
+  url: http://data.nasa.gov/lunar-map-catalog/
+  more_info_link: http://www.lpi.usra.edu/resources/mapcatalog/
+  created_at: 2011-09-08 18:36:45
+  datagov_id: 
+  id: "22"
+  parent_id: 
+  updated_at: 2011-09-08 18:36:45
+  title: Lunar Map Catalog
+data_sources_038: 
+  remote_id: "395"
+  acronym: 
+  content: "The Earth Observatory\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2s mission is to share with the public the images, stories, and discoveries about climate and the environment that emerge from NASA research, including its satellite missions, in-the-field research, and climate models."
+  url: http://data.nasa.gov/earth-observatory/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:11
+  datagov_id: 
+  id: "38"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:11
+  title: Earth Observatory
+data_sources_063: 
+  remote_id: "370"
+  acronym: 
+  content: ECCO was established in 1998 as part of the World Ocean Circulation Experiment (WOCE) with the goal of combining a general circulation model (GCM) with diverse observations in order to produce a quantitative depiction of the time-evolving global ocean state.
+  url: http://data.nasa.gov/jpl-ecco-ocean-data-assimilation/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:10
+  datagov_id: 
+  id: "63"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:10
+  title: JPL Ecco Ocean Data Assimilation
+data_sources_096: 
+  remote_id: 
+  acronym: 
+  content: The Kepler Planet Candidate Data Explorer gives you access to the latest set of Kepler planet candidates. The Kepler spacecraft has the most exquisitely sensitive light sensor (photometer) ever launched into space, monitoring over 150,000 stars simultaneously, to detect drops in starlight caused by transiting planets. To find out more about the Kepler mission, see the Kepler website.
+  url: http://planetquest.jpl.nasa.gov/kepler/table
+  more_info_link: http://planetquest.jpl.nasa.gov/kepler/
+  created_at: 
+  datagov_id: 
+  id: "96"
+  parent_id: "668"
+  updated_at: 
+  title: Kepler Planet Candidate Data Explorer
+data_sources_073: 
+  remote_id: "359"
+  acronym: 
+  content: "The Planetary Data System (PDS) is an archive of data products from NASA planetary missions, which is sponsored by NASA\xE2\x80\x99s Science Mission Directorate. We actively manage the archive to maximize its usefulness, and it has become a basic resource for scientists around the world."
+  url: http://data.nasa.gov/planetary-data-system/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "73"
+  parent_id: 
+  updated_at: 2011-09-08 18:17:03
+  title: Planetary Data System
+data_sources_048: 
+  remote_id: "385"
+  acronym: 
+  content: This site provides access to the software read tools, a data pool, and supporting documentation for the Tropospheric Emission Spectrometer. TES is a high-resolution imaging infrared Fourier-transform spectrometer that operates in both nadir and limb-sounding modes. TES global survey standard products include profile measurements of ozone, water vapor, carbon monoxide, methane, nitrogen dioxide, and nitric acid for 16 orbits every other day. TES Special Observations are research measurements of targeted locations or regional transects which are used to observe specific phenomena or to support local or aircraft validation campaigns.
+  url: http://data.nasa.gov/tes-data-and-information/
+  more_info_link: http://eosweb.larc.nasa.gov/PRODOCS/tes/table_tes.html
+  created_at: 2011-08-26 10:23:11
+  datagov_id: 
+  id: "48"
+  parent_id: 
+  updated_at: 2011-08-29 18:27:58
+  title: Tropospheric Emission Spectrometer (TES) Data and Information
+data_sources_050: 
+  remote_id: "383"
+  acronym: 
+  content: Earth+ makes NASA satellite photos and data accessible to blind students.
+  url: http://data.nasa.gov/earthplus/
+  more_info_link: http://prime.jsc.nasa.gov/earthplus/
+  created_at: 2011-08-26 10:23:10
+  datagov_id: 
+  id: "50"
+  parent_id: 
+  updated_at: 2011-09-02 13:31:57
+  title: Earth+
+data_sources_007: 
+  remote_id: "613"
+  acronym: 
+  content: "NASA makes annual reports of progress made on Freedom of Information Act (FOIA) requests. This\xC2\xA0database\xC2\xA0contains PDF and XML versions of reports from 1999 to the present."
+  url: http://data.nasa.gov/annual-freedom-of-information-act-foia-reports/
+  more_info_link: http://www.hq.nasa.gov/pao/FOIA/report.htm
+  created_at: 2011-09-13 18:50:55
+  datagov_id: 
+  id: "7"
+  parent_id: 
+  updated_at: 2011-09-13 18:50:55
+  title: Annual Freedom of Information Act (FOIA) Reports
+data_sources_083: 
+  remote_id: "349"
+  acronym: 
+  content: "The High Energy Astrophysics Science Archive Research Center (HEASARC) is the primary archive for NASA missions dealing with extremely energetic phenomena, from black holes to the Big Bang. "
+  url: http://data.nasa.gov/high-energy-astrophysics-science-archive-research-center/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "83"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:09
+  title: High Energy Astrophysics Science Archive Research Center
+data_sources_017: 
+  remote_id: "575"
+  acronym: 
+  content: View detailed images of the planets, the sun, small bodies, and the Universe from various NASA exploration programs.
+  url: http://data.nasa.gov/jpl-photojournal/
+  more_info_link: http://photojournal.jpl.nasa.gov/
+  created_at: 2011-09-08 18:59:58
+  datagov_id: 
+  id: "17"
+  parent_id: 
+  updated_at: 2011-09-08 19:00:24
+  title: JPL Photojournal
+data_sources_058: 
+  remote_id: "375"
+  acronym: 
+  content: "The JPL Tropical Cyclone Information System (TCIS) brings together satellite and in situ data sets from various sources to help you find information for a particular tropical cyclone over the world\xE2\x80\x99s oceans."
+  url: http://data.nasa.gov/jpl-tropical-cyclone-information-system/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:10
+  datagov_id: 
+  id: "58"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:10
+  title: JPL Tropical Cyclone Information System
+data_sources_035: 
+  remote_id: "398"
+  acronym: 
+  content: ""
+  url: http://data.nasa.gov/data-gov-geodata-catalog-for-nasa/
+  more_info_link: http://www.data.gov/catalog/geodata/category/0/agency/183/filter//sort//page/1/count/10
+  created_at: 2011-08-26 10:23:11
+  datagov_id: "true"
+  id: "35"
+  parent_id: 
+  updated_at: 2011-12-22 18:31:50
+  title: Data.gov GeoData Catalog for NASA
+data_sources_060: 
+  remote_id: "373"
+  acronym: 
+  content: "Planet Counter: Keep track of the latest planet discoveries on your desktop."
+  url: http://data.nasa.gov/planet-quest/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:10
+  datagov_id: 
+  id: "60"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:10
+  title: Planet Quest
+data_sources_093: 
+  remote_id: "339"
+  acronym: 
+  content: "The National Space Science Data Center serves as the permanent archive for NASA space science mission data. \xE2\x80\x9CSpace science\xE2\x80\x9D means astronomy and astrophysics, solar and space plasma physics, and planetary and lunar science. As permanent archive, NSSDC teams with NASA\xE2\x80\x99s discipline-specific space science \xE2\x80\x9Cactive archives\xE2\x80\x9D which provide access to data to researchers and, in some cases, to the general public. Search by event, spacecraft, experiment, map, or publication query. NSSDC is part of the Solar System Exploration Data Services Office (SSEDSO) in the Solar System Exploration Division at NASA\xE2\x80\x99s Goddard Space Flight Center in Greenbelt, MD."
+  url: http://data.nasa.gov/national-space-science-data-center-master-catalog/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:08
+  datagov_id: 
+  id: "93"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:08
+  title: National Space Science Data Center Master Catalog
+data_sources_070: 
+  remote_id: "362"
+  acronym: 
+  content: Giovanni is a Web-based application developed by the GES DISC that provides a simple and intuitive way to visualize, analyze, and access vast amounts of Earth science remote sensing data without having to download the data. Giovanni is an acronym for the GES-DISC (Goddard Earth Sciences Data and Information Services Center) Interactive Online Visualization ANd aNalysis Infrastructure.
+  url: http://data.nasa.gov/giovanni-environmental-instances/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "70"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:09
+  title: GIOVANNI Environmental Instances
+data_sources_068: 
+  remote_id: "364"
+  acronym: 
+  content: Giovanni is a Web-based application developed by the GES DISC that provides a simple and intuitive way to visualize, analyze, and access vast amounts of Earth science remote sensing data without having to download the data. Giovanni is an acronym for the GES-DISC (Goddard Earth Sciences Data and Information Services Center) Interactive Online Visualization ANd aNalysis Infrastructure.
+  url: http://data.nasa.gov/giovanni-hydrology-instances/
+  more_info_link: 
+  created_at: 2011-08-26 10:23:09
+  datagov_id: 
+  id: "68"
+  parent_id: 
+  updated_at: 2011-08-26 10:23:09
+  title: GIOVANNI Hydrology Instances
+data_sources_045: 
+  remote_id: "388"
+  acronym: 
+  content: "The Clouds and the Earth\xE2\x80\x99s Radiant Energy System (CERES) is a key component of the Earth Observing System (EOS) program. The CERES instruments provide radiometric measurements of the Earth\xE2\x80\x99s atmosphere from three broadband channels. The CERES missions are a follow-on to the successful Earth Radiation Budget Experiment (ERBE) mission. The first CERES instrument (PFM) was launched on November 27, 1997 as part of the Tropical Rainfall Measuring Mission (TRMM). Two CERES instruments (FM1 and FM2) were launched into polar orbit on board the EOS flagship Terra on December 18, 1999, and two additional CERES instruments (FM3 and FM4) were launched on board EOS Aqua on May 4, 2002."
+  url: http://data.nasa.gov/ceres/
+  more_info_link: http://eosweb.larc.nasa.gov/PRODOCS/ceres/table_ceres.html
+  created_at: 2011-08-26 10:23:11
+  datagov_id: 
+  id: "45"
+  parent_id: 
+  updated_at: 2011-08-29 18:29:01
+  title: "Clouds and the Earth\xE2\x80\x99s Radiant Energy System (CERES)"
+data_sources_027: 
+  remote_id: "552"
+  acronym: 
+  content: "SERVIR is a Spanish acronym for \xE2\x80\x9CRegional Visualization and Monitoring System.\xE2\x80\x9D The\xC2\xA0SERVIR project enables the use of Earth observations and predictive models for timely decision making through regional platforms in Mesoamerica, East Africa, and the Hindu-Kush Himalayas. \xC2\xA0The SERVIR project was initially developed by NASA, the US Agency for International Development, the World Bank, the Central American Commission for Environment and Development (CCAD), and the Water Center for the Humid Tropics of Latin America and the Caribbean (CATHALAC) in 2005. \xC2\xA0 In 2008, the Regional Center for Mapping of Resources for Development (RCMRD) in Nairobi, Kenya, joined the SERVIR project, and in 2010, SERVIR inaugurated its third hub at the International Centre for Integrated Mountain Development (ICIMOD) in Kathmandu, Nepal. \xC2\xA0 SERVIR also stands for the Spanish verb \xE2\x80\x9Cto serve,\xE2\x80\x9D which is what the project aims to do in terms of providing improved access to data and knowledge for decision-making."
+  url: http://data.nasa.gov/servir-global-data-catalog/
+  more_info_link: http://www.servirglobal.net/en/Home.aspx
+  created_at: 2011-09-06 20:27:25
+  datagov_id: 
+  id: "27"
+  parent_id: 
+  updated_at: 2011-09-12 15:45:54
+  title: SERVIR Global Data Catalog
+data_sources_004: 
+  remote_id: "626"
+  acronym: NEX
+  content: The NASA Earth Exchange (NEX) represents a new platform for the Earth science community that provides a mechanism for scientific collaboration and knowledge sharing. NEX combines state-of-the-art supercomputing, Earth system modeling, workflow management, NASA remote sensing data feeds, and a knowledge sharing platform to deliver a complete work environment in which users can explore and analyze large datasets, run modeling codes, collaborate on new or existing projects, and quickly share results among the Earth Science communities.
+  url: http://data.nasa.gov/nasa-earth-exchange/
+  more_info_link: https://c3.nasa.gov/nex/
+  created_at: 2011-10-12 15:05:59
+  datagov_id: 
+  id: "4"
+  parent_id: 
+  updated_at: 2011-10-12 19:31:58
+  title: NASA Earth Exchange
